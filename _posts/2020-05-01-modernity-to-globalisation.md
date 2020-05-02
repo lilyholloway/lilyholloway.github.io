@@ -81,7 +81,7 @@ japanese prints fall into ear holes while we sleep sideways
 
 sleep cut between tablecloth and the hand on the pavement
 
-constructing an imaginary end to expiration<br>
+constructing an imaginary end to expiration<br><br>
 
 
 <em>This poem was originally published in <a href="https://www.thethreelamps.com/article/lily-holloway?publication=spring-2019">The Spinoff</a> 18th October 2019.</em>
