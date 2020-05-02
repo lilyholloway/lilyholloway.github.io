@@ -8,7 +8,7 @@ google_analytics: # Set tracking, remove from /javascripts/basic.js if unwanted.
 share:            false # Turn on twitter and facebook share buttons
 
 links:
-  - name:         Posts
+  - name:         Poems
     url:          /
     external:     false
   - name:         About me
