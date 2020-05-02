@@ -2,7 +2,7 @@
 layout: post
 title: modernity to globalisation
 date: 2019-05-02 
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+description: modernity to globalisation (Poem)
 img:  # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Poetry, The Spinoff]
