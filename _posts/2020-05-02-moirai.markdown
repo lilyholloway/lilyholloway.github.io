@@ -2,7 +2,7 @@
 layout: post
 title: moirai
 date: 2020-05-02
-description: moirai (Poem published in The Tree Lamps)
+description: moirai (Poem published in The Three Lamps)
  # Add image post (optional)
 tags: [Poetry, The Three Lamps] # add tag
 ---
