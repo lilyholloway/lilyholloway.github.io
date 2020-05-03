@@ -1,7 +1,7 @@
 ---
 layout: post
 title: modernity to globalisation
-date: 2019-05-02 
+date: 2020-05-02 
 description: modernity to globalisation (Poem published in The Spinoff)
 img:  # Add image post (optional)
 fig-caption: # Add figcaption (optional)
