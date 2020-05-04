@@ -10,10 +10,6 @@ tags: [Poetry, The Three Lamps, Divine Muses]
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
-* {
-  box-sizing: border-box;
-}
-
 .row {
   display: flex;
 }
@@ -22,7 +18,6 @@ tags: [Poetry, The Three Lamps, Divine Muses]
 .column {
   flex: 50%;
   padding: 10px;
-  height: 300px; /* Should be removed. Only for demonstration */
 }
 </style>
 </head>
