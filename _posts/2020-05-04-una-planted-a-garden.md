@@ -7,6 +7,16 @@ img:  # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Poetry, The Three Lamps, Divine Muses]
 ---
+.row {
+  display: flex;
+}
+
+/* Create two equal columns that sits next to each other */
+.column {
+  flex: 50%;
+  padding: 10px;
+}
+</style>
 
 <div class="row">
   <div class="column" style="background-color:#aaa;">
