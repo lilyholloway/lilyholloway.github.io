@@ -31,7 +31,7 @@ tags: [Poetry, The Three Lamps, Divine Muses]
 <em>This poem recieved Highly Commended at the <a href="http://artagent.co.nz/poetry/2019/poetry2019.htm/">2019 Divine Muses New Voices - Emerging Poets Competition</a>.</em><br>
 
 <em>Judges’ comments: </em>
-><em>"[...] dances in its evocation of a rich, fertile, bursting space that brims with life. The experimentation with form immediately intrigued me, with squat mirroring stanzas, almost like a call and response, reflecting the choric notes of the birds flitting throughout. This was an accomplished, primal, vital, buzzing poem that I thoroughly enjoyed."</em>
+><em>"</em>una planted a garden <em>[...] dances in its evocation of a rich, fertile, bursting space that brims with life. The experimentation with form immediately intrigued me, with squat mirroring stanzas, almost like a call and response, reflecting the choric notes of the birds flitting throughout. This was an accomplished, primal, vital, buzzing poem that I thoroughly enjoyed."</em>
 
 <em>This poem was originally published in <a href="https://www.thethreelamps.com/article/lily-holloway?publication=spring-2019">The Three Lamps</a>.</em>
 
