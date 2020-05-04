@@ -83,7 +83,7 @@ sleep cut between tablecloth and the hand on the pavement
 
 constructing an imaginary end to expiration<br><br>
 
--
+-<br>
 <em>This poem was originally published in <a href="https://thespinoff.co.nz/books/18-10-2019/the-friday-poem-modernity-to-globalisation-by-lily-holloway/">The Spinoff</a> on 18th October 2019.</em>
 
 
