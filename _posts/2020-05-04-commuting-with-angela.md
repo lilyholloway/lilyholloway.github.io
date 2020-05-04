@@ -11,6 +11,6 @@ tags: [Poetry, NZ Given Words]
 
 <em>This poem was the 2019 winner of Best Poem in the <a href="http://nzgivenwords.blogspot.com/2019/">NZ Given Words Competition</a>. All the entries had to contain the words: solitude, pulse, moving, circles and self-acceptance.</em>
 
->"the poem that stood out for us is commuting with angela, which hooked us emotionally us with its visual presentation echoing the creatures, ‘those grey spotted tongues’, that frame the narrative, along with the multiple details and references that add a sense of place and time, and link the personal and the universal"
+><em>"the poem that stood out for us is</em> commuting with angela<em>, which hooked us emotionally us with its visual presentation echoing the creatures, ‘those grey spotted tongues’, that frame the narrative, along with the multiple details and references that add a sense of place and time, and link the personal and the universal"</em>
 
 
