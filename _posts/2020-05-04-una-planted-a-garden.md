@@ -70,7 +70,7 @@ tags: [Poetry, The Three Lamps, Divine Muses]
 </div>
 
 -<br>
-<em>This poem recieved Highly Commended at the 2019 Divine Muses New Voices - Emerging Poets Competition.</em><br>
+<em>This poem recieved Highly Commended in the 2019 Divine Muses New Voices - Emerging Poets Competition.</em><br>
 
 <em>Judge's comments: </em>
 ><em>&ldquo;</em>una planted a garden <em>[...] dances in its evocation of a rich, fertile, bursting space that brims with life. The experimentation with form immediately intrigued me, with squat mirroring stanzas, almost like a call and response, reflecting the choric notes of the birds flitting throughout. This was an accomplished, primal, vital, buzzing poem that I thoroughly enjoyed."</em>
