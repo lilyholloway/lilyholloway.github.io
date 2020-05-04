@@ -7,6 +7,7 @@ img:  # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Poetry, The Three Lamps, Divine Muses]
 ---
+<style>
 .row {
   display: flex;
 }
