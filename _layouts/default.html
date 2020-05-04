@@ -15,7 +15,7 @@
       <a href="{{ site.url }}" style="color:grey; text-decoration:none"><font size="+3"><p>{{ site.title }}</p></font></a>
     </header>
     <div class="mw7 bg-white mt4 mb3 center br2-ns bt bb ba-ns b--light-gray">
-      <nav class="bb b--light-gray pv4 tc" aria-label="Main">
+      <nav class="bb #888888 pv4 tc" aria-label="Main">
         {% for link in site.links %}
           <a class="link b--light-gray hover-mid-gray mh2 pv1"
              href="{% unless link.external %}{{ site.url }}{% endunless %}{{ link.url }}">
