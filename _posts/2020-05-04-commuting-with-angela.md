@@ -14,4 +14,5 @@ tags: [Poetry, NZ Given Words]
 <em>Judges’ comments: </em>
 ><em>"the poem that stood out for us is</em> commuting with angela<em>, which hooked us emotionally us with its visual presentation echoing the creatures, ‘those grey spotted tongues’, that frame the narrative, along with the multiple details and references that add a sense of place and time, and link the personal and the universal"</em>
 
+<em>The poem has also been translated into Spanish for <a href="https://libropalabrasprestadas.blogspot.com/2019/11/dia-nacional-de-la-poesia-nueva-zelanda.html">Palabras Prestadas</a>.</em>
 
