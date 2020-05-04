@@ -7,6 +7,8 @@ img:  # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Poetry, The Three Lamps, Divine Muses]
 ---
+	<html><head><meta http-equiv="Content-Type" content="text/html;charset=utf-8" /><link href="/stylesheets/unaplantedagarden.css" rel="stylesheet" type="text/css" /><title>Unknown</title></head><body><div class="calibre" id="calibre_link-0">
+	<p class="block_">una planted a garden</p>
 	<p class="block_1">hide under tables</p>
 	<p class="block_2">clutch matriarch calves</p>
 	<p class="block_2">within temple of vine and moss</p>
@@ -48,6 +50,10 @@ tags: [Poetry, The Three Lamps, Divine Muses]
 	<p class="block_2">swooping seeking</p>
 	<p class="block_2">bugs</p>
 	<p class="block_2">stirred up by our shoes</p>
+
+</div>
+
+</body></html>
 
 -<br>
 <em>This poem recieved Highly Commended at the <a href="http://artagent.co.nz/poetry/2019/poetry2019.htm/">2019 Divine Muses New Voices - Emerging Poets Competition</a>.</em><br>
