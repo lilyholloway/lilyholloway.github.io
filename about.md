@@ -4,4 +4,4 @@ Lily is in the final year of her Bachelor of Arts, majoring in English and Ancie
 
 Lily is based in Auckland, New Zealand.
 
-Contact her <a href="mailto:lily.holloway@gmail.com">here</a>.
+Contact her <a href="mailto:hello@lilyholloway.co.nz">here</a>.
