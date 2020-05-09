@@ -15,6 +15,7 @@ description: Publications and Awards
 Happily Ever After: Life After the Ring (Interesting Journal Edition 9, 2019)<br>
 <a href="https://lilyholloway.co.nz/posts/Flying">Flying</a> (Mindfood, November 2019)<br>
 <a href="http://www.craccum.co.nz/?p=2497">News: Meat Club Butchers O-Week Campaign with Bull-Headed Tee-Shirts</a> (Craccum Issue 3, 2018)<br>
+<a href="https://www.stuff.co.nz/auckland/local-news/north-shore-times/84029761/opinionmaker-rents-racism-getting-around--head-girl-lists-priorities-for-auckland-post-local-elections">Opinion-maker: Rents, racism, getting around - head girl lists priorities for Auckland post local elections</a> (Stuff, September 2016)
 
 <b>Writing Awards</b><br>
 2019 Best Poem in Given Words National Poetry Day Competition<br>
