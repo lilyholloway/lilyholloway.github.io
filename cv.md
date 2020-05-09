@@ -14,8 +14,9 @@ description: Publications and Awards
 
 <b>Other Writing</b><br>
 Happily Ever After: Life After the Ring (Interesting Journal Edition 9, 2019)<br>
-<a href="https://lilyholloway.co.nz/posts/Flying">Flying</a> (Mindfood, November 2019)<br>
 <a href="https://poetrysociety.org.nz/lost-and-somewhere-else-by-jenny-bornholdt/">Review of Lost and Somewhere Else by Jenny Bornholdt</a> (NZPS Poetry Micro-reviews, 2020) 
+<a href="https://lilyholloway.co.nz/posts/Flying">Flying</a> (Mindfood, November 2019)<br>
+
 
 <b>Writing Awards</b><br>
 2019 Best Poem in Given Words National Poetry Day Competition<br>
