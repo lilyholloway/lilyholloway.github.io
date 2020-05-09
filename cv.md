@@ -1,4 +1,10 @@
-Publications<br>
+---
+layout: post
+title: Publications
+date: 2020-05-02 
+description: Publications and Awards
+
+---
 
 Poems<br>
 <a href="https://www.thethreelamps.com/article/lily-holloway?publication=spring-2019">Three Poems</a> (Three Lamps, Spring 2019)<br>
