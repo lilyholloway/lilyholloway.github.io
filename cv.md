@@ -1,7 +1,5 @@
 ---
-layout: post
 title: Publications
-date: 2020-05-02 
 description: Publications and Awards
 
 ---
