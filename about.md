@@ -4,4 +4,4 @@ Lily Holloway is in the final year of her Bachelor of Arts, majoring in English 
 
 Lily is based in Auckland, New Zealand.
 
-Contact her <a href="mailto:hello@lilyholloway.co.nz">here</a>.
+Contact her at <a href="mailto:hello@lilyholloway.co.nz">hello@lilyholloway.co.nz</a>.
