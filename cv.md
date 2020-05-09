@@ -1,16 +1,16 @@
-Publications
+Publications<br>
 
-Poems
-Three Poems (Three Lamps, Spring 2019)
-the bluebeard (NZPS a fine line, Summer 2019/2020)
-modernity to globalisation (The Spinoff, October 2019)
-24 (Mayhem 2019)
+Poems<br>
+<a href="https://www.thethreelamps.com/article/lily-holloway?publication=spring-2019">Three Poems</a> (Three Lamps, Spring 2019)<br>
+<a href="https://lilyholloway.co.nz/posts/the-bluebeard">the bluebeard</a> (NZPS a fine line, Summer 2019/2020)<br>
+<a href="https://thespinoff.co.nz/books/18-10-2019/the-friday-poem-modernity-to-globalisation-by-lily-holloway/">modernity to globalisation</a> (The Spinoff, October 2019)<br>
+<a href="https://lilyholloway.co.nz/posts/24">24</a> (Mayhem 2019)<br>
 
-Other Writing
-Happily Ever After: Life After the Ring (Interesting Journal Edition 9, 2019)
-Flying (Mindfood, November 2019)
+Other Writing<br>
+Happily Ever After: Life After the Ring (Interesting Journal Edition 9, 2019)<br>
+<a href="https://lilyholloway.co.nz/posts/Flying">Flying</a> (Mindfood, November 2019)<br>
 
-Writing Awards
-2019 Best Poem in Given Words National Poetry Day Competition
-2019 Highly Commended in Divine Muses New Voices - Emerging Poets Competition
-2019 Shortlisted in the Monash Undergraduate Prize for Creative Writing
+Writing Awards<br>
+2019 Best Poem in Given Words National Poetry Day Competition<br>
+2019 Highly Commended in Divine Muses New Voices - Emerging Poets Competition<br>
+2019 Shortlisted in the Monash Undergraduate Prize for Creative Writing<br>
