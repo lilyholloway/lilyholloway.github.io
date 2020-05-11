@@ -6,4 +6,4 @@ Lily is based in Auckland, New Zealand.
 
 See <a href="{{ site.url }}/cv">here</a> for list of her literary publications.
 
-Contact her at <a href="mailto:hello@lilyholloway.co.nz">hello@lilyholloway.co.nz</a>.
+Contact her at <a href="mailto:howdy@lilyholloway.co.nz">howdy@lilyholloway.co.nz</a>.
