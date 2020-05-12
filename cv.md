@@ -5,6 +5,7 @@ description: Publications and Awards
 ---
 
 <b>Poems</b><br>
+<a href="https://www.millymagazine.com/two-poems-by-lily-holloway">Two Poems</a> (Milly Magazine, May 2020)<br>
 <a href="https://www.thethreelamps.com/article/lily-holloway?publication=spring-2019">Three Poems</a> (Three Lamps, Spring 2019)<br>
 <a href="https://lilyholloway.co.nz/posts/the-bluebeard">the bluebeard</a> (NZPS a fine line, Summer 2019/2020)<br>
 <a href="https://thespinoff.co.nz/books/18-10-2019/the-friday-poem-modernity-to-globalisation-by-lily-holloway/">modernity to globalisation</a> (The Spinoff, October 2019)<br>
