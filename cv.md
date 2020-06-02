@@ -20,6 +20,7 @@ Happily Ever After: Life After the Ring (Interesting Journal Edition 9, 2019)<br
 <a href="https://www.stuff.co.nz/auckland/local-news/north-shore-times/84029761/opinionmaker-rents-racism-getting-around--head-girl-lists-priorities-for-auckland-post-local-elections">Opinion-maker: Rents, racism, getting around - head girl lists priorities for Auckland post local elections</a> (Stuff, September 2016)
 
 <b>Writing Awards</b><br>
+2020 Shimon Weinroth Prize in Poetry<br>
 2020 Second Place in Landfall Charles Brasch Young Writers' Essay Competition<br>
 2020 Kendrick Smithyman Scholarship in Poetry<br>
 2019 Best Poem in Given Words National Poetry Day Competition<br>
