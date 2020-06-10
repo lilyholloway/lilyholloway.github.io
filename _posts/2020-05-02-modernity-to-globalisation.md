@@ -25,7 +25,9 @@ at the bottom of handbags of expanding lungs<br>
 
 mimesis the technical keystone of forgetting slices of the years<br>
 
-evergreens dancing waves follow arched trajectories of homemade bath bombs stadiums chanting god bless this temporal vector<br>
+evergreens dancing waves follow arched trajectories of homemade bath bombs<br>
+
+stadiums chanting god bless this temporal vector<br>
 
 stylised lungs get wednesday standards<br>
 
