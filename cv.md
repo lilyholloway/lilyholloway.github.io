@@ -5,6 +5,7 @@ description: Publications and Awards
 ---
 
 <b>Poems</b><br>
+Three poems (Aotearoa LGBTQIA+ Anthology, forthcoming)<br>
 a girl's name a headline (Midway Journal, forthcoming)<br>
 <a href="https://www.poetrylabshanghai.com/post/summer20">rimu road</a> (Poetry Lab Shanghai, Summer 2020)<br>
 <a href="https://www.millymagazine.com/two-poems-by-lily-holloway">Two Poems</a> (Milly Magazine, May 2020)<br>
