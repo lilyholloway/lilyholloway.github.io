@@ -5,6 +5,7 @@ description: Publications and Awards
 ---
 
 <b>Poems</b><br>
+a girl's name a headline (Midway Journal, forthcoming)<br>
 <a href="https://www.poetrylabshanghai.com/post/summer20">rimu road</a> (Poetry Lab Shanghai, Summer 2020)<br>
 <a href="https://www.millymagazine.com/two-poems-by-lily-holloway">Two Poems</a> (Milly Magazine, May 2020)<br>
 <a href="https://www.thethreelamps.com/article/lily-holloway?publication=spring-2019">Three Poems</a> (Three Lamps, Spring 2019)<br>
@@ -13,6 +14,7 @@ description: Publications and Awards
 <a href="https://lilyholloway.co.nz/posts/24">24</a> (Mayhem 2019)<br>
 
 <b>Other Writing</b><br>
+Waiting for Metamorphosis, (The Pantograph Punch, forthcoming)<br>
 <a href="https://poetrysociety.org.nz/lost-and-somewhere-else-by-jenny-bornholdt/">Review of Lost and Somewhere Else by Jenny Bornholdt</a> (NZPS Poetry Micro-reviews, 2020) <br>
 I wander, she holds my hand (Mayhem 2019)<br>
 Happily Ever After: Life After the Ring (Interesting Journal Edition 9, 2019)<br>
