@@ -1,1 +1,1 @@
-poetry and writing from Lily Holloway
+Poetry and writing by Lily Holloway
