@@ -26,7 +26,7 @@ Gay Womxn for Trans Rights (Overcommunicate Magazine, Edition 3, 2019)<br>
 
 <b>Writing Awards</b><br>
 2020 Shimon Weinroth Prize in Poetry<br>
-2020 Second Place in Landfall Charles Brasch Young Writers' Essay Competition<br>
+2020 Second Place in Charles Brasch Young Writers' Essay Competition<br>
 2020 Kendrick Smithyman Scholarship in Poetry<br>
 <a href="https://nzgivenwords.blogspot.com/2019/09/">2019 Best Poem in Given Words National Poetry Day Competition</a> (Translated into Spanish <a href="https://libropalabrasprestadas.blogspot.com/2019/11/dia-nacional-de-la-poesia-nueva-zelanda.html">here</a>)<br>
 2019 Highly Commended in Divine Muses New Voices - Emerging Poets Competition<br>
