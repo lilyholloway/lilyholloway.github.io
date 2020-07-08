@@ -17,7 +17,7 @@ a girl's name a headline (Midway Journal, forthcoming)<br>
 <b>Other Writing</b><br>
 Waiting for Metamorphosis (The Pantograph Punch, forthcoming)<br>
 <a href="https://poetrysociety.org.nz/lost-and-somewhere-else-by-jenny-bornholdt/">Review of Lost and Somewhere Else by Jenny Bornholdt</a> (NZPS Poetry Micro-reviews, 2020) <br>
-I wander, she holds my hand (Mayhem 2019)<br>
+I wander, she holds my hand (Mayhem 7, 2019)<br>
 Happily Ever After: Life After the Ring (Interesting Journal Edition 9, 2019)<br>
 Gay Womxn for Trans Rights (Overcommunicate Magazine, Edition 3, 2019)<br>
 <a href="https://lilyholloway.co.nz/posts/Flying">Flying</a> (Mindfood, November 2019)<br>
