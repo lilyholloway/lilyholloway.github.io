@@ -15,6 +15,7 @@ a girl's name a headline (Midway Journal, forthcoming)<br>
 <a href="https://lilyholloway.co.nz/posts/24">24</a> (Mayhem 2019)<br>
 
 <b>Other Writing</b><br>
+'Dirt', 'My Street', 'Magic' and 'University' (Starling, forthcoming)<br>
 Waiting for Metamorphosis (The Pantograph Punch, forthcoming)<br>
 <a href="https://poetrysociety.org.nz/lost-and-somewhere-else-by-jenny-bornholdt/">Review of Lost and Somewhere Else by Jenny Bornholdt</a> (NZPS Poetry Micro-reviews, 2020) <br>
 I wander, she holds my hand (Mayhem Issue 7, 2019)<br>
