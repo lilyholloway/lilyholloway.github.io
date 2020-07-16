@@ -35,5 +35,5 @@
 
 /* end Markdown styles */
 
-.link { text-decoration: none; }
+.link a { text-decoration: none; }
 .link:hover { background: url(/images/line.png) repeat-x left bottom; }
