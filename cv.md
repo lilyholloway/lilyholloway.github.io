@@ -4,19 +4,6 @@ description: Publications and Awards
 
 ---
 
-<head>
-<style>
-body {
-  background-color: linen;
-}
-
-h1 {
-  color: maroon;
-  margin-left: 40px;
-}
-</style>
-</head>
-
 <b>Poems</b><br>
 Three poems (Aotearoa LGBTQIA+ Anthology, forthcoming)<br>
 a girl's name a headline (Midway Journal, forthcoming)<br>
