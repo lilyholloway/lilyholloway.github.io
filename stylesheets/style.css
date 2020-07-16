@@ -6,7 +6,7 @@
 
 /* Markdown styles */
 .markdown-body a {
-  text-decoration: box-shadow;
+  text-decoration: none;
   color: #888888;
 }
 .markdown-body .highlighter-rouge {
