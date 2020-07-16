@@ -7,6 +7,7 @@
 /* Markdown styles */
 .markdown-body a {
   text-decoration: none;
+  background: url(/images/line.png) repeat-x left bottom;
   color: #888888;
 }
 .markdown-body .highlighter-rouge {
