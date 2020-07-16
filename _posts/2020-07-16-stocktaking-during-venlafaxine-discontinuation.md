@@ -2,7 +2,7 @@
 layout: post
 title: stocktaking during venlafaxine discontinuation
 date: 2020-07-16
-description: stocktaking during venlafaxine discontinuationd (Poem published in Scum)
+description: stocktaking during venlafaxine discontinuation (Poem published in Scum)
 img:  # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Poetry, Scum]
