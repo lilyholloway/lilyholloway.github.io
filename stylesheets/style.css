@@ -31,4 +31,7 @@
   border-left: .2rem solid #ccc;
   padding-left: 3.8rem;
 }
+
+.markdown-body .link:hover { background: url(/images/line.png) repeat-x left bottom; }
+
 /* end Markdown styles */
