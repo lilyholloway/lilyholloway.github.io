@@ -16,7 +16,7 @@ Three poems (Aotearoa LGBTQIA+ Anthology, forthcoming)<br>
 <a href="https://lilyholloway.co.nz/posts/24">24</a> (Mayhem 2019)<br>
 
 <b>Other Writing</b><br>
-'Dirt', 'My Street', 'Magic' and 'University' (Starling, forthcoming)<br>
+<a href="https://www.starlingmag.com/issue-10/lily-holloway">'Dirt', 'My Street', 'Magic' and 'University'</a> (Starling, Issue 10)<br>
 <a href="https://www.pantograph-punch.com/posts/Waiting-for-Metamorphosis">Waiting for Metamorphosis</a> (The Pantograph Punch, July 2020)<br>
 <a href="https://poetrysociety.org.nz/lost-and-somewhere-else-by-jenny-bornholdt/">Review of Lost and Somewhere Else by Jenny Bornholdt</a> (NZPS Poetry Micro-reviews, 2020) <br>
 I wander, she holds my hand (Mayhem Issue 7, 2019)<br>
