@@ -35,3 +35,7 @@ Participant in Auckland Theatre Company's Young Writers' Table 2019<br>
 <a href="https://nzgivenwords.blogspot.com/2019/09/">2019 Best Poem in Given Words National Poetry Day Competition</a> (Translated into Spanish <a href="https://libropalabrasprestadas.blogspot.com/2019/11/dia-nacional-de-la-poesia-nueva-zelanda.html">here</a>)<br>
 2019 Highly Commended in Divine Muses New Voices - Emerging Poets Competition<br>
 2019 Shortlisted in the Monash Undergraduate Prize for Creative Writing<br>
+
+<b>Editorial Work</b><br>
+Editorial board member for <a href="https://www.beyondwordsmag.com/online-store/Beyond-Queer-Words-A-Collection-of-Poems-p218768615">Beyond Queer Words: A Collection of Poems</a> 2020<br>
+Editorial board member for <a href="https://www.interestingjournal.com/who-we-are">Interesting Journal</a> 2020 (Issues 10 & 11)<br>
