@@ -34,4 +34,4 @@
 
 /* end Markdown styles */
 
-.markdown-body a:link { background: url(/images/line.png) repeat-x left bottom; }
+.markdown-body link:link { background: url(/images/line.png) repeat-x left bottom; }
