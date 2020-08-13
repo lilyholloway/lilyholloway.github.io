@@ -3,7 +3,6 @@ title: Publications
 description: Publications and Awards
 
 ---
-<body class="page5">
 
 <b>Poems</b><br>
 Three poems (Aotearoa LGBTQIA+ Anthology, forthcoming)<br>
@@ -40,5 +39,3 @@ Participant in Auckland Theatre Company's Young Writers' Table 2019<br>
 <b>Editorial Work</b><br>
 Editorial board member for <a href="https://www.beyondwordsmag.com/online-store/Beyond-Queer-Words-A-Collection-of-Poems-p218768615">Beyond Queer Words: A Collection of Poems</a> 2020<br>
 Editorial board member for <a href="https://www.interestingjournal.com/who-we-are">Interesting Journal</a> 2020 (Issues 10 & 11)<br>
-
-</body>
