@@ -27,7 +27,7 @@ Gay Womxn for Trans Rights (Overcommunicate Magazine, Edition 3, 2019)<br>
 <a href="https://lilyholloway.co.nz/posts/Flying">Flying</a> (Mindfood, November 2019)<br>
 Participant in Auckland Theatre Company's Young Writers' Table 2019<br>
 <a href="http://www.craccum.co.nz/?p=2497">News: Meat Club Butchers O-Week Campaign with Bull-Headed Tee-Shirts</a> (Craccum Issue 3, 2018)<br>
-<a href="https://www.stuff.co.nz/auckland/local-news/north-shore-times/84029761/opinionmaker-rents-racism-getting-around--head-girl-lists-priorities-for-auckland-post-local-elections">Opinion-maker: Rents, racism, getting around - head girl lists priorities for Auckland post local elections</a> (Stuff, September 2016)
+<a href="https://www.stuff.co.nz/auckland/local-news/north-shore-times/84029761/opinionmaker-rents-racism-getting-around--head-girl-lists-priorities-for-auckland-post-local-elections">Opinion-maker: Rents, racism, getting around - head girl lists priorities for Auckland post local elections</a> (Stuff, September 2016)<br>
 
 <b>Writing Awards</b><br>
 2020 Shimon Weinroth Prize in Poetry<br>
