@@ -34,4 +34,4 @@
 
 /* end Markdown styles */
 
-.markdown-body.page5 a { background: url(/images/line.png) repeat-x left bottom; }
+.markdown-body a:hover { background: url(/images/line.png) repeat-x left bottom; }
