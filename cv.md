@@ -18,6 +18,7 @@ Getting Colder (Aniko Press, forthcoming)<br>
 <a href="https://lilyholloway.co.nz/posts/24">24</a> (Mayhem 2019)<br>
 
 <b>Other Writing</b><br>
+Auckland in 100 Words (Interesting Journal Edition 10, forthcoming)<br>
 <a href="https://www.anikopress.com/interviews/lily-holloway">Interview with Aniko Press</a> (September 2020)<br>
 <a href="https://www.starlingmag.com/issue-10/lily-holloway">'Dirt', 'My Street', 'Magic' and 'University'</a> (Starling, Issue 10)<br>
 <a href="https://www.pantograph-punch.com/posts/Waiting-for-Metamorphosis">Waiting for Metamorphosis</a> (The Pantograph Punch, July 2020)<br>
