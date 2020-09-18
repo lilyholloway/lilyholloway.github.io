@@ -5,6 +5,7 @@ description: Publications and Awards
 ---
 
 <b>Poems</b><br>
+Two poems (The Banyan Review, forthcoming)<br>
 Three poems (Aotearoa LGBTQIA+ Anthology, forthcoming)<br>
 Getting Colder (Aniko Press, forthcoming)<br>
 <a href="http://midwayjournal.com/a-girls-name-a-headline/">a girl's name a headline</a> (Midway Journal, Volume 4, Issue 3)<br>
