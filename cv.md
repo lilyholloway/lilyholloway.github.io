@@ -5,6 +5,7 @@ description: Publications and Awards
 ---
 
 <b>Poems</b><br>
+Sentries (The Spinoff, forthcoming)<br>
 Two poems (The Banyan Review, forthcoming)<br>
 Three poems (Aotearoa LGBTQIA+ Anthology, forthcoming)<br>
 Getting Colder (Aniko Press, forthcoming)<br>
