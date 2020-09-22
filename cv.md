@@ -6,9 +6,9 @@ description: Publications and Awards
 
 <b>Poems</b><br>
 Sentries (The Spinoff, forthcoming)<br>
-Two poems (The Banyan Review, forthcoming)<br>
 Three poems (Aotearoa LGBTQIA+ Anthology, forthcoming)<br>
 Getting Colder (Aniko Press, forthcoming)<br>
+<a href="https://www.thebanyanreview.org/issue3-fall-2020/lillyholloway-issue3-fall-2020-elements-2/">Four poems</a> (The Banyan Review, Fall 2020)<br>
 <a href="http://midwayjournal.com/a-girls-name-a-headline/">a girl's name a headline</a> (Midway Journal, Volume 4, Issue 3)<br>
 <a href="http://www.scum-mag.com/stocktaking-during-venlafaxine-discontinuation/">stocktaking during venlafaxine discontinuation</a> (Scum, July 2020)<br>
 <a href="https://www.poetrylabshanghai.com/post/summer20">rimu road</a> (Poetry Lab Shanghai, Summer 2020)<br>
