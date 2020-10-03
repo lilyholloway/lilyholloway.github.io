@@ -39,7 +39,7 @@ Participant in Auckland Theatre Company's Young Writers' Table 2019<br>
 2020 Second Place in Charles Brasch Young Writers' Essay Competition<br>
 2020 Kendrick Smithyman Scholarship in Poetry<br>
 2020 <a href="https://nzgivenwords.blogspot.com/2020/09/given-poems-for-national-poetry-day.html">Judges' Selection</a> in Given Words National Poetry Day Competition<br>
-<a href="https://nzgivenwords.blogspot.com/2019/09/">2019 Best Poem in Given Words National Poetry Day Competition</a> (Translated into Spanish <a href="https://libropalabrasprestadas.blogspot.com/2019/11/dia-nacional-de-la-poesia-nueva-zelanda.html">here</a>)<br>
+2019 <a href="https://nzgivenwords.blogspot.com/2019/09/">Best Poem in Given Words National Poetry Day Competition</a> (Translated into Spanish <a href="https://libropalabrasprestadas.blogspot.com/2019/11/dia-nacional-de-la-poesia-nueva-zelanda.html">here</a>)<br>
 2019 Highly Commended in Divine Muses New Voices - Emerging Poets Competition<br>
 2019 Shortlisted in the Monash Undergraduate Prize for Creative Writing<br>
 
