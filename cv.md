@@ -34,6 +34,7 @@ Participant in Auckland Theatre Company's Young Writers' Table 2019<br>
 <a href="https://www.stuff.co.nz/auckland/local-news/north-shore-times/84029761/opinionmaker-rents-racism-getting-around--head-girl-lists-priorities-for-auckland-post-local-elections">Opinion-maker: Rents, racism, getting around - head girl lists priorities for Auckland post local elections</a> (Stuff, September 2016)<br>
 
 <b>Writing Awards</b><br>
+2020 Long-listed for the Monica Taylor Poetry Prize<br>
 2020 <a href="https://www.caselbergtrust.org/news/poetry-prize-2020-winners-announced">Highly Commended in the Caselberg Trust International Poetry Prize</a><br>
 2020 Shimon Weinroth Prize in Poetry<br>
 2020 Second Place in Charles Brasch Young Writers' Essay Competition<br>
