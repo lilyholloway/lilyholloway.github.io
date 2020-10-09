@@ -9,6 +9,7 @@ Sentries (The Spinoff, forthcoming)<br>
 Three poems (Aotearoa LGBTQIA+ Anthology, forthcoming)<br>
 Getting Colder (Aniko Press, forthcoming)<br>
 Two poems (Poetry New Zealand Yearbook 2021, forthcoming)<br>
+Blue (<a href="https://overcommunicate.bigcartel.com/product/love-poems">Overcommunicate: Love Poems</a>, October 2020)<br>
 <a href="https://www.thebanyanreview.org/issue3-fall-2020/lillyholloway-issue3-fall-2020-elements-2/">Four poems</a> (The Banyan Review, Fall 2020)<br>
 <a href="http://midwayjournal.com/a-girls-name-a-headline/">a girl's name a headline</a> (Midway Journal, Volume 4, Issue 3)<br>
 <a href="http://www.scum-mag.com/stocktaking-during-venlafaxine-discontinuation/">stocktaking during venlafaxine discontinuation</a> (Scum, July 2020)<br>
