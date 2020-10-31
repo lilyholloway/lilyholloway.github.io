@@ -19,18 +19,18 @@ Blue (<a href="https://overcommunicate.bigcartel.com/product/love-poems">Overcom
 <a href="https://www.thethreelamps.com/article/lily-holloway?publication=spring-2019">Three Poems</a> (Three Lamps, Spring 2019)<br>
 <a href="https://poetrysocietynz.files.wordpress.com/2020/04/a-fine-line-summer-2019-digital.pdf">the bluebeard</a> (NZPS a fine line, Summer 2019/2020)<br>
 <a href="https://thespinoff.co.nz/books/18-10-2019/the-friday-poem-modernity-to-globalisation-by-lily-holloway/">modernity to globalisation</a> (The Spinoff, October 2019)<br>
-24 (<a href="https://www.mayhemjournal.co.nz/page/7-0-contents/">Mayhem 2019</a>)<br>
+24 (<a href="https://www.mayhemjournal.co.nz/page/7-0-contents/">Mayhem Issue 7, 2019</a>)<br>
 
 <b>Other Writing</b><br>
-Poetry Shelf Video Lounge: Lily Holloway reads some poems (<a href="https://nzpoetryshelf.com/2020/10/30/poetry-shelf-video-lounge-lily-holloway-reads-some-poems/">Poetry Shelf</a>, October 2020)<br>
+<a href="https://nzpoetryshelf.com/2020/10/30/poetry-shelf-video-lounge-lily-holloway-reads-some-poems/">Poetry Shelf Video Lounge: Lily Holloway reads some poems</a> (Poetry Shelf, October 2020)<br>
 Auckland in 100 Words (Interesting Journal Edition 10, October 2020)<br>
 <a href="https://www.anikopress.com/interviews/lily-holloway">Interview with Aniko Press</a> (September 2020)<br>
 <a href="https://www.starlingmag.com/issue-10/lily-holloway">'Dirt', 'My Street', 'Magic' and 'University'</a> (Starling, Issue 10)<br>
 <a href="https://www.pantograph-punch.com/posts/Waiting-for-Metamorphosis">Waiting for Metamorphosis</a> (The Pantograph Punch, July 2020)<br>
 <a href="https://poetrysociety.org.nz/lost-and-somewhere-else-by-jenny-bornholdt/">Review of Lost and Somewhere Else by Jenny Bornholdt</a> (NZPS Poetry Micro-reviews, 2020) <br>
-I wander, she holds my hand (Mayhem Issue 7, 2019)<br>
+I wander, she holds my hand (<a href="https://www.mayhemjournal.co.nz/page/7-0-contents/">Mayhem Issue 7, 2019</a>)<br>
 Happily Ever After: Life After the Ring (Interesting Journal Edition 9, 2019)<br>
-Gay Womxn for Trans Rights (Overcommunicate Magazine, Edition 3, 2019)<br>
+Gay Women for Trans Rights (Overcommunicate Magazine, Edition 3, 2019)<br>
 <a href="https://lilyholloway.co.nz/posts/Flying">Flying</a> (Mindfood, November 2019)<br>
 Participant in Auckland Theatre Company's Young Writers' Table 2019<br>
 <a href="http://www.craccum.co.nz/?p=2497">News: Meat Club Butchers O-Week Campaign with Bull-Headed Tee-Shirts</a> (Craccum Issue 3, 2018)<br>
