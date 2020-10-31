@@ -14,7 +14,7 @@ Blue (<a href="https://overcommunicate.bigcartel.com/product/love-poems">Overcom
 <a href="https://www.thebanyanreview.org/issue3-fall-2020/lillyholloway-issue3-fall-2020-elements-2/">Four poems</a> (The Banyan Review, Fall 2020)<br>
 <a href="http://midwayjournal.com/a-girls-name-a-headline/">a girl's name a headline</a> (Midway Journal, Volume 4, Issue 3)<br>
 <a href="http://www.scum-mag.com/stocktaking-during-venlafaxine-discontinuation/">stocktaking during venlafaxine discontinuation</a> (Scum, July 2020)<br>
-<a href="https://www.poetrylabshanghai.com/post/summer20">rimu road</a> (Poetry Lab Shanghai, Summer 2020)<br>
+<a href="https://www.poetrylabshanghai.com/post/summer20">rimu road</a> (Poetry Lab Shanghai, Summer 2020, and <a href="https://www.poetrylabshanghai.com/store">PLS Anthology Volume I</a>)<br>
 <a href="https://www.millymagazine.com/two-poems-by-lily-holloway">Two Poems</a> (Milly Magazine, May 2020)<br>
 <a href="https://www.thethreelamps.com/article/lily-holloway?publication=spring-2019">Three Poems</a> (Three Lamps, Spring 2019)<br>
 <a href="https://poetrysocietynz.files.wordpress.com/2020/04/a-fine-line-summer-2019-digital.pdf">the bluebeard</a> (NZPS a fine line, Summer 2019/2020)<br>
