@@ -5,10 +5,11 @@ description: Publications and Awards
 ---
 
 <b>Poems</b><br>
-Sentries (The Spinoff, forthcoming)<br>
+
 Three poems (Aotearoa LGBTQIA+ Anthology, forthcoming)<br>
-Getting Colder (Aniko Press, forthcoming)<br>
 Two poems (Poetry New Zealand Yearbook 2021, forthcoming)<br>
+Getting Colder (<a href="https://www.anikopress.com/shop/p/aniko-press-issue-one-unsung">Aniko Press: Unsung</a>, October 2020)<br>
+<a href="https://thespinoff.co.nz/books/30-10-2020/the-friday-poem-sentries-by-lily-holloway/">Sentries</a> (The Spinoff, October 2020)<br>
 Blue (<a href="https://overcommunicate.bigcartel.com/product/love-poems">Overcommunicate: Love Poems</a>, October 2020)<br>
 <a href="https://www.thebanyanreview.org/issue3-fall-2020/lillyholloway-issue3-fall-2020-elements-2/">Four poems</a> (The Banyan Review, Fall 2020)<br>
 <a href="http://midwayjournal.com/a-girls-name-a-headline/">a girl's name a headline</a> (Midway Journal, Volume 4, Issue 3)<br>
@@ -16,12 +17,13 @@ Blue (<a href="https://overcommunicate.bigcartel.com/product/love-poems">Overcom
 <a href="https://www.poetrylabshanghai.com/post/summer20">rimu road</a> (Poetry Lab Shanghai, Summer 2020)<br>
 <a href="https://www.millymagazine.com/two-poems-by-lily-holloway">Two Poems</a> (Milly Magazine, May 2020)<br>
 <a href="https://www.thethreelamps.com/article/lily-holloway?publication=spring-2019">Three Poems</a> (Three Lamps, Spring 2019)<br>
-<a href="https://lilyholloway.co.nz/posts/the-bluebeard">the bluebeard</a> (NZPS a fine line, Summer 2019/2020)<br>
+<a href="https://poetrysocietynz.files.wordpress.com/2020/04/a-fine-line-summer-2019-digital.pdf">the bluebeard</a> (NZPS a fine line, Summer 2019/2020)<br>
 <a href="https://thespinoff.co.nz/books/18-10-2019/the-friday-poem-modernity-to-globalisation-by-lily-holloway/">modernity to globalisation</a> (The Spinoff, October 2019)<br>
-<a href="https://lilyholloway.co.nz/posts/24">24</a> (Mayhem 2019)<br>
+24 (<a href="https://www.mayhemjournal.co.nz/page/7-0-contents/">Mayhem 2019</a>)<br>
 
 <b>Other Writing</b><br>
-Auckland in 100 Words (Interesting Journal Edition 10, forthcoming)<br>
+Poetry Shelf Video Lounge: Lily Holloway reads some poems (<a href="https://nzpoetryshelf.com/2020/10/30/poetry-shelf-video-lounge-lily-holloway-reads-some-poems/">Poetry Shelf</a>, October 2020)<br>
+Auckland in 100 Words (Interesting Journal Edition 10, October 2020)<br>
 <a href="https://www.anikopress.com/interviews/lily-holloway">Interview with Aniko Press</a> (September 2020)<br>
 <a href="https://www.starlingmag.com/issue-10/lily-holloway">'Dirt', 'My Street', 'Magic' and 'University'</a> (Starling, Issue 10)<br>
 <a href="https://www.pantograph-punch.com/posts/Waiting-for-Metamorphosis">Waiting for Metamorphosis</a> (The Pantograph Punch, July 2020)<br>
