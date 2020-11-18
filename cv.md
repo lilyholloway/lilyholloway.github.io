@@ -8,6 +8,7 @@ description: Publications and Awards
 
 Three poems (Out Here: An Anthology of Takatāpui and LGBTQIA+ New Zealand Writers, forthcoming)<br>
 Two poems (Poetry New Zealand Yearbook 2021, forthcoming)<br>
+Buffet (Mayhem Issue 8, forthcoming)<br>
 Getting Colder (<a href="https://www.anikopress.com/shop/p/aniko-press-issue-one-unsung">Aniko Press: Unsung</a>, October 2020)<br>
 <a href="https://thespinoff.co.nz/books/30-10-2020/the-friday-poem-sentries-by-lily-holloway/">Sentries</a> (The Spinoff, October 2020)<br>
 Blue (<a href="https://overcommunicate.bigcartel.com/product/love-poems">Overcommunicate: Love Poems</a>, October 2020)<br>
