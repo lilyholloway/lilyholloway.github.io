@@ -6,7 +6,7 @@ description: Publications and Awards
 
 <b>Poems</b><br>
 
-Three poems (Aotearoa LGBTQIA+ Anthology, forthcoming)<br>
+Three poems (Out Here: An Anthology of Takatāpui and LGBTQIA+ New Zealand Writers, forthcoming)<br>
 Two poems (Poetry New Zealand Yearbook 2021, forthcoming)<br>
 Getting Colder (<a href="https://www.anikopress.com/shop/p/aniko-press-issue-one-unsung">Aniko Press: Unsung</a>, October 2020)<br>
 <a href="https://thespinoff.co.nz/books/30-10-2020/the-friday-poem-sentries-by-lily-holloway/">Sentries</a> (The Spinoff, October 2020)<br>
