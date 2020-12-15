@@ -21,7 +21,7 @@ Blue (<a href="https://overcommunicate.bigcartel.com/product/love-poems">Overcom
 <a href="https://www.thethreelamps.com/article/lily-holloway?publication=spring-2019">Three Poems</a> (Three Lamps, Spring 2019)<br>
 <a href="https://poetrysocietynz.files.wordpress.com/2020/04/a-fine-line-summer-2019-digital.pdf">the bluebeard</a> (NZPS a fine line, Summer 2019/2020)<br>
 <a href="https://thespinoff.co.nz/books/18-10-2019/the-friday-poem-modernity-to-globalisation-by-lily-holloway/">modernity to globalisation</a> (The Spinoff, October 2019)<br>
-24 (<a href="https://www.mayhemjournal.co.nz/page/7-0-contents/">Mayhem Issue 7, 2019</a>)<br>
+24 (<a href="https://www.mayhemjournal.co.nz/page/7-0-contents/">Mayhem Issue 7</a>, November 2019)<br>
 
 <b>Other Writing</b><br>
 <a href="https://nzpoetryshelf.com/2020/10/30/poetry-shelf-video-lounge-lily-holloway-reads-some-poems/">Poetry Shelf Video Lounge: Lily Holloway reads some poems</a> (Poetry Shelf, October 2020)<br>
