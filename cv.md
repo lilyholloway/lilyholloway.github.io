@@ -6,9 +6,12 @@ description: Publications and Awards
 
 <b>Poems</b><br>
 
-Two poems (Starling, Issue 11, forthcoming)<br>
+AUP New Poets 8 (Auckland University Press, forthcoming)<br>
+as the tide (takahē 101, forthcoming)<br>
 Three poems (Out Here: An Anthology of Takatāpui and LGBTQIA+ New Zealand Writers, forthcoming)<br>
 Two poems (Poetry New Zealand Yearbook 2021, forthcoming)<br>
+<a href="https://www.starlingmag.com/issue-11/lily-holloway">Two poems</a> (Starling, Issue 11)<br>
+<a href="http://www.blackmailpress.com/LH44.html">Shells</a> (blackmail 44, February 2021)<br>
 Buffet (<a href="https://www.mayhemjournal.co.nz/shop/product/471459/mayhem-2020--issue-8/">Mayhem Issue 8</a>, November 2020)<br>
 Getting Colder (<a href="https://www.anikopress.com/shop/p/aniko-press-issue-one-unsung">Aniko Press: Unsung</a>, October 2020)<br>
 <a href="https://thespinoff.co.nz/books/30-10-2020/the-friday-poem-sentries-by-lily-holloway/">Sentries</a> (The Spinoff, October 2020)<br>
@@ -24,6 +27,8 @@ Blue (<a href="https://overcommunicate.bigcartel.com/product/love-poems">Overcom
 24 (<a href="https://www.mayhemjournal.co.nz/page/7-0-contents/">Mayhem Issue 7</a>, November 2019)<br>
 
 <b>Other Writing</b><br>
+
+<a href="https://open.spotify.com/episode/5poNhuzseCeBG57uilcEVj?si=1aakXCdRRkWLcbXQWhwYEg">Lily Holloway Reads "River Axe"</a>, (Telescope Podcast, February 2021)<br>
 <a href="https://nzpoetryshelf.com/2020/10/30/poetry-shelf-video-lounge-lily-holloway-reads-some-poems/">Poetry Shelf Video Lounge: Lily Holloway reads some poems</a> (Poetry Shelf, October 2020)<br>
 Auckland in 100 Words (Interesting Journal Edition 10, October 2020)<br>
 <a href="https://www.anikopress.com/interviews/lily-holloway">Interview with Aniko Press</a> (September 2020)<br>
@@ -50,5 +55,6 @@ Participant in Auckland Theatre Company's Young Writers' Table 2019<br>
 2019 Shortlisted in the Monash Undergraduate Prize for Creative Writing<br>
 
 <b>Editorial Work</b><br>
+Executive Editor for <a href="https://www.interestingjournal.com/who-we-are">Interesting Journal</a> 2021<br>
 Editorial board member for <a href="https://www.beyondwordsmag.com/online-store/Beyond-Queer-Words-A-Collection-of-Poems-p218768615">Beyond Queer Words: A Collection of Poems</a> 2020<br>
 Editorial board member for <a href="https://www.interestingjournal.com/who-we-are">Interesting Journal</a> 2020 (Issues 10 & 11)<br>
