@@ -56,5 +56,9 @@ Participant in Auckland Theatre Company's Young Writers' Table 2019<br>
 
 <b>Editorial Work</b><br>
 Executive Editor for <a href="https://www.interestingjournal.com/who-we-are">Interesting Journal</a> 2021<br>
+Poetry Reader for Beyond Words 2021<br>
 Editorial board member for <a href="https://www.beyondwordsmag.com/online-store/Beyond-Queer-Words-A-Collection-of-Poems-p218768615">Beyond Queer Words: A Collection of Poems</a> 2020<br>
 Editorial board member for <a href="https://www.interestingjournal.com/who-we-are">Interesting Journal</a> 2020 (Issues 10 & 11)<br>
+
+<b>Other</b><br>
+Producer and Host of <a href="https://aucklandpride.org.nz/a-night-of-poetry/">A Night of Poetry</a> (Pride, 2021)<br>
