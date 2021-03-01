@@ -28,7 +28,7 @@ Blue (<a href="https://overcommunicate.bigcartel.com/product/love-poems">Overcom
 
 <b>Other Writing</b><br>
 
-<a href="https://open.spotify.com/episode/5poNhuzseCeBG57uilcEVj?si=1aakXCdRRkWLcbXQWhwYEg">Lily Holloway Reads "River Axe"</a>, (Telescope Podcast, February 2021)<br>
+<a href="https://open.spotify.com/episode/5poNhuzseCeBG57uilcEVj?si=1aakXCdRRkWLcbXQWhwYEg">Lily Holloway Reads "River Axe"</a> (Telescope Podcast, February 2021)<br>
 <a href="https://nzpoetryshelf.com/2020/10/30/poetry-shelf-video-lounge-lily-holloway-reads-some-poems/">Poetry Shelf Video Lounge: Lily Holloway reads some poems</a> (Poetry Shelf, October 2020)<br>
 Auckland in 100 Words (Interesting Journal Edition 10, October 2020)<br>
 <a href="https://www.anikopress.com/interviews/lily-holloway">Interview with Aniko Press</a> (September 2020)<br>
@@ -61,4 +61,4 @@ Editorial board member for <a href="https://www.beyondwordsmag.com/online-store/
 Editorial board member for <a href="https://www.interestingjournal.com/who-we-are">Interesting Journal</a> 2020 (Issues 10 & 11)<br>
 
 <b>Other</b><br>
-Producer and Host of <a href="https://aucklandpride.org.nz/a-night-of-poetry/">A Night of Poetry</a> (Pride, 2021)<br>
+Producer and Host of <a href="https://aucklandpride.org.nz/a-night-of-poetry/">A Night of Poetry</a> (Auckland Pride, 2021)<br>
