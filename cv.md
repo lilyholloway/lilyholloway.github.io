@@ -61,7 +61,7 @@ Editorial board member for <a href="https://www.beyondwordsmag.com/online-store/
 Editorial board member for <a href="https://www.interestingjournal.com/who-we-are">Interesting Journal</a> 2020 (Issues 10 & 11)<br>
 
 <b>Other</b><br>
-Social Media Coordinator for New Zealand Poetry Society 2021<br>
+Social Media Coordinator for <a href="https://poetrysociety.org.nz/about-us/our-people/">New Zealand Poetry Society</a> 2021<br>
 Database Manager for takahē 2021<br>
 Producer and Host of <a href="https://aucklandpride.org.nz/a-night-of-poetry/">A Night of Poetry</a>, Auckland Pride 2021<br>
 Performed for Poetry & Pyjamas, March 2021<br>
