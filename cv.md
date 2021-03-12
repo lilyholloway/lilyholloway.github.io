@@ -7,6 +7,7 @@ description: Publications and Awards
 <b>Poems</b><br>
 
 AUP New Poets 8 (Auckland University Press, forthcoming)<br>
+hopscotch (Fresh Ink Anthology, forthcoming)<br>
 as the tide (takahē 101, forthcoming)<br>
 Three poems (Out Here: An Anthology of Takatāpui and LGBTQIA+ New Zealand Writers, forthcoming)<br>
 Two poems (Poetry New Zealand Yearbook 2021, forthcoming)<br>
