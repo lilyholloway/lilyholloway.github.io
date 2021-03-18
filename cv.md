@@ -7,6 +7,7 @@ description: Publications and Awards
 <b>Poems</b><br>
 
 AUP New Poets 8 (Auckland University Press, forthcoming)<br>
+Two poems (Landfall 241, forthcoming)<br>
 hopscotch (Fresh Ink Anthology, forthcoming)<br>
 as the tide (takahē 101, forthcoming)<br>
 Three poems (Out Here: An Anthology of Takatāpui and LGBTQIA+ New Zealand Writers, forthcoming)<br>
@@ -62,6 +63,7 @@ Editorial board member for <a href="https://www.beyondwordsmag.com/online-store/
 Editorial board member for <a href="https://www.interestingjournal.com/who-we-are">Interesting Journal</a> 2020 (Issues 10 & 11)<br>
 
 <b>Other</b><br>
+<a href="https://authors.org.nz/opportunities/nzsa-programmes-and-services/nzsa-mentor-programme/mentee-recipients-of-2021/">NZSA Mentorship</a> recipient 2021<br>
 Social Media Coordinator for <a href="https://poetrysociety.org.nz/about-us/our-people/">New Zealand Poetry Society</a> 2021<br>
 Database Manager for takahē 2021<br>
 Producer and Host of <a href="https://aucklandpride.org.nz/a-night-of-poetry/">A Night of Poetry</a>, Auckland Pride 2021<br>
