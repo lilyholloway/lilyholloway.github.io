@@ -41,7 +41,6 @@ I wander, she holds my hand (<a href="https://www.mayhemjournal.co.nz/page/7-0-c
 Happily Ever After: Life After the Ring (Interesting Journal Edition 9, 2019)<br>
 Gay Women for Trans Rights (Overcommunicate Magazine, Edition 3, 2019)<br>
 <a href="https://lilyholloway.co.nz/posts/Flying">Flying</a> (Mindfood, November 2019)<br>
-Participant in Auckland Theatre Company's Young Writers' Table 2019<br>
 <a href="http://www.craccum.co.nz/?p=2497">News: Meat Club Butchers O-Week Campaign with Bull-Headed Tee-Shirts</a> (Craccum Issue 3, 2018)<br>
 <a href="https://www.stuff.co.nz/auckland/local-news/north-shore-times/84029761/opinionmaker-rents-racism-getting-around--head-girl-lists-priorities-for-auckland-post-local-elections">Opinion-maker: Rents, racism, getting around - head girl lists priorities for Auckland post local elections</a> (Stuff, September 2016)<br>
 
@@ -68,3 +67,4 @@ Social Media Coordinator for <a href="https://poetrysociety.org.nz/about-us/our-
 Database Manager for takahē 2021<br>
 Producer and Host of <a href="https://aucklandpride.org.nz/a-night-of-poetry/">A Night of Poetry</a>, Auckland Pride 2021<br>
 Performed for Poetry & Pyjamas, March 2021<br>
+Participant in Auckland Theatre Company's Young Writers' Table 2019<br>
