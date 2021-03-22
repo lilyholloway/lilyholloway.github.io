@@ -11,7 +11,7 @@ Two poems (Landfall 241, forthcoming)<br>
 hopscotch (Fresh Ink Anthology, forthcoming)<br>
 as the tide (takahē 101, forthcoming)<br>
 Three poems (Out Here: An Anthology of Takatāpui and LGBTQIA+ New Zealand Writers, forthcoming)<br>
-Two poems (Poetry New Zealand Yearbook 2021, forthcoming)<br>
+Two poems (<a href="https://www.masseypress.ac.nz/books/poetry-new-zealand-yearbook-2021/">Poetry New Zealand Yearbook 2021</a>, March 2021)<br>
 <a href="https://www.starlingmag.com/issue-11/lily-holloway">Two poems</a> (Starling, Issue 11)<br>
 <a href="http://www.blackmailpress.com/LH44.html">Shells</a> (blackmail 44, February 2021)<br>
 Buffet (<a href="https://www.mayhemjournal.co.nz/shop/product/471459/mayhem-2020--issue-8/">Mayhem Issue 8</a>, November 2020)<br>
