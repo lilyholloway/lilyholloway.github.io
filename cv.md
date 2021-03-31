@@ -7,6 +7,7 @@ description: Publications and Awards
 <b>Poems</b><br>
 
 AUP New Poets 8 (Auckland University Press, forthcoming)<br>
+you are my night terror i hope i am yours (Aniko Press: Revolt, forthcoming)<br>
 Two poems (Landfall 241, forthcoming)<br>
 hopscotch (Fresh Ink Anthology, forthcoming)<br>
 as the tide (takahē 101, forthcoming)<br>
