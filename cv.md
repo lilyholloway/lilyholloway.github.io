@@ -10,8 +10,9 @@ AUP New Poets 8 (Auckland University Press, forthcoming)<br>
 you are my night terror i hope i am yours (Aniko Press: Revolt, forthcoming)<br>
 Two poems (Landfall 241, forthcoming)<br>
 hopscotch (Fresh Ink Anthology, forthcoming)<br>
-as the tide (takahē 101, forthcoming)<br>
 Three poems (Out Here: An Anthology of Takatāpui and LGBTQIA+ New Zealand Writers, forthcoming)<br>
+as the tide (takahē 101, forthcoming)<br>
+<a href="https://nzpoetryshelf.com/2021/04/14/poetry-shelf-celebrates-new-books-with-readings-ten-poets-read-from-poetry-new-zealand-yearbook-2021/?fbclid=IwAR1QaSP-1o9cwXy6kiTe3YSZ10caMFFyHSyWZYSnSxiWRlQzxNEUGhdSwlg">Poetry Shelf celebrates new books with readings: Ten poets read from Poetry New Zealand Yearbook 2021</a> (Poetry Shelf, April 2021)<br>
 Two poems (<a href="https://www.masseypress.ac.nz/books/poetry-new-zealand-yearbook-2021/">Poetry New Zealand Yearbook 2021</a>, March 2021)<br>
 <a href="https://www.starlingmag.com/issue-11/lily-holloway">Two poems</a> (Starling, Issue 11)<br>
 <a href="http://www.blackmailpress.com/LH44.html">Shells</a> (blackmail 44, February 2021)<br>
