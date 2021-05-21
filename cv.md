@@ -8,9 +8,12 @@ description: Publications and Awards
 
 AUP New Poets 8 (Auckland University Press, forthcoming)<br>
 you are my night terror i hope i am yours (Aniko Press: Revolt, forthcoming)<br>
-Two poems (Landfall 241, forthcoming)<br>
 hopscotch (Fresh Ink Anthology, forthcoming)<br>
 Three poems (Out Here: An Anthology of Takatāpui and LGBTQIA+ New Zealand Writers, forthcoming)<br>
+I won't pretend to be a person anymore (The Spinoff, forthcoming)<br>
+Tidewrack (Poetry Shelf, forthcoming)<br>
+Five poems (The Mobile Library: Dictionary of Colors Issue 4, forthcoming)<br>
+Two poems (<a href=https://www.otago.ac.nz/press/books/otago825242.html>Landfall 241</a>, May 2021)<br>
 as the tide (takahē 101, April 2021)<br>
 <a href="https://nzpoetryshelf.com/2021/04/14/poetry-shelf-celebrates-new-books-with-readings-ten-poets-read-from-poetry-new-zealand-yearbook-2021/?fbclid=IwAR1QaSP-1o9cwXy6kiTe3YSZ10caMFFyHSyWZYSnSxiWRlQzxNEUGhdSwlg">Poetry Shelf celebrates new books with readings: Ten poets read from Poetry New Zealand Yearbook 2021</a> (Poetry Shelf, April 2021)<br>
 Two poems (<a href="https://www.masseypress.ac.nz/books/poetry-new-zealand-yearbook-2021/">Poetry New Zealand Yearbook 2021</a>, March 2021)<br>
@@ -32,10 +35,10 @@ Blue (<a href="https://overcommunicate.bigcartel.com/product/love-poems">Overcom
 24 (<a href="https://www.mayhemjournal.co.nz/page/7-0-contents/">Mayhem Issue 7</a>, November 2019)<br>
 
 <b>Other Writing</b><br>
-
+<a href="https://www.anikopress.com/interviews/lily-holloway-2">Q&A with Lily Holloway (round 2!)</a> (Aniko Press, May 2021)<br>
 <a href="https://open.spotify.com/episode/5poNhuzseCeBG57uilcEVj?si=1aakXCdRRkWLcbXQWhwYEg">Lily Holloway Reads "River Axe"</a> (Telescope Podcast, February 2021)<br>
 Auckland in 100 Words (Interesting Journal Edition 10, October 2020)<br>
-<a href="https://www.anikopress.com/interviews/lily-holloway">Interview with Aniko Press</a> (September 2020)<br>
+<a href="https://www.anikopress.com/interviews/lily-holloway">Q&A with Lily Holloway</a> (Aniko Press, September 2020)<br>
 <a href="https://www.starlingmag.com/issue-10/lily-holloway">'Dirt', 'My Street', 'Magic' and 'University'</a> (Starling, Issue 10)<br>
 <a href="https://www.pantograph-punch.com/posts/Waiting-for-Metamorphosis">Waiting for Metamorphosis</a> (The Pantograph Punch, July 2020)<br>
 <a href="https://poetrysociety.org.nz/lost-and-somewhere-else-by-jenny-bornholdt/">Review of Lost and Somewhere Else by Jenny Bornholdt</a> (NZPS Poetry Micro-reviews, 2020) <br>
