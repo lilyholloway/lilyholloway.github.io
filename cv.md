@@ -13,7 +13,7 @@ Three poems (Out Here: An Anthology of Takatāpui and LGBTQIA+ New Zealand Write
 I won't pretend to be a person anymore (The Spinoff, forthcoming)<br>
 Tidewrack (Poetry Shelf, forthcoming)<br>
 Five poems (The Mobile Library: Dictionary of Colors Issue 4, forthcoming)<br>
-Two poems (<a href=https://www.otago.ac.nz/press/books/otago825242.html>Landfall 241</a>, May 2021)<br>
+Two poems (<a href="https://www.otago.ac.nz/press/books/otago825242.html">Landfall 241</a>, May 2021)<br>
 as the tide (takahē 101, April 2021)<br>
 <a href="https://nzpoetryshelf.com/2021/04/14/poetry-shelf-celebrates-new-books-with-readings-ten-poets-read-from-poetry-new-zealand-yearbook-2021/?fbclid=IwAR1QaSP-1o9cwXy6kiTe3YSZ10caMFFyHSyWZYSnSxiWRlQzxNEUGhdSwlg">Poetry Shelf celebrates new books with readings: Ten poets read from Poetry New Zealand Yearbook 2021</a> (Poetry Shelf, April 2021)<br>
 Two poems (<a href="https://www.masseypress.ac.nz/books/poetry-new-zealand-yearbook-2021/">Poetry New Zealand Yearbook 2021</a>, March 2021)<br>
