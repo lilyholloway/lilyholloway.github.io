@@ -13,7 +13,9 @@ Three poems (Out Here: An Anthology of Takatāpui and LGBTQIA+ New Zealand Write
 I won't pretend to be a person anymore (The Spinoff, forthcoming)<br>
 Tidewrack (Poetry Shelf, forthcoming)<br>
 Five poems (The Mobile Library: Dictionary of Colors Issue 4, forthcoming)<br>
+<a href="https://nzpoetryshelf.com/2021/05/28/poetry-shelf-theme-season-thirteen-poems-about-water/?fbclid=IwAR2t9eHyA95EMbBkL0UECk-c96fVB9o1wHgxvpleCkMB3ImiOnMSPjnKq7U">Poetry Shelf Theme Season: Thirteen poems about water</a> (Poetry Shelf, May 2021)<br>
 Two poems (<a href="https://www.otago.ac.nz/press/books/otago825242.html">Landfall 241</a>, May 2021)<br>
+<a href="https://nzpoetryshelf.com/2021/05/07/poetry-shelf-theme-season-ten-poems-about-dreaming/">Poetry Shelf Theme Season: Ten poems about dreaming</a> (Poetry Shelf, May 2021)<br>
 as the tide (takahē 101, April 2021)<br>
 <a href="https://nzpoetryshelf.com/2021/04/14/poetry-shelf-celebrates-new-books-with-readings-ten-poets-read-from-poetry-new-zealand-yearbook-2021/?fbclid=IwAR1QaSP-1o9cwXy6kiTe3YSZ10caMFFyHSyWZYSnSxiWRlQzxNEUGhdSwlg">Poetry Shelf celebrates new books with readings: Ten poets read from Poetry New Zealand Yearbook 2021</a> (Poetry Shelf, April 2021)<br>
 Two poems (<a href="https://www.masseypress.ac.nz/books/poetry-new-zealand-yearbook-2021/">Poetry New Zealand Yearbook 2021</a>, March 2021)<br>
@@ -44,7 +46,6 @@ Auckland in 100 Words (Interesting Journal Edition 10, October 2020)<br>
 <a href="https://poetrysociety.org.nz/lost-and-somewhere-else-by-jenny-bornholdt/">Review of Lost and Somewhere Else by Jenny Bornholdt</a> (NZPS Poetry Micro-reviews, 2020) <br>
 I wander, she holds my hand (<a href="https://www.mayhemjournal.co.nz/page/7-0-contents/">Mayhem Issue 7, 2019</a>)<br>
 Happily Ever After: Life After the Ring (Interesting Journal Edition 9, 2019)<br>
-Gay Women for Trans Rights (Overcommunicate Magazine, Edition 3, 2019)<br>
 <a href="https://lilyholloway.co.nz/posts/Flying">Flying</a> (Mindfood, November 2019)<br>
 <a href="http://www.craccum.co.nz/?p=2497">News: Meat Club Butchers O-Week Campaign with Bull-Headed Tee-Shirts</a> (Craccum Issue 3, 2018)<br>
 <a href="https://www.stuff.co.nz/auckland/local-news/north-shore-times/84029761/opinionmaker-rents-racism-getting-around--head-girl-lists-priorities-for-auckland-post-local-elections">Opinion-maker: Rents, racism, getting around - head girl lists priorities for Auckland post local elections</a> (Stuff, September 2016)<br>
