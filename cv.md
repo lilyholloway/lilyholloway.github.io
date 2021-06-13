@@ -7,12 +7,12 @@ description: Publications and Awards
 <b>Poems</b><br>
 
 AUP New Poets 8 (Auckland University Press, forthcoming)<br>
-you are my night terror i hope i am yours (Aniko Press: Revolt, forthcoming)<br>
 hopscotch (Fresh Ink Anthology, forthcoming)<br>
 Three poems (Out Here: An Anthology of Takatāpui and LGBTQIA+ New Zealand Writers, forthcoming)<br>
 I won't pretend to be a person anymore (The Spinoff, forthcoming)<br>
 Tidewrack (Poetry Shelf, forthcoming)<br>
-Five poems (The Mobile Library: Dictionary of Colors Issue 4, forthcoming)<br>
+you are my night terror i hope i am yours (<a href="https://www.anikopress.com/shop/p/issue2">Aniko Press: Revolt</a>, June 2021)<br>
+Five poems (<a href="https://www.aerogramme.org/magazine">The Mobile Library: Dictionary of Colors Issue 4</a>, June 2021)<br>
 <a href="https://nzpoetryshelf.com/2021/05/28/poetry-shelf-theme-season-thirteen-poems-about-water/?fbclid=IwAR2t9eHyA95EMbBkL0UECk-c96fVB9o1wHgxvpleCkMB3ImiOnMSPjnKq7U">Poetry Shelf Theme Season: Thirteen poems about water</a> (Poetry Shelf, May 2021)<br>
 Two poems (<a href="https://www.otago.ac.nz/press/books/otago825242.html">Landfall 241</a>, May 2021)<br>
 <a href="https://nzpoetryshelf.com/2021/05/07/poetry-shelf-theme-season-ten-poems-about-dreaming/">Poetry Shelf Theme Season: Ten poems about dreaming</a> (Poetry Shelf, May 2021)<br>
