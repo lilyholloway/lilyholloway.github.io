@@ -69,7 +69,7 @@ Editorial board member for <a href="https://www.interestingjournal.com/who-we-ar
 
 <b>Other</b><br>
 <a href="https://authors.org.nz/opportunities/nzsa-programmes-and-services/nzsa-mentor-programme/mentee-recipients-of-2021/">NZSA Mentorship</a> recipient 2021<br>
-Social Media Coordinator for <a href="https://poetrysociety.org.nz/about-us/our-people/">New Zealand Poetry Society</a> 2021<br>
+Board Member of <a href="https://poetrysociety.org.nz/about-us/our-people/">New Zealand Poetry Society</a> 2021<br>
 Database Manager for takahē 2021<br>
 <a href="https://theopenbook.co.nz/events/2021/4/25/poet-poet-poet">Performed at The Open Book</a>, April 2021<br>
 Producer and Host of <a href="https://aucklandpride.org.nz/a-night-of-poetry/">A Night of Poetry</a>, Auckland Pride 2021<br>
