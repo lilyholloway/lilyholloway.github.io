@@ -52,7 +52,7 @@ Blue (<b><a href="https://overcommunicate.bigcartel.com/product/love-poems">Over
 <br>
 <b><a href="http://www.scum-mag.com/stocktaking-during-venlafaxine-discontinuation/">stocktaking during venlafaxine discontinuation</a></b> (Scum, July 2020)<br>
 <br>
-<b><a href="https://www.poetrylabshanghai.com/post/summer20">rimu road</a></b> (Poetry Lab Shanghai, Summer 2020, and <a href="https://www.poetrylabshanghai.com/store">PLS Anthology Volume I</a>)<br>
+<b><a href="https://www.poetrylabshanghai.com/post/summer20">rimu road</a></b> (Poetry Lab Shanghai, Summer 2020, and <b><a href="https://www.poetrylabshanghai.com/store">PLS Anthology Volume I</a></b>)<br>
 <br>
 <b><a href="https://www.millymagazine.com/two-poems-by-lily-holloway">Two Poems</a></b> (Milly Magazine, May 2020)<br>
 <br>
