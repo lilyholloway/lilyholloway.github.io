@@ -6,4 +6,4 @@ I have loved travelling through the worlds evoked in these poems, some so famili
 
 — from the foreword by Anna Jackson
 
-<b><a href="https://aucklanduniversitypress.co.nz/aup-new-poets-8/">Preorders available now!</a><b><br>
+<a href="https://aucklanduniversitypress.co.nz/aup-new-poets-8/">Preorders available now!</a><br>
