@@ -66,6 +66,7 @@ Blue (<a href="https://overcommunicate.bigcartel.com/product/love-poems">Overcom
 <br>
 
 <b>Other Writing</b><br>
+
 <a href="https://www.anikopress.com/interviews/lily-holloway-2">Q&A with Lily Holloway (round 2!)</a> (Aniko Press, May 2021)<br>
 <br>
 <a href="https://open.spotify.com/episode/5poNhuzseCeBG57uilcEVj?si=1aakXCdRRkWLcbXQWhwYEg">Lily Holloway Reads "River Axe"</a> (Telescope Podcast, February 2021)<br>
@@ -89,6 +90,7 @@ Happily Ever After: Life After the Ring (Interesting Journal Edition 9, 2019)<br
 
 
 <b>Writing Awards</b><br>
+
 2020 Long-listed for the Monica Taylor Poetry Prize<br>
 <br>
 2020 <a href="https://www.caselbergtrust.org/news/poetry-prize-2020-winners-announced">Highly Commended in the Caselberg Trust International Poetry Prize</a><br>
@@ -109,6 +111,7 @@ Happily Ever After: Life After the Ring (Interesting Journal Edition 9, 2019)<br
 <br>
 
 <b>Editorial Work</b><br>
+
 Executive Editor for <a href="https://www.interestingjournal.com/who-we-are">Interesting Journal</a> 2021<br>
 <br>
 Poetry Reader for Beyond Words 2021<br>
@@ -119,6 +122,7 @@ Editorial board member for <a href="https://www.interestingjournal.com/who-we-ar
 <br>
 
 <b>Other</b><br>
+
 <a href="https://authors.org.nz/opportunities/nzsa-programmes-and-services/nzsa-mentor-programme/mentee-recipients-of-2021/">NZSA Mentorship</a> recipient 2021<br>
 <br>
 Board Member of Same Same But Different Literary Festival 2021<br>
