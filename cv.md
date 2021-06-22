@@ -16,19 +16,19 @@ I won't pretend to be a person anymore (The Spinoff, forthcoming)<br>
 <br>
 Tidewrack (Poetry Shelf, forthcoming)<br>
 <br>
-you are my night terror i hope i am yours (<a href="https://www.anikopress.com/shop/p/issue2">Aniko Press: Revolt</a>, June 2021)<br>
+you are my night terror i hope i am yours (<b><a href="https://www.anikopress.com/shop/p/issue2">Aniko Press: Revolt</a></b>, June 2021)<br>
 <br>
-Five poems (<a href="https://www.aerogramme.org/magazine">The Mobile Library: Dictionary of Colors Issue 4</a>, June 2021)<br>
+Five poems (<b><a href="https://www.aerogramme.org/magazine">The Mobile Library: Dictionary of Colors Issue 4</a></b>, June 2021)<br>
 <br>
-<a href="https://nzpoetryshelf.com/2021/05/28/poetry-shelf-theme-season-thirteen-poems-about-water/?fbclid=IwAR2t9eHyA95EMbBkL0UECk-c96fVB9o1wHgxvpleCkMB3ImiOnMSPjnKq7U">Poetry Shelf Theme Season: Thirteen poems about water</a> (Poetry Shelf, May 2021)<br>
+<b><a href="https://nzpoetryshelf.com/2021/05/28/poetry-shelf-theme-season-thirteen-poems-about-water/">Poetry Shelf Theme Season: Thirteen poems about water</a></b> (Poetry Shelf, May 2021)<br>
 <br>
-Two poems (<a href="https://www.otago.ac.nz/press/books/otago825242.html">Landfall 241</a>, May 2021)<br>
+Two poems (<b><a href="https://www.otago.ac.nz/press/books/otago825242.html">Landfall 241</a></b>, May 2021)<br>
 <br>
-<a href="https://nzpoetryshelf.com/2021/05/07/poetry-shelf-theme-season-ten-poems-about-dreaming/">Poetry Shelf Theme Season: Ten poems about dreaming</a> (Poetry Shelf, May 2021)<br>
+<b><a href="https://nzpoetryshelf.com/2021/05/07/poetry-shelf-theme-season-ten-poems-about-dreaming/">Poetry Shelf Theme Season: Ten poems about dreaming</a></b> (Poetry Shelf, May 2021)<br>
 <br>
 as the tide (takahē 101, April 2021)<br>
 <br>
-<a href="https://nzpoetryshelf.com/2021/04/14/poetry-shelf-celebrates-new-books-with-readings-ten-poets-read-from-poetry-new-zealand-yearbook-2021/?fbclid=IwAR1QaSP-1o9cwXy6kiTe3YSZ10caMFFyHSyWZYSnSxiWRlQzxNEUGhdSwlg">Ten poets read from Poetry New Zealand Yearbook 2021</a> (Poetry Shelf, April 2021)<br>
+<b><a href="https://nzpoetryshelf.com/2021/04/14/poetry-shelf-celebrates-new-books-with-readings-ten-poets-read-from-poetry-new-zealand-yearbook-2021/"></b>Ten poets read from Poetry New Zealand Yearbook 2021</a> (Poetry Shelf, April 2021)<br>
 <br>
 Two poems (<a href="https://www.masseypress.ac.nz/books/poetry-new-zealand-yearbook-2021/">Poetry New Zealand Yearbook 2021</a>, March 2021)<br>
 <br>
