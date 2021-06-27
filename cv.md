@@ -8,9 +8,11 @@ description: Publications and Awards
 
 AUP New Poets 8 (Auckland University Press, forthcoming)<br>
 <br>
-hopscotch (Fresh Ink Anthology, forthcoming)<br>
-<br>
 Three poems (Out Here: An Anthology of Takatāpui and LGBTQIA+ New Zealand Writers, forthcoming)<br>
+<br>
+three poems (Starling, forthcoming)<br>
+<br>
+hopscotch (Fresh Ink Anthology, forthcoming)<br>
 <br>
 I won't pretend to be a person anymore (The Spinoff, forthcoming)<br>
 <br>
