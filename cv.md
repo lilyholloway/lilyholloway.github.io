@@ -133,15 +133,15 @@ Board Member of <b><a href="https://poetrysociety.org.nz/about-us/our-people/">N
 <br>
 Database Manager for takahē 2021<br>
 <br>
-Performed for From Opposite Ends of the Earth (A New Zealand & Irish Poetry Exchange), June 2021<br>
+Performed at From Opposite Ends of the Earth (A New Zealand & Irish Poetry Exchange), June 2021<br>
 <br>
-Performed for Make Your Noise, June 2021<br>
+Performed at Make Your Noise, June 2021<br>
 <br>
 <b><a href="https://theopenbook.co.nz/events/2021/4/25/poet-poet-poet">Performed at The Open Book</a></b>, April 2021<br>
 <br>
 Producer and Host of <b><a href="https://aucklandpride.org.nz/a-night-of-poetry/">A Night of Poetry</a></b>, Auckland Pride 2021<br>
 <br>
-Performed for Poetry & Pyjamas, March 2021<br>
+Performed at Poetry & Pyjamas, March 2021<br>
 <br>
 Participant in Auckland Theatre Company's Young Writers' Table 2019<br>
 <br>
