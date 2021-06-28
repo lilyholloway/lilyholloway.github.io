@@ -16,7 +16,7 @@ hopscotch (Fresh Ink Anthology, forthcoming)<br>
 <br>
 I won't pretend to be a person anymore (The Spinoff, forthcoming)<br>
 <br>
-Tidewrack (Poetry Shelf, forthcoming)<br>
+<b><a href="https://nzpoetryshelf.com/2021/06/28/poetry-shelf-noticeboard-lily-holloways-tidewrack/">Tidewrack</a></b> (Poetry Shelf, June 2021)<br>
 <br>
 you are my night terror i hope i am yours (<b><a href="https://www.anikopress.com/shop/p/issue2">Aniko Press: Revolt</a></b>, June 2021)<br>
 <br>
@@ -132,6 +132,10 @@ Board Member of Same Same But Different Literary Festival 2021<br>
 Board Member of <b><a href="https://poetrysociety.org.nz/about-us/our-people/">New Zealand Poetry Society</a></b> 2021<br>
 <br>
 Database Manager for takahē 2021<br>
+<br>
+Performed for From Opposite Ends of the Earth (A New Zealand & Irish Poetry Exchange), June 2021<br>
+<br>
+Performed for Make Your Noise, June 2021<br>
 <br>
 <b><a href="https://theopenbook.co.nz/events/2021/4/25/poet-poet-poet">Performed at The Open Book</a></b>, April 2021<br>
 <br>
