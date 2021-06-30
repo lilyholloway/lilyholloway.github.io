@@ -10,6 +10,8 @@ AUP New Poets 8 (Auckland University Press, forthcoming)<br>
 <br>
 Three poems (Out Here: An Anthology of Takatāpui and LGBTQIA+ New Zealand Writers, forthcoming)<br>
 <br>
+Poem (Cordite Poetry Review: GAME, forthcoming)<br>
+<br>
 Three poems (Starling, forthcoming)<br>
 <br>
 hopscotch (Fresh Ink Anthology, forthcoming)<br>
