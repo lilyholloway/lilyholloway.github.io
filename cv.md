@@ -141,7 +141,7 @@ Performed at Make Your Noise, June 2021<br>
 <br>
 <b><a href="https://theopenbook.co.nz/events/2021/4/25/poet-poet-poet">Performed at The Open Book</a></b>, April 2021<br>
 <br>
-Producer and Host of <b><a href="https://aucklandpride.org.nz/a-night-of-poetry/">A Night of Poetry</a></b>, Auckland Pride 2021<br>
+Producer and Host of A Night of Poetry, Auckland Pride 2021<br>
 <br>
 Performed at Poetry & Pyjamas, March 2021<br>
 <br>
