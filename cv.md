@@ -89,7 +89,7 @@ I wander, she holds my hand (<b><a href="https://www.mayhemjournal.co.nz/page/7-
 <br>
 Happily Ever After: Life After the Ring (Interesting Journal Edition 9, 2019)<br>
 <br>
-<b><a href="https://lilyholloway.co.nz/posts/Flying">Flying</a></b> (Mindfood Magazine, November 2019)<br>
+Flying (Mindfood Magazine, November 2019)<br>
 <br>
 
 
