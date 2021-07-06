@@ -16,7 +16,7 @@ Three poems (Starling, forthcoming)<br>
 <br>
 hopscotch (Fresh Ink Anthology, forthcoming)<br>
 <br>
-I won't pretend to be a person anymore (The Spinoff, forthcoming)<br>
+Poem (The Spinoff, forthcoming)<br>
 <br>
 <b><a href="https://nzpoetryshelf.com/2021/06/28/poetry-shelf-noticeboard-lily-holloways-tidewrack/">Tidewrack</a></b> (Poetry Shelf, June 2021)<br>
 <br>
