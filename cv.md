@@ -10,7 +10,7 @@ AUP New Poets 8 (Auckland University Press, forthcoming)<br>
 <br>
 Three poems (Out Here: An Anthology of Takatāpui and LGBTQIA+ New Zealand Writers, forthcoming)<br>
 <br>
-Poem (Cordite Poetry Review: GAME, forthcoming)<br>
+Imagined heterosexuality with you, my ex who won't stop calling (Cordite Poetry Review: GAME, forthcoming)<br>
 <br>
 Three poems (Starling, forthcoming)<br>
 <br>
