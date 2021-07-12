@@ -133,7 +133,11 @@ Board Member of Same Same But Different Literary Festival 2021<br>
 <br>
 Board Member of <b><a href="https://poetrysociety.org.nz/about-us/our-people/">New Zealand Poetry Society</a></b> 2021<br>
 <br>
+Participant in The Suburban Review's Emerging Editors Workshop 2021<br>
+<br>
 Database Manager for takahē 2021<br>
+<br>
+Performed at a Time Out Bookstore reading, July 2021<br>
 <br>
 Performed at From Opposite Ends of the Earth (A New Zealand & Irish Poetry Exchange), June 2021<br>
 <br>
