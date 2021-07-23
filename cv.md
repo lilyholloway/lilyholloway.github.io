@@ -14,6 +14,8 @@ Imagined heterosexuality with you, my ex who won't stop calling (Cordite Poetry 
 <br>
 Three poems (Starling, forthcoming)<br>
 <br>
+thursday's choir (Poetry Shelf, forthcoming)<br>
+<br>
 hopscotch (Fresh Ink Anthology, forthcoming)<br>
 <br>
 Poem (The Spinoff, forthcoming)<br>
@@ -125,17 +127,9 @@ Editorial board member for <b><a href="https://www.beyondwordsmag.com/online-sto
 Editorial board member for <b><a href="https://www.interestingjournal.com/who-we-are">Interesting Journal</a></b> 2020 (Issues 10 & 11)<br>
 <br>
 
-<b>Other</b><br>
+<b>Performances and Events</b><br>
 
-<b><a href="https://authors.org.nz/opportunities/nzsa-programmes-and-services/nzsa-mentor-programme/mentee-recipients-of-2021/">NZSA Mentorship</a></b> recipient 2021<br>
-<br>
-Board Member of Same Same But Different Literary Festival 2021<br>
-<br>
-Board Member of <b><a href="https://poetrysociety.org.nz/about-us/our-people/">New Zealand Poetry Society</a></b> 2021<br>
-<br>
-Participant in The Suburban Review's Emerging Editors Workshop 2021<br>
-<br>
-Database Manager for takahē 2021<br>
+Featured Poet for the JAFA August Qualifier, August 2021<br>
 <br>
 Performed at a Time Out Bookstore reading, July 2021<br>
 <br>
@@ -148,6 +142,21 @@ Performed at Make Your Noise, June 2021<br>
 Producer and Host of A Night of Poetry, Auckland Pride 2021<br>
 <br>
 Performed at Poetry & Pyjamas, March 2021<br>
+<br>
+
+<b>Other</b><br>
+
+<b><a href="https://authors.org.nz/opportunities/nzsa-programmes-and-services/nzsa-mentor-programme/mentee-recipients-of-2021/">NZSA Mentorship</a></b> recipient 2021<br>
+<br>
+Board Member of Same Same But Different Literary Festival 2021<br>
+<br>
+Board Member of <b><a href="https://poetrysociety.org.nz/about-us/our-people/">New Zealand Poetry Society</a></b> 2021<br>
+<br>
+Participant in The Suburban Review's Emerging Editors Workshop 2021<br>
+<br>
+Guest judge for The University of Auckland Poetry Slam, 2021<br>
+<br>
+Database Manager for takahē literary magazine 2021<br>
 <br>
 Participant in Auckland Theatre Company's Young Writers' Table 2019<br>
 <br>
