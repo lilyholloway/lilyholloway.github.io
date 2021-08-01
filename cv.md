@@ -10,15 +10,15 @@ AUP New Poets 8 (Auckland University Press, forthcoming)<br>
 <br>
 Three poems (Out Here: An Anthology of Takatāpui and LGBTQIA+ New Zealand Writers, forthcoming)<br>
 <br>
-Imagined heterosexuality with you, my ex who won't stop calling (Cordite Poetry Review: GAME, forthcoming)<br>
-<br>
 Three poems (Starling, forthcoming)<br>
-<br>
-thursday's choir (Poetry Shelf, forthcoming)<br>
 <br>
 hopscotch (Fresh Ink Anthology, forthcoming)<br>
 <br>
 Poem (The Spinoff, forthcoming)<br>
+<br>
+<b><a href="http://cordite.org.au/poetry/game/imagined-heterosexuality-with-you-my-ex-who-wont-stop-calling/">Imagined heterosexuality with you, my ex who won't stop calling</a></b> (Cordite Poetry Review: GAME, August 2021)<br>
+<br>
+<b><a href="https://nzpoetryshelf.com/2021/07/30/poetry-shelf-theme-season-thirteen-poems-about-song/">Poetry Shelf Theme Season: Thirteen poems about song</a></b> (Poetry Shelf, July 2021)<br>
 <br>
 <b><a href="https://nzpoetryshelf.com/2021/06/28/poetry-shelf-noticeboard-lily-holloways-tidewrack/">Tidewrack</a></b> (Poetry Shelf, June 2021)<br>
 <br>
@@ -129,6 +129,8 @@ Editorial board member for <b><a href="https://www.interestingjournal.com/who-we
 
 <b>Performances and Events</b><br>
 
+Featured Poet for the Porirua Libraries Campaign for National Poetry Day 2021<br>
+<br>
 Featured Poet for the JAFA August Qualifier, August 2021<br>
 <br>
 Performed at a Time Out Bookstore reading, July 2021<br>
