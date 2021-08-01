@@ -131,7 +131,7 @@ Editorial board member for <b><a href="https://www.interestingjournal.com/who-we
 
 Featured Poet for the Porirua Libraries Campaign for National Poetry Day 2021<br>
 <br>
-Featured Poet for the JAFA August Qualifier, August 2021<br>
+Featured Poet for the JAFA August Qualifier, 2021<br>
 <br>
 Performed at a Time Out Bookstore reading, July 2021<br>
 <br>
