@@ -16,6 +16,8 @@ hopscotch (Fresh Ink Anthology, forthcoming)<br>
 <br>
 Poem (The Spinoff, forthcoming)<br>
 <br>
+Contents (Hills Hoist (a Suburban Review Publication), forthcoming)<br>
+<br>
 <b><a href="http://cordite.org.au/poetry/game/imagined-heterosexuality-with-you-my-ex-who-wont-stop-calling/">Imagined heterosexuality with you, my ex who won't stop calling</a></b> (Cordite Poetry Review: GAME, August 2021)<br>
 <br>
 <b><a href="https://nzpoetryshelf.com/2021/07/30/poetry-shelf-theme-season-thirteen-poems-about-song/">Poetry Shelf Theme Season: Thirteen poems about song</a></b> (Poetry Shelf, July 2021)<br>
@@ -120,6 +122,8 @@ Flying (Mindfood Magazine, November 2019)<br>
 
 Executive Editor for <b><a href="https://www.interestingjournal.com/who-we-are">Interesting Journal</a></b> 2021<br>
 <br>
+Participant in The Suburban Review's Emerging Editors Workshop 2021<br>
+<br>
 Poetry Reader for Beyond Words 2021<br>
 <br>
 Editorial board member for <b><a href="https://www.beyondwordsmag.com/online-store/Beyond-Queer-Words-A-Collection-of-Poems-p218768615">Beyond Queer Words: A Collection of Poems</a></b> 2020<br>
@@ -153,8 +157,6 @@ Performed at Poetry & Pyjamas, March 2021<br>
 Board Member of Same Same But Different Literary Festival 2021<br>
 <br>
 Board Member of <b><a href="https://poetrysociety.org.nz/about-us/our-people/">New Zealand Poetry Society</a></b> 2021<br>
-<br>
-Participant in The Suburban Review's Emerging Editors Workshop 2021<br>
 <br>
 Guest judge for The University of Auckland Poetry Slam, 2021<br>
 <br>
