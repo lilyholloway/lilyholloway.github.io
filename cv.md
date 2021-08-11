@@ -14,8 +14,6 @@ Three poems (Starling, forthcoming)<br>
 <br>
 hopscotch (Fresh Ink Anthology, forthcoming)<br>
 <br>
-Poem (The Spinoff, forthcoming)<br>
-<br>
 Contents (Hills Hoist (a Suburban Review Publication), forthcoming)<br>
 <br>
 <b><a href="http://cordite.org.au/poetry/game/imagined-heterosexuality-with-you-my-ex-who-wont-stop-calling/">Imagined heterosexuality with you, my ex who won't stop calling</a></b> (Cordite Poetry Review: GAME, August 2021)<br>
