@@ -10,11 +10,13 @@ AUP New Poets 8 (Auckland University Press, forthcoming)<br>
 <br>
 Three poems (Out Here: An Anthology of Takatāpui and LGBTQIA+ New Zealand Writers, forthcoming)<br>
 <br>
-Three poems (Starling, forthcoming)<br>
-<br>
 hopscotch (Fresh Ink Anthology, forthcoming)<br>
 <br>
 Contents (Hills Hoist (a Suburban Review Publication), forthcoming)<br>
+<br>
+<b><a href="https://www.starlingmag.com/issue-12/lily-holloway">Three poems</a></b> (Starling, Issue 12)<br>
+<br>
+<b><a href="https://writerspractice.nz/two-queers-meet-in-cafe/">two queers meet in a café</a></b> (Writers Practice Aotearoa, August 2021)<br>
 <br>
 <b><a href="http://cordite.org.au/poetry/game/imagined-heterosexuality-with-you-my-ex-who-wont-stop-calling/">Imagined heterosexuality with you, my ex who won't stop calling</a></b> (Cordite Poetry Review: GAME, August 2021)<br>
 <br>
