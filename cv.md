@@ -122,9 +122,11 @@ Flying (Mindfood Magazine, November 2019)<br>
 
 Executive Editor for <b><a href="https://www.interestingjournal.com/who-we-are">Interesting Journal</a></b> 2021<br>
 <br>
+Assistant Editor for <b><a href="https://poetrysociety.org.nz/poems-reviews/a-fine-line-quarterly-magazine/">a fine line</a></b> 2021<br>
+<br>
 Participant in The Suburban Review's Emerging Editors Workshop 2021<br>
 <br>
-Poetry Reader for Beyond Words 2021<br>
+Intermittent Poetry Reader for Beyond Words 2020, 2021<br>
 <br>
 Editorial board member for <b><a href="https://www.beyondwordsmag.com/online-store/Beyond-Queer-Words-A-Collection-of-Poems-p218768615">Beyond Queer Words: A Collection of Poems</a></b> 2020<br>
 <br>
@@ -136,6 +138,8 @@ Editorial board member for <b><a href="https://www.interestingjournal.com/who-we
 Featured Poet for the Porirua Libraries Campaign for National Poetry Day 2021<br>
 <br>
 Featured Poet for the JAFA August Qualifier, 2021<br>
+<br>
+Performed at Poetry & Pyjamas (Delta Variant), August 2021<br>
 <br>
 Performed at a Time Out Bookstore reading, July 2021<br>
 <br>
