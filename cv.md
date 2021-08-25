@@ -135,6 +135,10 @@ Editorial board member for <b><a href="https://www.interestingjournal.com/who-we
 
 <b>Performances and Events</b><br>
 
+Featured Poet for Poetry Live, October 2021<br>
+<br>
+Performing at LOUNGE 76, September 2021<br>
+<br>
 Featured Poet for the Porirua Libraries Campaign for National Poetry Day 2021<br>
 <br>
 Featured Poet for the JAFA August Qualifier, 2021<br>
