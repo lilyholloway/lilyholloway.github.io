@@ -14,6 +14,8 @@ Poem (Fresh Ink Anthology, forthcoming)<br>
 <br>
 Contents (Hills Hoist (a Suburban Review Publication), forthcoming)<br>
 <br>
+<b><a href="https://www.timeout.co.nz/upcoming-events/npd2021">National Poetry Day: All Tomorrow's Poets</a></b> (Time Out Bookstore, August 2021)<br>
+<br>
 <b><a href="https://nzpoetryshelf.com/2021/08/27/poetry-shelf-celebrates-phantom-national-poetry-day-with-eight-poets-reading-a-poem/">Poetry Shelf celebrates Phantom National Poetry Day with eight poets reading a poem</a></b> (Poetry Shelf, August 2021)<br>
 <br>
 <b><a href="https://www.starlingmag.com/issue-12/lily-holloway">Three poems</a></b> (Starling, Issue 12)<br>
