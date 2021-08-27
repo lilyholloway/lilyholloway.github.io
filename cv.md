@@ -10,9 +10,11 @@ AUP New Poets 8 (Auckland University Press, forthcoming)<br>
 <br>
 Three poems (Out Here: An Anthology of Takatāpui and LGBTQIA+ New Zealand Writers, forthcoming)<br>
 <br>
-hopscotch (Fresh Ink Anthology, forthcoming)<br>
+Poem (Fresh Ink Anthology, forthcoming)<br>
 <br>
 Contents (Hills Hoist (a Suburban Review Publication), forthcoming)<br>
+<br>
+<b><a href="https://nzpoetryshelf.com/2021/08/27/poetry-shelf-celebrates-phantom-national-poetry-day-with-eight-poets-reading-a-poem/">Poetry Shelf celebrates Phantom National Poetry Day with eight poets reading a poem</a></b> (Poetry Shelf, August 2021)<br>
 <br>
 <b><a href="https://www.starlingmag.com/issue-12/lily-holloway">Three poems</a></b> (Starling, Issue 12)<br>
 <br>
