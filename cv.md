@@ -79,6 +79,8 @@ Blue (<b><a href="https://overcommunicate.bigcartel.com/product/love-poems">Over
 
 <b>Other Writing</b><br>
 
+Interview with Lily Holloway (Parts 1 & 2) (<b><a href="https://mailchi.mp/capartscentre.com/the-monthly-poetry-and-spoken-word-edition-august-2021-152126?fbclid=IwAR3q5ZUAwWTaR3CZUr2S_YuNU7cEDtDeaRw5-ptpoFznNI8N0mqPBl5ePgI">The Monthly, August 2021</a></b>)<br>
+<br>
 <b><a href="https://www.anikopress.com/interviews/lily-holloway-2">Q&A with Lily Holloway (round 2!)</a></b> (Aniko Press, May 2021)<br>
 <br>
 <b><a href="https://open.spotify.com/episode/5poNhuzseCeBG57uilcEVj?si=1aakXCdRRkWLcbXQWhwYEg">Lily Holloway Reads "River Axe"</a></b> (Telescope Podcast, February 2021)<br>
