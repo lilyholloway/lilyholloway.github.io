@@ -14,7 +14,7 @@ your abusive ex texts you every august from a new number (Poetry New Zealand Yea
 <br>
 Poem (Fresh Ink Anthology, forthcoming)<br>
 <br>
-Contents (Hills Hoist (a Suburban Review Publication), forthcoming)<br>
+Contents (Hills Hoist, forthcoming)<br>
 <br>
 <b><a href="https://www.timeout.co.nz/upcoming-events/npd2021">National Poetry Day: All Tomorrow's Poets</a></b> (Time Out Bookstore, August 2021)<br>
 <br>
