@@ -6,7 +6,7 @@ I have loved travelling through the worlds evoked in these poems, some so famili
 
 — from the foreword by Anna Jackson
 
-'Three poets, three distinctive voices sampling on a wide – perhaps endless – continuum of topoi and technique. After all, ‘There is no end to possible meanings’ (from Holloway’s *Is any of this relevant?* pp. 17-19).'
+'Three poets, three distinctive voices sampling on a wide – perhaps endless – continuum of topoi and technique. After all, ‘There is no end to possible meanings’ (from Holloway’s *Is any of this relevant?* pp. 17–19).'
 
 — <a href="http://www.flaxroots.com/flaxflower/three-poets-three-distinctive-voices">review by Vaughan Rapatahana</a>
 
