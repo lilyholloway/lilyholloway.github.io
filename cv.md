@@ -4,7 +4,7 @@ description: Publications and Awards
 
 ---
 
-<b>Poems</b><br>
+<b>Poetry</b><br>
 
 AUP New Poets 8 (Auckland University Press, forthcoming)<br>
 <br>
