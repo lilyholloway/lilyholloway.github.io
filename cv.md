@@ -10,6 +10,8 @@ AUP New Poets 8 (Auckland University Press, forthcoming)<br>
 <br>
 Three poems (Out Here: An Anthology of Takatāpui and LGBTQIA+ New Zealand Writers, forthcoming)<br>
 <br>
+your abusive ex texts you every august from a new number (Poetry New Zealand Yearbook 2022, forthcoming)<br>
+<br>
 Poem (Fresh Ink Anthology, forthcoming)<br>
 <br>
 Contents (Hills Hoist (a Suburban Review Publication), forthcoming)<br>
@@ -141,6 +143,10 @@ Editorial board member for <b><a href="https://www.interestingjournal.com/who-we
 
 <b>Performances and Events</b><br>
 
+Getting Our Feet Wet: Storytelling for Sea-Level Rise, New Zealand Young Writers' Festival 2021<br>
+<br>
+The Secret Garden: A Starling Celebration, New Zealand Young Writers' Festival 2021<br>
+<br>
 Featured Poet for Poetry Live, October 2021<br>
 <br>
 Performing at LOUNGE 76, September 2021<br>
@@ -173,6 +179,8 @@ Board Member of Same Same But Different Literary Festival 2021<br>
 Board Member of <b><a href="https://poetrysociety.org.nz/about-us/our-people/">New Zealand Poetry Society</a></b> 2021<br>
 <br>
 Guest judge for The University of Auckland Poetry Slam, 2021<br>
+<br>
+Recipient of the Blackbird Foundation Protostar Grant, 2021<br>
 <br>
 Database Manager for takahē literary magazine 2021<br>
 <br>
