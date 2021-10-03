@@ -10,4 +10,8 @@ I have loved travelling through the worlds evoked in these poems, some so famili
 
 — <a href="http://www.flaxroots.com/flaxflower/three-poets-three-distinctive-voices">review by Vaughan Rapatahana</a>
 
-<b><a href="https://aucklanduniversitypress.co.nz/aup-new-poets-8/">Preorders available now!</a><b><br>
+Lily Holloway's 'voice is mature and contemplative, her collection 'a child in that alcove' contains some beautiful compositions of the English language.'
+
+— <a href="https://www.nzbooklovers.co.nz/post/aup-new-poets-8-by-lily-holloway-tru-paraha-modi-deng">review by Chris Reed for NZ Booklovers</a>
+
+<b><a href="https://aucklanduniversitypress.co.nz/aup-new-poets-8/">Orders available now!</a><b><br>
