@@ -20,6 +20,8 @@ and so I shape myself (Landfall 242, forthcoming)<br>
 <br>
 your abusive ex texts you every august from a new number (Poetry New Zealand Yearbook 2022, forthcoming)<br>
 <br>
+Angela fragment 96 (Compound Press Poetry Calendar, forthcoming)<br>
+<br>
 Poem (Fresh Ink Anthology, forthcoming)<br>
 <br>
 Contents (Hills Hoist, forthcoming)<br>
