@@ -4,11 +4,17 @@ description: Publications and Awards
 
 ---
 
+<b>Poetry Collection</b><br>
+<br>
+<b><a href="https://aucklanduniversitypress.co.nz/aup-new-poets-8/">AUP New Poets 8</a></b> (Auckland University Press, September 2021)<br>
+<br>
+
 <b>Poetry</b><br>
 
-AUP New Poets 8 (Auckland University Press, forthcoming)<br>
-<br>
+
 Three poems (Out Here: An Anthology of Takatāpui and LGBTQIA+ New Zealand Writers, forthcoming)<br>
+<br>
+All the girls who used to read Dolly have trauma now (Stasis, forthcoming)<br>
 <br>
 and so I shape myself (Landfall 242, forthcoming)<br>
 <br>
@@ -109,6 +115,8 @@ Flying (Mindfood Magazine, November 2019)<br>
 
 <b>Writing Awards</b><br>
 
+2021 University of Auckland Blues Award for Creative Writing<br>
+<br>
 2020 Long-listed for the Monica Taylor Poetry Prize<br>
 <br>
 2020 <b><a href="https://www.caselbergtrust.org/news/poetry-prize-2020-winners-announced">Highly Commended in the Caselberg Trust International Poetry Prize</a></b><br>
@@ -145,17 +153,17 @@ Editorial board member for <b><a href="https://www.interestingjournal.com/who-we
 
 <b>Performances and Events</b><br>
 
-Getting Our Feet Wet: Storytelling for Sea-Level Rise, New Zealand Young Writers' Festival 2021<br>
+Getting Our Feet Wet: Storytelling for Sea-Level Rise, New Zealand Young Writers' Festival October 2021<br>
 <br>
-The Secret Garden: A Starling Celebration, New Zealand Young Writers' Festival 2021<br>
+The Secret Garden: A Starling Celebration, New Zealand Young Writers' Festival October 2021<br>
 <br>
 Featured Poet for Poetry Live, October 2021<br>
 <br>
-Performing at LOUNGE 76, September 2021<br>
+LOUNGE 76, October 2021<br>
 <br>
 Featured Poet for the Porirua Libraries Campaign for National Poetry Day 2021<br>
 <br>
-Featured Poet for the JAFA August Qualifier, 2021<br>
+Featured Poet for the JAFA September Qualifier, 2021<br>
 <br>
 Performed at Poetry & Pyjamas (Delta Variant), August 2021<br>
 <br>
