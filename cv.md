@@ -8,6 +8,9 @@ description: Publications and Awards
 <br>
 <b><a href="https://aucklanduniversitypress.co.nz/aup-new-poets-8/">AUP New Poets 8</a></b> (Auckland University Press, September 2021)<br>
 <br>
+Find reviews for AUP New Poets 8 <b><a href="https://lilyholloway.co.nz/books">here</a></b>
+<br>
+<br>
 
 <b>Poetry</b><br>
 
@@ -93,6 +96,7 @@ Blue (<b><a href="https://overcommunicate.bigcartel.com/product/love-poems">Over
 
 <b>Other Writing</b><br>
 
+The Ghost in My Social Media (Newsroom, forthcoming)<br>
 Interview with Lily Holloway (Parts 1 & 2) (<b><a href="https://mailchi.mp/capartscentre.com/the-monthly-poetry-and-spoken-word-edition-august-2021-152126?fbclid=IwAR3q5ZUAwWTaR3CZUr2S_YuNU7cEDtDeaRw5-ptpoFznNI8N0mqPBl5ePgI">The Monthly, August 2021</a></b>)<br>
 <br>
 <b><a href="https://www.anikopress.com/interviews/lily-holloway-2">Q&A with Lily Holloway (round 2!)</a></b> (Aniko Press, May 2021)<br>
@@ -157,13 +161,9 @@ Editorial board member for <b><a href="https://www.interestingjournal.com/who-we
 
 <b>Performances and Events</b><br>
 
-Getting Our Feet Wet: Storytelling for Sea-Level Rise, New Zealand Young Writers' Festival October 2021<br>
+Featured Poet for Poetry Live, date tbc<br>
 <br>
-The Secret Garden: A Starling Celebration, New Zealand Young Writers' Festival October 2021<br>
-<br>
-Featured Poet for Poetry Live, October 2021<br>
-<br>
-LOUNGE 76, October 2021<br>
+LOUNGE 76, date tbc<br>
 <br>
 Featured Poet for the Porirua Libraries Campaign for National Poetry Day 2021<br>
 <br>
