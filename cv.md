@@ -146,6 +146,8 @@ Flying (Mindfood Magazine, November 2019)<br>
 
 <b>Editorial Work</b><br>
 
+Founding Editor for <b><a href="https://eelmag.com">eel mag</a></b><br>
+<br>
 Executive Editor for <b><a href="https://www.interestingjournal.com/who-we-are">Interesting Journal</a></b> 2021<br>
 <br>
 Assistant Editor for <b><a href="https://poetrysociety.org.nz/poems-reviews/a-fine-line-quarterly-magazine/">a fine line</a></b> 2021<br>
