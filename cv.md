@@ -8,7 +8,9 @@ description: Publications and Awards
 <br>
 <b><a href="https://aucklanduniversitypress.co.nz/aup-new-poets-8/">AUP New Poets 8</a></b> (Auckland University Press, September 2021)<br>
 <br>
-Find reviews for AUP New Poets 8 <b><a href="https://lilyholloway.co.nz/books">here</a></b>
+Find reviews for AUP New Poets 8 <b><a href="https://lilyholloway.co.nz/books">here</a></b><br>
+<br>
+<b><a href="https://nzpoetryshelf.com/2021/10/05/poetry-shelf-celebrates-new-books-aup-new-poets-8/">Poetry Shelf celebrates new books: AUP New Poets 8</a></b> (Poetry Shelf, October 2021)
 <br>
 <br>
 
