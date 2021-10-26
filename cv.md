@@ -96,21 +96,10 @@ Blue (<b><a href="https://overcommunicate.bigcartel.com/product/love-poems">Over
 24 (<b><a href="https://www.mayhemjournal.co.nz/page/7-0-contents/">Mayhem Issue 7</a></b>, November 2019)<br>
 <br>
 
-<b>Other Writing</b><br>
 
-<b><a href="https://www.newsroom.co.nz/the-ghost-in-my-social-media">The Ghost in My Social Media</a></b> (Newsroom, forthcoming)<br>
-<br>
-Interview with Lily Holloway (Parts 1 & 2) (<b><a href="https://mailchi.mp/capartscentre.com/the-monthly-poetry-and-spoken-word-edition-august-2021-152126?fbclid=IwAR3q5ZUAwWTaR3CZUr2S_YuNU7cEDtDeaRw5-ptpoFznNI8N0mqPBl5ePgI">The Monthly, August 2021</a></b>)<br>
-<br>
-<b><a href="https://www.anikopress.com/interviews/lily-holloway-2">Q&A with Lily Holloway (round 2!)</a></b> (Aniko Press, May 2021)<br>
-<br>
-<b><a href="https://open.spotify.com/episode/5poNhuzseCeBG57uilcEVj?si=1aakXCdRRkWLcbXQWhwYEg">Lily Holloway Reads "River Axe"</a></b> (Telescope Podcast, February 2021)<br>
-<br>
-Auckland in 100 Words (Interesting Journal Edition 10, October 2020)<br>
-<br>
-<b><a href="https://www.anikopress.com/interviews/lily-holloway">Q&A with Lily Holloway</a></b> (Aniko Press, September 2020)<br>
-<br>
-<b><a href="https://www.starlingmag.com/issue-10/lily-holloway">'Dirt', 'My Street', 'Magic' and 'University'</a></b> (Starling, Issue 10)<br>
+<b>Non-Fiction</b><br>
+
+<b><a href="https://www.newsroom.co.nz/the-ghost-in-my-social-media">The Ghost in My Social Media</a></b> (Newsroom, October 2021)<br>
 <br>
 <b><a href="https://www.pantograph-punch.com/posts/Waiting-for-Metamorphosis">Waiting for Metamorphosis</a></b> (The Pantograph Punch, July 2020)<br>
 <br>
@@ -120,7 +109,27 @@ I wander, she holds my hand (<b><a href="https://www.mayhemjournal.co.nz/page/7-
 <br>
 Happily Ever After: Life After the Ring (Interesting Journal Edition 9, 2019)<br>
 <br>
+
+
+<b>Short Fiction</b><br>
+
+<b><a href="https://open.spotify.com/episode/5poNhuzseCeBG57uilcEVj?si=1aakXCdRRkWLcbXQWhwYEg">Lily Holloway Reads "River Axe"</a></b> (Telescope Podcast, February 2021)<br>
+<br>
+Auckland in 100 Words (Interesting Journal Edition 10, October 2020)<br>
+<br>
+<b><a href="https://www.starlingmag.com/issue-10/lily-holloway">'Dirt', 'My Street', 'Magic' and 'University'</a></b> (Starling, Issue 10)<br>
+<br>
 Flying (Mindfood Magazine, November 2019)<br>
+<br>
+
+
+<b>Other Writing</b><br>
+
+Interview with Lily Holloway (Parts 1 & 2) (<b><a href="https://mailchi.mp/capartscentre.com/the-monthly-poetry-and-spoken-word-edition-august-2021-152126?fbclid=IwAR3q5ZUAwWTaR3CZUr2S_YuNU7cEDtDeaRw5-ptpoFznNI8N0mqPBl5ePgI">The Monthly, August 2021</a></b>)<br>
+<br>
+<b><a href="https://www.anikopress.com/interviews/lily-holloway-2">Q&A with Lily Holloway (round 2!)</a></b> (Aniko Press, May 2021)<br>
+<br>
+<b><a href="https://www.anikopress.com/interviews/lily-holloway">Q&A with Lily Holloway</a></b> (Aniko Press, September 2020)<br>
 <br>
 
 
@@ -147,6 +156,7 @@ Flying (Mindfood Magazine, November 2019)<br>
 2019 Shortlisted in the Monash Undergraduate Prize for Creative Writing<br>
 <br>
 
+
 <b>Editorial Work</b><br>
 
 Founding Editor for <b><a href="https://eelmag.com">eel mag</a></b><br>
@@ -163,6 +173,7 @@ Editorial board member for <b><a href="https://www.beyondwordsmag.com/online-sto
 <br>
 Editorial board member for <b><a href="https://www.interestingjournal.com/who-we-are">Interesting Journal</a></b> 2020 (Issues 10 & 11)<br>
 <br>
+
 
 <b>Performances and Events</b><br>
 
@@ -188,6 +199,7 @@ Producer and Host of A Night of Poetry, Auckland Pride 2021<br>
 <br>
 Performed at Poetry & Pyjamas, March 2021<br>
 <br>
+
 
 <b>Other</b><br>
 
