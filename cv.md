@@ -19,17 +19,17 @@ Find reviews for AUP New Poets 8 <b><a href="https://lilyholloway.co.nz/books">h
 
 Three poems (Out Here: An Anthology of Takatāpui and LGBTQIA+ New Zealand Writers, forthcoming)<br>
 <br>
-All the girls who used to read Dolly have trauma now (Stasis, forthcoming)<br>
-<br>
 and so I shape myself (Landfall 242, forthcoming)<br>
 <br>
 your abusive ex texts you every august from a new number (Poetry New Zealand Yearbook 2022, forthcoming)<br>
 <br>
 Angela fragment 96 (Compound Press Poetry Calendar, forthcoming)<br>
 <br>
-Poem (Fresh Ink Anthology, forthcoming)<br>
+hopscotch (Fresh Ink Anthology, forthcoming)<br>
 <br>
-Contents (Hills Hoist, forthcoming)<br>
+<b><a href="https://www.stasisjournal.com/home/all-the-girls-who-used-to-read-dolly-have-trauma-now">All the girls who used to read Dolly have trauma now</a></b> (Stasis, October 2021)<br>
+<br>
+Contents (Hills Hoist, October 2021)<br>
 <br>
 Three poems (<b><a href="https://www.foodcourtbooks.com/shop/p/food-court-s08e02-digital">Food Court S08E02</a></b>, October 2021)<br>
 <br>
