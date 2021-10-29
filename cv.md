@@ -99,6 +99,8 @@ Blue (<b><a href="https://overcommunicate.bigcartel.com/product/love-poems">Over
 
 <b>Non-Fiction</b><br>
 
+The (re)Trauma of Filing a Police Report (Salty Mag, forthcoming)<br>
+<br>
 <b><a href="https://www.newsroom.co.nz/the-ghost-in-my-social-media">The Ghost in My Social Media</a></b> (Newsroom, October 2021)<br>
 <br>
 <b><a href="https://www.pantograph-punch.com/posts/Waiting-for-Metamorphosis">Waiting for Metamorphosis</a></b> (The Pantograph Punch, July 2020)<br>
