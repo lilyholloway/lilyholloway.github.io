@@ -16,16 +16,17 @@ Find reviews for AUP New Poets 8 <b><a href="https://lilyholloway.co.nz/books">h
 
 <b>Poetry</b><br>
 
-
-Three poems (Out Here: An Anthology of Takatāpui and LGBTQIA+ New Zealand Writers, forthcoming)<br>
-<br>
-and so I shape myself (Landfall 242, forthcoming)<br>
+Two poems (Mayhem Issue 9, forthcoming)<br>
 <br>
 your abusive ex texts you every august from a new number (Poetry New Zealand Yearbook 2022, forthcoming)<br>
 <br>
-Angela fragment 96 (Compound Press Poetry Calendar, forthcoming)<br>
+Three poems (<b><a href="https://aucklanduniversitypress.co.nz/out-here-an-anthology-of-takat-pui-and-lgbtqia-writers-from-aotearoa/">Out Here: An Anthology of Takatāpui and LGBTQIA+ New Zealand Writers</a></b>, November 2021)<br>
 <br>
-hopscotch (Fresh Ink Anthology, forthcoming)<br>
+Angela fragment 96 (<b><a href="https://compoundpress.org/books/poetry-calendar-2022/">Compound Press Poetry Calendar 2022</a></b>, November 2021)<br>
+<br>
+and so I shape myself (<b><a href="https://www.otago.ac.nz/press/books/otago831149.html">Landfall 242</a></b>, November 2021)<br>
+<br>
+hopscotch (Fresh Ink Anthology, November 2021)<br>
 <br>
 <b><a href="https://www.stasisjournal.com/home/all-the-girls-who-used-to-read-dolly-have-trauma-now">All the girls who used to read Dolly have trauma now</a></b> (Stasis, October 2021)<br>
 <br>
