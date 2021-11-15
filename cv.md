@@ -100,7 +100,7 @@ Blue (<b><a href="https://overcommunicate.bigcartel.com/product/love-poems">Over
 
 <b>Non-Fiction</b><br>
 
-The (re)Trauma of Filing a Police Report (Salty Mag, forthcoming)<br>
+<b><a href="https://saltyworld.net/the-retrauma-of-filing-a-police-report/">The (re)Trauma of Filing a Police Report (Salty Mag, November 2021)</a></b><br>
 <br>
 <b><a href="https://www.newsroom.co.nz/the-ghost-in-my-social-media">The Ghost in My Social Media</a></b> (Newsroom, October 2021)<br>
 <br>
@@ -206,6 +206,8 @@ Performed at Poetry & Pyjamas, March 2021<br>
 
 <b>Other</b><br>
 
+<b><a href="https://www.varuna.com.au/online-programs/newzealand">Aotearoa New Zealand Lamplight Residency</a></b> recipient 2021<br>
+<br>
 <b><a href="https://authors.org.nz/opportunities/nzsa-programmes-and-services/nzsa-mentor-programme/mentee-recipients-of-2021/">NZSA Mentorship</a></b> recipient 2021<br>
 <br>
 Board Member of Same Same But Different Literary Festival 2021<br>
