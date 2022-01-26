@@ -16,9 +16,11 @@ Find reviews for AUP New Poets 8 <b><a href="https://lilyholloway.co.nz/books">h
 
 <b>Poetry</b><br>
 
-Two poems (Mayhem Issue 9, forthcoming)<br>
+I want our story like (Peach Mag, forthcoming)<br>
 <br>
 your abusive ex texts you every august from a new number (Poetry New Zealand Yearbook 2022, forthcoming)<br>
+<br>
+Two poems (Mayhem Issue 9, December)<br>
 <br>
 Three poems (<b><a href="https://aucklanduniversitypress.co.nz/out-here-an-anthology-of-takat-pui-and-lgbtqia-writers-from-aotearoa/">Out Here: An Anthology of Takatāpui and LGBTQIA+ New Zealand Writers</a></b>, November 2021)<br>
 <br>
@@ -128,6 +130,8 @@ Flying (Mindfood Magazine, November 2019)<br>
 
 <b>Other Writing</b><br>
 
+<b><a href="https://nzpoetryshelf.com/2021/12/17/poetry-shelf-celebrates-2021-fifteen-authors-make-some-picks/">Poetry Shelf celebrates 2021: Fifteen authors make some picks</a></b> (Poetry Shelf, December 2021)<br>
+<br>
 Interview with Lily Holloway (Parts 1 & 2) (<b><a href="https://mailchi.mp/capartscentre.com/the-monthly-poetry-and-spoken-word-edition-august-2021-152126?fbclid=IwAR3q5ZUAwWTaR3CZUr2S_YuNU7cEDtDeaRw5-ptpoFznNI8N0mqPBl5ePgI">The Monthly, August 2021</a></b>)<br>
 <br>
 <b><a href="https://www.anikopress.com/interviews/lily-holloway-2">Q&A with Lily Holloway (round 2!)</a></b> (Aniko Press, May 2021)<br>
@@ -139,6 +143,8 @@ Interview with Lily Holloway (Parts 1 & 2) (<b><a href="https://mailchi.mp/capar
 <b>Writing Awards</b><br>
 
 2021 University of Auckland Blues Award for Creative Writing<br>
+<br>
+2021 Newsroom's Award for Best Title for 'All the girls who used to read Dolly have trauma now'<br>
 <br>
 2020 Long-listed for the Monica Taylor Poetry Prize<br>
 <br>
@@ -180,6 +186,8 @@ Editorial board member for <b><a href="https://www.interestingjournal.com/who-we
 
 <b>Performances and Events</b><br>
 
+Guest Poet for SSBD Poetry Speakeasy, date tbc<br>
+<br>
 Featured Poet for Poetry Live, date tbc<br>
 <br>
 LOUNGE 76, date tbc<br>
