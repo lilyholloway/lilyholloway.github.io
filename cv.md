@@ -16,11 +16,11 @@ Find reviews for AUP New Poets 8 <b><a href="https://lilyholloway.co.nz/books">h
 
 <b>Poetry</b><br>
 
-I want our story like (Peach Mag, forthcoming)<br>
+<b><a href="https://www.peachmgzn.com/lily-holloway">I want our story like</a></b> (Peach Mag, March 2022)<br>
 <br>
-your abusive ex texts you every august from a new number (Poetry New Zealand Yearbook 2022, forthcoming)<br>
+One poem (<b><a href="https://www.masseypress.ac.nz/books/poetry-new-zealand-yearbook-2022/">Poetry New Zealand Yearbook 2022</a></b>, March 2022)<br>
 <br>
-Two poems (Mayhem Issue 9, December)<br>
+Two poems (Mayhem Issue 9, December 2021)<br>
 <br>
 Three poems (<b><a href="https://aucklanduniversitypress.co.nz/out-here-an-anthology-of-takat-pui-and-lgbtqia-writers-from-aotearoa/">Out Here: An Anthology of Takatāpui and LGBTQIA+ New Zealand Writers</a></b>, November 2021)<br>
 <br>
@@ -170,9 +170,11 @@ Interview with Lily Holloway (Parts 1 & 2) (<b><a href="https://mailchi.mp/capar
 
 Founding Editor for <b><a href="https://eelmag.com">eel mag</a></b><br>
 <br>
-Executive Editor for <b><a href="https://www.interestingjournal.com/who-we-are">Interesting Journal</a></b> 2021<br>
+Assistant Editor for <b><a href="https://poetrysociety.org.nz/poems-reviews/a-fine-line-quarterly-magazine/">a fine line</a></b><br>
 <br>
-Assistant Editor for <b><a href="https://poetrysociety.org.nz/poems-reviews/a-fine-line-quarterly-magazine/">a fine line</a></b> 2021<br>
+Subeditor for Salient Magazine<br>
+<br>
+Executive Editor for <b><a href="https://www.interestingjournal.com/who-we-are">Interesting Journal</a></b> 2021<br>
 <br>
 Participant in The Suburban Review's Emerging Editors Workshop 2021<br>
 <br>
@@ -214,13 +216,13 @@ Performed at Poetry & Pyjamas, March 2021<br>
 
 <b>Other</b><br>
 
+Board Member of Same Same But Different Literary Festival<br>
+<br>
+Board Member of <b><a href="https://poetrysociety.org.nz/about-us/our-people/">New Zealand Poetry Society</a></b><br>
+<br>
 <b><a href="https://www.varuna.com.au/online-programs/newzealand">Aotearoa New Zealand Lamplight Residency</a></b> recipient 2021<br>
 <br>
 <b><a href="https://authors.org.nz/opportunities/nzsa-programmes-and-services/nzsa-mentor-programme/mentee-recipients-of-2021/">NZSA Mentorship</a></b> recipient 2021<br>
-<br>
-Board Member of Same Same But Different Literary Festival 2021<br>
-<br>
-Board Member of <b><a href="https://poetrysociety.org.nz/about-us/our-people/">New Zealand Poetry Society</a></b> 2021<br>
 <br>
 Guest judge for The University of Auckland Poetry Slam, 2021<br>
 <br>
