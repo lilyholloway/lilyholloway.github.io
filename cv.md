@@ -16,6 +16,8 @@ Find reviews for AUP New Poets 8 <b><a href="https://lilyholloway.co.nz/books">h
 
 <b>Poetry</b><br>
 
+<b><a href="https://www.bestnewzealandpoems.org.nz/2021-contents/lily-holloway/">All the girls who used to read Dolly have trauma now</a></b> (Ōrongohau | Best New Zealand Poems 2021)<br>
+<br>
 <b><a href="https://www.peachmgzn.com/lily-holloway">I want our story like</a></b> (Peach Mag, March 2022)<br>
 <br>
 One poem (<b><a href="https://www.masseypress.ac.nz/books/poetry-new-zealand-yearbook-2022/">Poetry New Zealand Yearbook 2022</a></b>, March 2022)<br>
