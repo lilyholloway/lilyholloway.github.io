@@ -18,4 +18,8 @@ Holloway's "voice is mature and contemplative, her collection 'a child in that a
 
 — <a href="https://www.nzbooklovers.co.nz/post/aup-new-poets-8-by-lily-holloway-tru-paraha-modi-deng">review by Chris Reed for NZ Booklovers</a>
 
+"Holloway brings moments from her daily life and expresses them to her readers. Her poetry is filled with excitement, with dread, with questions and with memories of people from her life. [...] Her writing touched my soul and left me with joy but also a missing tooth."
+
+— <a href="https://hookedonbooks.org.nz/astonishing-and-fresh-expression-stuti-patel/">review by Stuti Patel (fifteen years old!) for Read NZ</a>
+
 <b><a href="https://aucklanduniversitypress.co.nz/aup-new-poets-8/">Orders available now!</a><b><br>
