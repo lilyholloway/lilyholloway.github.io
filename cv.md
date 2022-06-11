@@ -34,7 +34,7 @@ and so I shape myself (<b><a href="https://www.otago.ac.nz/press/books/otago8311
 <br>
 hopscotch (Fresh Ink Anthology, November 2021)<br>
 <br>
-<b><a href="https://www.stasisjournal.com/home/all-the-girls-who-used-to-read-dolly-have-trauma-now">All the girls who used to read Dolly have trauma now</a></b> (Stasis, October 2021)<br>
+<b><a href="https://www.stasisjournal.com/home/all-the-girls-who-used-to-read-dolly-have-trauma-now">All the girls who used to read Dolly have trauma now</a></b> (Stasis, October 2021) <br>and reviewed by Elizabeth Heritage <b><a href="https://www.ketebooks.co.nz/all-book-reviews/review-stasis-journal-anthology-epl7k-skl78">here</a></b> (Kete Books, December 2021)<br>
 <br>
 Contents (Hills Hoist, October 2021)<br>
 <br>
