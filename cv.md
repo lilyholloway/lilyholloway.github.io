@@ -16,7 +16,9 @@ Find reviews for AUP New Poets 8 <b><a href="https://lilyholloway.co.nz/books">h
 
 <b>Poetry</b><br>
 
-<b><a href="https://www.bestnewzealandpoems.org.nz/2021-contents/lily-holloway/">All the girls who used to read Dolly have trauma now</a></b> (Ōrongohau | Best New Zealand Poems 2021)<br>
+<b><a href="https://nzpoetryshelf.com/2022/04/14/poetry-shelf-paragraphs-25-poets-on-poetry/">No rage but in poetry</a></b> (Poetry Shelf, April 2022)<br>
+<br>
+<b><a href="https://www.bestnewzealandpoems.org.nz/2021-contents/lily-holloway/">All the girls who used to read Dolly have trauma now</a></b> (Ōrongohau | Best New Zealand Poems 2021)<br> and discussed in <b><a href="https://www.pw.org/content/the_superpower_of_new_zealand_poetry_a_qa_with_kate_camp">The Superpower of New Zealand Poetry: A Q&A With Kate Camp</a></b> (Poets & Writers, April 2022)<br>
 <br>
 <b><a href="https://www.peachmgzn.com/lily-holloway">I want our story like</a></b> (Peach Mag, March 2022)<br>
 <br>
@@ -132,6 +134,10 @@ Flying (Mindfood Magazine, November 2019)<br>
 
 <b>Other Writing</b><br>
 
+<b><a href="https://eelmag.com/edition-one/editorial">a note from the editors</a></b> (eel mag, May 2022)<br>
+<br>
+Interviewed for <b><a href="https://www.newsroom.co.nz/the-future-of-new-zealand-poetry">The future of New Zealand poetry</a></b> (Newsroom, February 2022)<br>
+<br>
 <b><a href="https://nzpoetryshelf.com/2021/12/17/poetry-shelf-celebrates-2021-fifteen-authors-make-some-picks/">Poetry Shelf celebrates 2021: Fifteen authors make some picks</a></b> (Poetry Shelf, December 2021)<br>
 <br>
 Interview with Lily Holloway (Parts 1 & 2) (<b><a href="https://mailchi.mp/capartscentre.com/the-monthly-poetry-and-spoken-word-edition-august-2021-152126?fbclid=IwAR3q5ZUAwWTaR3CZUr2S_YuNU7cEDtDeaRw5-ptpoFznNI8N0mqPBl5ePgI">The Monthly, August 2021</a></b>)<br>
@@ -174,8 +180,6 @@ Founding Editor for <b><a href="https://eelmag.com">eel mag</a></b><br>
 <br>
 Assistant Editor for <b><a href="https://poetrysociety.org.nz/poems-reviews/a-fine-line-quarterly-magazine/">a fine line</a></b><br>
 <br>
-Subeditor for Salient Magazine<br>
-<br>
 Executive Editor for <b><a href="https://www.interestingjournal.com/who-we-are">Interesting Journal</a></b> 2021<br>
 <br>
 Participant in The Suburban Review's Emerging Editors Workshop 2021<br>
@@ -190,12 +194,6 @@ Editorial board member for <b><a href="https://www.interestingjournal.com/who-we
 
 <b>Performances and Events</b><br>
 
-Guest Poet for SSBD Poetry Speakeasy, date tbc<br>
-<br>
-Featured Poet for Poetry Live, date tbc<br>
-<br>
-LOUNGE 76, date tbc<br>
-<br>
 Featured Poet for the Porirua Libraries Campaign for National Poetry Day 2021<br>
 <br>
 Featured Poet for the JAFA September Qualifier, 2021<br>
