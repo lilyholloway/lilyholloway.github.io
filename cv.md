@@ -16,6 +16,8 @@ Find reviews for AUP New Poets 8 <b><a href="https://lilyholloway.co.nz/books">h
 
 <b>Poetry</b><br>
 
+Three poems (Starling, forthcoming)<br>
+<br>
 <b><a href="https://nzpoetryshelf.com/2022/04/14/poetry-shelf-paragraphs-25-poets-on-poetry/">No rage but in poetry</a></b> (Poetry Shelf, April 2022)<br>
 <br>
 <b><a href="https://www.bestnewzealandpoems.org.nz/2021-contents/lily-holloway/">All the girls who used to read Dolly have trauma now</a></b> (Ōrongohau | Best New Zealand Poems 2021)<br> and discussed in <b><a href="https://www.pw.org/content/the_superpower_of_new_zealand_poetry_a_qa_with_kate_camp">The Superpower of New Zealand Poetry: A Q&A With Kate Camp</a></b> (Poets & Writers, April 2022)<br>
@@ -106,6 +108,8 @@ Blue (<b><a href="https://overcommunicate.bigcartel.com/product/love-poems">Over
 
 <b>Non-Fiction</b><br>
 
+<b><a href="https://thespinoff.co.nz/books/26-06-2022/one-more-for-the-bloodbath">One more for the bloodbath: Lily Holloway reviews Meat Lovers by Rebecca Hawkes</a></b> (The Spinoff, June 2022)<br>
+<br>
 <b><a href="https://saltyworld.net/the-retrauma-of-filing-a-police-report/">The (re)Trauma of Filing a Police Report</a></b> (Salty Mag, November 2021)<br>
 <br>
 <b><a href="https://www.newsroom.co.nz/the-ghost-in-my-social-media">The Ghost in My Social Media</a></b> (Newsroom, October 2021)<br>
