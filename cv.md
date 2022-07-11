@@ -4,11 +4,11 @@ title: Publications
 
 ## **Poetry Chapbook**
 
-**[AUP New Poets 8](https://aucklanduniversitypress.co.nz/aup-new-poets-8/)** (Auckland University Press, September 2021)
+**[AUP New Poets 8](https://aucklanduniversitypress.co.nz/aup-new-poets-8/)** (Auckland University Press)
 
 Find reviews for AUP New Poets 8 **[here](https://lilyholloway.co.nz/books)**
 
-**[Poetry Shelf celebrates new books: AUP New Poets 8](https://nzpoetryshelf.com/2021/10/05/poetry-shelf-celebrates-new-books-aup-new-poets-8/)** (Poetry Shelf, October 2021)
+**[Poetry Shelf celebrates new books: AUP New Poets 8](https://nzpoetryshelf.com/2021/10/05/poetry-shelf-celebrates-new-books-aup-new-poets-8/)** 
 
 <br>
 
