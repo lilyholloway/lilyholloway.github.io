@@ -7,7 +7,7 @@ Find reviews for AUP New Poets 8 **[here](https://lilyholloway.co.nz/books)**
 **[Poetry Shelf celebrates new books: AUP New Poets 8](https://nzpoetryshelf.com/2021/10/05/poetry-shelf-celebrates-new-books-aup-new-poets-8/)** (Poetry Shelf, October 2021)
 
 <br>
-
+---
 ## **Selected Poems** (Online)<br>
 **blackmail**<br>
  2021<br>
@@ -64,7 +64,7 @@ as discussed in **<a href="https://www.pw.org/content/the_superpower_of_new_zeal
 **<a href="https://www.stasisjournal.com/home/all-the-girls-who-used-to-read-dolly-have-trauma-now">All the girls who used to read Dolly have trauma now</a>**<br>
 **<a href="https://www.ketebooks.co.nz/all-book-reviews/review-stasis-journal-anthology-epl7k-skl78">as reviewed by Elizabeth Heritage</a>**<br>
 <br>
-
+---
 ## **Selected Poems** (Print)<br>
 **Aniko Press**<br>
   2021<br>
@@ -119,7 +119,7 @@ The road to the hill is closed<br>
 as the tide<br>
 <br>
 
-
+---
 ## **Listen**<br>
   2021<br>
 **<a href="https://www.timeout.co.nz/upcoming-events/npd2021">National Poetry Day: All Tomorrow's Poets</a>**<br>
@@ -128,7 +128,7 @@ as the tide<br>
   2020<br>
 **<a href="https://nzpoetryshelf.com/2020/10/30/poetry-shelf-video-lounge-lily-holloway-reads-some-poems/">Poetry Shelf Video Lounge: Lily Holloway reads some poems</a>**<br>
 <br>
-
+---
 ## **Non-Fiction**<br>
   2022<br>
 **<a href="https://thespinoff.co.nz/books/26-06-2022/one-more-for-the-bloodbath">One more for the bloodbath: Lily Holloway reviews Meat Lovers by Rebecca Hawkes</a>** (The Spinoff)<br>
@@ -141,7 +141,7 @@ as the tide<br>
 I wander, she holds my hand (Mayhem)<br>
 Happily Ever After: Life After the Ring (Interesting Journal)<br>
 <br>
-
+---
 ## **Short Fiction**<br>
   2020<br>
 Auckland in 100 Words (Interesting Journal)<br>
@@ -150,7 +150,7 @@ Auckland in 100 Words (Interesting Journal)<br>
 Flying (Mindfood Magazine)<br>
 <br>
 
-
+---
 ## **Other Writing**<br>
   2022<br>
 **<a href="https://eelmag.com/edition-one/editorial">a note from the editors</a>** (eel mag)<br>
@@ -162,7 +162,7 @@ Interviewed for **<a href="https://www.newsroom.co.nz/the-future-of-new-zealand-
 **<a href="https://www.anikopress.com/interviews/lily-holloway">Q&A with Lily Holloway</a>** (Aniko Press)<br>
 <br>
 
-
+---
 ## **Awards**<br>
   2021<br>
 University of Auckland Blues Award for Creative Writing<br>
@@ -179,7 +179,7 @@ Highly Commended in Divine Muses New Voices - Emerging Poets Competition<br>
 Shortlisted in the Monash International Undergraduate Prize for Creative Writing<br>
 <br>
 
-
+---
 ## **Editorial Work**<br>
 Founding Editor for **<a href="https://eelmag.com">eel mag</a>**<br>
 Assistant Editor for **<a href="https://poetrysociety.org.nz/poems-reviews/a-fine-line-quarterly-magazine/">a fine line</a>**<br>
@@ -190,7 +190,7 @@ Editorial board member for **<a href="https://www.beyondwordsmag.com/online-stor
 Editorial board member for **<a href="https://www.interestingjournal.com/who-we-are">Interesting Journal</a>** 2020 (Issues 10 & 11)<br>
 <br>
 
-
+---
 ## **Selected Performances and Events**<br>
   2021<br>
 Featured Poet for the Porirua Libraries Campaign for National Poetry Day<br>
@@ -200,7 +200,7 @@ Producer and Host of A Night of Poetry, Auckland Pride<br>
 <br>
 
 
-
+---
 ## **Other**<br>
 Board Member of Same Same But Different Literary Festival<br>
 Board Member of **<a href="https://poetrysociety.org.nz/about-us/our-people/">New Zealand Poetry Society</a>**<br>
