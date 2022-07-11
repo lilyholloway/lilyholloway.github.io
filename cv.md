@@ -14,47 +14,24 @@ Find reviews for AUP New Poets 8 **[here](https://lilyholloway.co.nz/books)**
 
 ---
 ## **Selected Poems** (Online)<br>
-**blackmail**<br>
- 2021<br>
-**<a href="http://www.blackmailpress.com/LH44.html">Shells</a>**<br>
+**Peach Mag**<br>
+2022<br>
+**<a href="https://www.peachmgzn.com/lily-holloway">I want our story like</a>**<br>
 <br>
 **Cordite**<br>
  2021<br>
 **<a href="http://cordite.org.au/poetry/game/imagined-heterosexuality-with-you-my-ex-who-wont-stop-calling/">Imagined heterosexuality with you, my ex who won't stop calling</a>**<br>
 <br>
-**Midway Journal**<br>
- 2020<br>
-**<a href="http://midwayjournal.com/a-girls-name-a-headline/">a girl's name a headline</a>**<br>
-<br>
 **Ōrongohau | Best New Zealand Poems**<br>
 2022<br>
 **<a href="https://www.bestnewzealandpoems.org.nz/2021-contents/lily-holloway/">All the girls who used to read Dolly have trauma now</a>**<br>
 as discussed in **<a href="https://www.pw.org/content/the_superpower_of_new_zealand_poetry_a_qa_with_kate_camp">The Superpower of New Zealand Poetry: A Q&A With Kate Camp</a>**<br>
+& originally published in...<br>
 <br>
-**Peach Mag**<br>
-2022<br>
-**<a href="https://www.peachmgzn.com/lily-holloway">I want our story like</a>**<br>
-<br>
-**Poetry Lab Shanghai**<br>
-  2020<br>
-**<a href="https://www.poetrylabshanghai.com/post/summer20">rimu road</a>**<br>
-<br>
-**Poetry Shelf**<br>
-  2022<br>
-**<a href="https://nzpoetryshelf.com/2022/04/14/poetry-shelf-paragraphs-25-poets-on-poetry/">No rage but in poetry</a>**<br>
+**Stasis**<br>
   2021<br>
-**<a href="https://nzpoetryshelf.com/2021/07/30/poetry-shelf-theme-season-thirteen-poems-about-song/">thursday's choir</a>**<br>
-**<a href="https://nzpoetryshelf.com/2021/06/28/poetry-shelf-noticeboard-lily-holloways-tidewrack/">Tidewrack</a>**<br>
-<br>
-**Scum Mag**<br>
-  2020<br>
-**<a href="http://www.scum-mag.com/stocktaking-during-venlafaxine-discontinuation/">stocktaking during venlafaxine discontinuation</a>**<br>
-<br>
-**The Spinoff**<br>
-  2020<br>
-**<a href="https://thespinoff.co.nz/books/30-10-2020/the-friday-poem-sentries-by-lily-holloway/">Sentries</a>**<br>
-  2019<br>
-**<a href="https://thespinoff.co.nz/books/18-10-2019/the-friday-poem-modernity-to-globalisation-by-lily-holloway/">modernity to globalisation</a>**<br>
+**<a href="https://www.stasisjournal.com/home/all-the-girls-who-used-to-read-dolly-have-trauma-now">All the girls who used to read Dolly have trauma now</a>**<br>
+**<a href="https://www.ketebooks.co.nz/all-book-reviews/review-stasis-journal-anthology-epl7k-skl78">as reviewed by Elizabeth Heritage</a>**<br>
 <br>
 **Starling**<br>
   2021<br>
@@ -64,11 +41,35 @@ as discussed in **<a href="https://www.pw.org/content/the_superpower_of_new_zeal
 **<a href="https://www.starlingmag.com/issue-11/lily-holloway">Pegasus Gateway Motel (Before Ali's Funeral I Make My Mum Cry)</a>**<br>
 **<a href="https://www.starlingmag.com/issue-11/lily-holloway">Methods of burial</a>**<br>
 <br>
-**Stasis**<br>
-  2021<br>
-**<a href="https://www.stasisjournal.com/home/all-the-girls-who-used-to-read-dolly-have-trauma-now">All the girls who used to read Dolly have trauma now</a>**<br>
-**<a href="https://www.ketebooks.co.nz/all-book-reviews/review-stasis-journal-anthology-epl7k-skl78">as reviewed by Elizabeth Heritage</a>**<br>
+**Scum Mag**<br>
+  2020<br>
+**<a href="http://www.scum-mag.com/stocktaking-during-venlafaxine-discontinuation/">stocktaking during venlafaxine discontinuation</a>**<br>
 <br>
+**The Spinoff**<br>
+  2020<br>
+**<a href="https://thespinoff.co.nz/books/30-10-2020/the-friday-poem-sentries-by-lily-holloway/">Sentries</a>**<br>
+<br>
+**blackmail**<br>
+ 2021<br>
+**<a href="http://www.blackmailpress.com/LH44.html">Shells</a>**<br>
+<br>
+**Midway Journal**<br>
+ 2020<br>
+**<a href="http://midwayjournal.com/a-girls-name-a-headline/">a girl's name a headline</a>**<br>
+<br>
+**Poetry Lab Shanghai**<br>
+  2020<br>
+**<a href="https://www.poetrylabshanghai.com/post/summer20">rimu road</a>**<br>
+<br>
+**Poetry Shelf**<br>
+  2022<br>
+**<a href="https://nzpoetryshelf.com/2022/04/14/poetry-shelf-paragraphs-25-poets-on-poetry/">No rage but in poetry</a>**<br>
+  2021<br>
+**<a href="https://nzpoetryshelf.com/2021/06/28/poetry-shelf-noticeboard-lily-holloways-tidewrack/">Tidewrack</a>**<br>
+<br>
+
+
+
 
 ---
 ## **Selected Poems** (Print)<br>
@@ -157,7 +158,7 @@ Happily Ever After: Life After the Ring (Interesting Journal)<br>
 ## **Short Fiction**<br>
 2020<br>
 Auckland in 100 Words (Interesting Journal)<br>
-**<a href="https://www.starlingmag.com/issue-10/lily-holloway">'Dirt', 'My Street', 'Magic' and 'University'</a>** (Starling)<br>
+**<a href="https://www.starlingmag.com/issue-10/lily-holloway">'Dirt', 'My Street', 'Magic' & 'University'</a>** (Starling)<br>
 <br>
 2019<br>
 Flying (Mindfood Magazine)<br>
@@ -208,12 +209,12 @@ Editorial board member for **<a href="https://www.interestingjournal.com/who-we-
 <br>
 
 ---
-## **Selected Performances and Events**<br>
+## **Selected Performances & Events**<br>
 2021<br>
 Featured Poet for the Porirua Libraries Campaign for National Poetry Day<br>
 Featured Poet for the JAFA September Qualifier<br>
 Performed at From Opposite Ends of the Earth (A New Zealand & Irish Poetry Exchange)<br>
-Producer and Host of A Night of Poetry, Auckland Pride<br>
+Producer & Host of A Night of Poetry, Auckland Pride<br>
 <br>
 
 
