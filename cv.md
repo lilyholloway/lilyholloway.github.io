@@ -1,36 +1,29 @@
-
-
 ## **Poetry Chapbook**
 
-**<a href="https://aucklanduniversitypress.co.nz/aup-new-poets-8/">AUP New Poets 8</a>** (Auckland University Press, September 2021)<br>
+**<a href="https://aucklanduniversitypress.co.nz/aup-new-poets-8/">AUP New Poets 8</a>** (Auckland University Press, September 2021)
 
-Find reviews for AUP New Poets 8 **<a href="https://lilyholloway.co.nz/books">here</a>**<br>
+Find reviews for AUP New Poets 8 **<a href="https://lilyholloway.co.nz/books">here</a>**
 
-**<a href="https://nzpoetryshelf.com/2021/10/05/poetry-shelf-celebrates-new-books-aup-new-poets-8/">Poetry Shelf celebrates new books: AUP New Poets 8</a>** (Poetry Shelf, October 2021)<br>
+**<a href="https://nzpoetryshelf.com/2021/10/05/poetry-shelf-celebrates-new-books-aup-new-poets-8/">Poetry Shelf celebrates new books: AUP New Poets 8</a>** (Poetry Shelf, October 2021)
 
 <br>
 
 ## **Selected Poems** (Online)
 
-**blackmail**<br>
-
-2021<br>
-
+**blackmail**
+2021
 **[Shells](http://www.blackmailpress.com/LH44.html)**<br>
 
 <br>
 
-**Cordite**<br>
-
-2021<br>
-
+**Cordite**
+2021
 **[Imagined heterosexuality with you, my ex who won't stop calling](http://cordite.org.au/poetry/game/imagined-heterosexuality-with-you-my-ex-who-wont-stop-calling/)**<br>
 
 <br>
 
-**Midway Journal**<br>
-2020<br>
-
+**Midway Journal**
+2020
 **[a girl's name a headline](http://midwayjournal.com/a-girls-name-a-headline/)**<br>
 
 <br>
