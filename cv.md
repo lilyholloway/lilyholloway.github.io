@@ -1,36 +1,37 @@
+
 ---
 description: Publications and Awards
 
 ---
 
-<b>Poetry Chapbook</b><br>
+## <b>Poetry Chapbook</b><br>
 <br>
 <b><a href="https://aucklanduniversitypress.co.nz/aup-new-poets-8/">AUP New Poets 8</a></b> (Auckland University Press, September 2021)<br>
 Find reviews for AUP New Poets 8 <b><a href="https://lilyholloway.co.nz/books">here</a></b><br>
 <b><a href="https://nzpoetryshelf.com/2021/10/05/poetry-shelf-celebrates-new-books-aup-new-poets-8/">Poetry Shelf celebrates new books: AUP New Poets 8</a></b> (Poetry Shelf, October 2021)<br>
 <br>
 
-<b>Selected Poems</b> (Online)<br>
+## <b>Selected Poems</b> (Online)<br>
 <br>
-<b>blackmail</b><br>
-  2021<br>
+### <b>blackmail</b><br>
+#### 2021<br>
 <b><a href="http://www.blackmailpress.com/LH44.html">Shells</a></b><br>
 <br>
-<b>Cordite</b><br>
-  2021<br>
+### <b>Cordite</b><br>
+#### 2021<br>
 <b><a href="http://cordite.org.au/poetry/game/imagined-heterosexuality-with-you-my-ex-who-wont-stop-calling/">Imagined heterosexuality with you, my ex who won't stop calling</a></b><br>
 <br>
-<b>Midway Journal</b><br>
-  2020<br>
+### <b>Midway Journal</b><br>
+#### 2020<br>
 <b><a href="http://midwayjournal.com/a-girls-name-a-headline/">a girl's name a headline</a></b><br>
 <br>
-<b>Ōrongohau | Best New Zealand Poems</b><br>
-  2022<br>
+### <b>Ōrongohau | Best New Zealand Poems</b><br>
+#### 2022<br>
 <b><a href="https://www.bestnewzealandpoems.org.nz/2021-contents/lily-holloway/">All the girls who used to read Dolly have trauma now</a></b><br>
 as discussed in <b><a href="https://www.pw.org/content/the_superpower_of_new_zealand_poetry_a_qa_with_kate_camp">The Superpower of New Zealand Poetry: A Q&A With Kate Camp</a></b><br>
 <br>
 <b>Peach Mag</b><br>
-  2022<br>
+2022<br>
 <b><a href="https://www.peachmgzn.com/lily-holloway">I want our story like</a></b><br>
 <br>
 <b>Poetry Lab Shanghai</b><br>
@@ -68,7 +69,7 @@ as discussed in <b><a href="https://www.pw.org/content/the_superpower_of_new_zea
 <b><a href="https://www.ketebooks.co.nz/all-book-reviews/review-stasis-journal-anthology-epl7k-skl78">as reviewed by Elizabeth Heritage</a></b><br>
 <br>
 
-<b>Selected Poems</b> (Print)<br>
+## <b>Selected Poems</b> (Print)<br>
 <br>
 <b>Aniko Press</b><br>
   2021<br>
@@ -124,7 +125,7 @@ as the tide<br>
 <br>
 
 
-<b>Listen</b><br>
+## <b>Listen</b><br>
 <br>
   2021<br>
 <b><a href="https://www.timeout.co.nz/upcoming-events/npd2021">National Poetry Day: All Tomorrow's Poets</a></b><br>
@@ -134,7 +135,7 @@ as the tide<br>
 <b><a href="https://nzpoetryshelf.com/2020/10/30/poetry-shelf-video-lounge-lily-holloway-reads-some-poems/">Poetry Shelf Video Lounge: Lily Holloway reads some poems</a></b><br>
 <br>
 
-<b>Non-Fiction</b><br>
+## <b>Non-Fiction</b><br>
 
   2022<br>
 <b><a href="https://thespinoff.co.nz/books/26-06-2022/one-more-for-the-bloodbath">One more for the bloodbath: Lily Holloway reviews Meat Lovers by Rebecca Hawkes</a></b> (The Spinoff)<br>
@@ -148,7 +149,7 @@ I wander, she holds my hand (Mayhem)<br>
 Happily Ever After: Life After the Ring (Interesting Journal)<br>
 <br>
 
-<b>Short Fiction</b><br>
+## <b>Short Fiction</b><br>
 
   2020<br>
 Auckland in 100 Words (Interesting Journal)<br>
@@ -158,7 +159,7 @@ Flying (Mindfood Magazine)<br>
 <br>
 
 
-<b>Other Writing</b><br>
+## <b>Other Writing</b><br>
 
   2022<br>
 <b><a href="https://eelmag.com/edition-one/editorial">a note from the editors</a></b> (eel mag)<br>
@@ -171,7 +172,7 @@ Interviewed for <b><a href="https://www.newsroom.co.nz/the-future-of-new-zealand
 <br>
 
 
-<b>Awards</b><br>
+## <b>Awards</b><br>
 
   2021<br>
 University of Auckland Blues Award for Creative Writing<br>
@@ -189,7 +190,7 @@ Shortlisted in the Monash International Undergraduate Prize for Creative Writing
 <br>
 
 
-<b>Editorial Work</b><br>
+## <b>Editorial Work</b><br>
 
 Founding Editor for <b><a href="https://eelmag.com">eel mag</a></b><br>
 Assistant Editor for <b><a href="https://poetrysociety.org.nz/poems-reviews/a-fine-line-quarterly-magazine/">a fine line</a></b><br>
@@ -201,7 +202,7 @@ Editorial board member for <b><a href="https://www.interestingjournal.com/who-we
 <br>
 
 
-<b>Selected Performances and Events</b><br>
+## <b>Selected Performances and Events</b><br>
 
   2021<br>
 Featured Poet for the Porirua Libraries Campaign for National Poetry Day<br>
@@ -212,7 +213,7 @@ Producer and Host of A Night of Poetry, Auckland Pride<br>
 
 
 
-<b>Other</b><br>
+## <b>Other</b><br>
 
 Board Member of Same Same But Different Literary Festival<br>
 Board Member of <b><a href="https://poetrysociety.org.nz/about-us/our-people/">New Zealand Poetry Society</a></b><br>
