@@ -29,12 +29,10 @@
 — <a href="https://www.ketebooks.co.nz/all-book-reviews/review-aup-new-poets-8-poetry-t28d5-jx5jk">review by Paula Green for Kete Books</a>
 <br>
 <br>
-<br>
 
 > "Three poets, three distinctive voices sampling on a wide – perhaps endless – continuum of topoi and technique. After all, ‘There is no end to possible meanings’ (from Holloway’s *Is any of this relevant?* pp. 17–19)."
 
 — <a href="http://www.flaxroots.com/flaxflower/three-poets-three-distinctive-voices">review by Vaughan Rapatahana</a>
-<br>
 <br>
 <br>
 
@@ -43,19 +41,16 @@
 — <a href="https://www.nzbooklovers.co.nz/post/aup-new-poets-8-by-lily-holloway-tru-paraha-modi-deng">review by Chris Reed for NZ Booklovers</a>
 <br>
 <br>
-<br>
 
 > "Holloway brings moments from her daily life and expresses them to her readers. Her poetry is filled with excitement, with dread, with questions and with memories of people from her life. [...] Her writing touched my soul and left me with joy but also a missing tooth."
 
 — <a href="https://hookedonbooks.org.nz/astonishing-and-fresh-expression-stuti-patel/">review by Stuti Patel (fifteen years old!) for Read NZ</a>
 <br>
 <br>
-<br>
 
 > Holloway "uses a variety of styles: erasures, tabular material, wide variation in spacing. Each poem stands separate, using visual and verbal effects to make her points, but the variation itself holds the individual pieces together."
 
 — <a href="https://www.takahe.org.nz/aup-new-poets-8/">review by Mary Cresswell for Takahē</a>
-<br>
 <br>
 <br>
 
