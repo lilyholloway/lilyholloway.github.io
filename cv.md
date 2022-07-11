@@ -13,20 +13,20 @@ Find reviews for AUP New Poets 8 <b><a href="https://lilyholloway.co.nz/books">h
 
 ## <b>Selected Poems</b> (Online)<br>
 <br>
-### <b>blackmail</b><br>
-#### 2021<br>
+<b>blackmail</b><br>
+ 2021<br>
 <b><a href="http://www.blackmailpress.com/LH44.html">Shells</a></b><br>
 <br>
-### <b>Cordite</b><br>
-#### 2021<br>
+<b>Cordite</b><br>
+ 2021<br>
 <b><a href="http://cordite.org.au/poetry/game/imagined-heterosexuality-with-you-my-ex-who-wont-stop-calling/">Imagined heterosexuality with you, my ex who won't stop calling</a></b><br>
 <br>
-### <b>Midway Journal</b><br>
-#### 2020<br>
+<b>Midway Journal</b><br>
+ 2020<br>
 <b><a href="http://midwayjournal.com/a-girls-name-a-headline/">a girl's name a headline</a></b><br>
 <br>
-### <b>Ōrongohau | Best New Zealand Poems</b><br>
-#### 2022<br>
+<b>Ōrongohau | Best New Zealand Poems</b><br>
+2022<br>
 <b><a href="https://www.bestnewzealandpoems.org.nz/2021-contents/lily-holloway/">All the girls who used to read Dolly have trauma now</a></b><br>
 as discussed in <b><a href="https://www.pw.org/content/the_superpower_of_new_zealand_poetry_a_qa_with_kate_camp">The Superpower of New Zealand Poetry: A Q&A With Kate Camp</a></b><br>
 <br>
