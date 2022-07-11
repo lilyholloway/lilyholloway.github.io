@@ -1,4 +1,4 @@
-<img src="{{ site.url }}/images/AUP_New_Poets_8.jpg" alt="AUP New Poets 8" class="mt4 db center"/><br>
+<a href="https://aucklanduniversitypress.co.nz/aup-new-poets-8/"> <img src="{{ site.url }}/images/AUP_New_Poets_8.jpg" alt="AUP New Poets 8" class="mt4 db center"/><br></a>
 
 > "The poets whose work is brought together in <i>AUP New Poets 8</i> all write with an intoxicating sense of the world’s beauty, its depth and distances. All three poets are concerned with memory and its traces, with artistry and the forms it can take, with the natural world at its most infinitesimal and at its most vast.
 >
