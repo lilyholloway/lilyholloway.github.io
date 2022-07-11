@@ -200,7 +200,7 @@ Shortlisted in the Monash International Undergraduate Prize for Creative Writing
 ---
 ## **Editorial Work**<br>
 Founding Editor for **<a href="https://eelmag.com">eel mag</a>**<br>
-Assistant Editor for **<a href="https://poetrysociety.org.nz/poems-reviews/a-fine-line-quarterly-magazine/">a fine line</a>**<br>
+Assistant Editor for **<a href="https://poetrysociety.org.nz/poems-reviews/a-fine-line-quarterly-magazine/">a fine line</a>** 2021–22<br>
 Executive Editor for **<a href="https://www.interestingjournal.com/who-we-are">Interesting Journal</a>** 2021<br>
 Participant in The Suburban Review's Emerging Editors Workshop 2021<br>
 Intermittent Poetry Reader for Beyond Words 2020, 2021<br>
@@ -221,7 +221,7 @@ Producer & Host of A Night of Poetry, Auckland Pride<br>
 ---
 ## **Other**<br>
 Board Member of Same Same But Different Literary Festival<br>
-Board Member of **<a href="https://poetrysociety.org.nz/about-us/our-people/">New Zealand Poetry Society</a>**<br>
+Board Member of the New Zealand Poetry Society 2021–22</a><br>
 **<a href="https://www.varuna.com.au/online-programs/newzealand">Aotearoa New Zealand Lamplight Residency</a>** recipient 2021<br>
 **<a href="https://authors.org.nz/opportunities/nzsa-programmes-and-services/nzsa-mentor-programme/mentee-recipients-of-2021/">NZSA Mentorship</a>** recipient 2021<br>
 Guest judge for The University of Auckland Poetry Slam 2021<br>
