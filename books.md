@@ -1,3 +1,7 @@
+---
+title: AUP New Poets 8
+---
+
 <a href="https://aucklanduniversitypress.co.nz/aup-new-poets-8/"> <img src="{{ site.url }}/images/AUP_New_Poets_8.jpg" alt="AUP New Poets 8" class="mt4 db center"/><br></a>
 
 <center><a rel="noopener" target="_blank" href="https://aucklanduniversitypress.co.nz/aup-new-poets-8/" target="_blank" style="color: #ffffff; text-decoration: none; border-radius: 3px; background-color: #2b8f4c; border-top: 12px solid #2b8f4c; border-bottom: 12px solid #2b8f4c; border-right: 18px solid #2b8f4c; border-left: 18px solid #2b8f4c; display: inline-block;">Buy the book &rarr;</a></center>
