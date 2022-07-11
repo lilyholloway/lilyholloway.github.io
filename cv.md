@@ -7,9 +7,7 @@ description: Publications and Awards
 <b>Poetry Chapbook</b><br>
 <br>
 <b><a href="https://aucklanduniversitypress.co.nz/aup-new-poets-8/">AUP New Poets 8</a></b> (Auckland University Press, September 2021)<br>
-<br>
 Find reviews for AUP New Poets 8 <b><a href="https://lilyholloway.co.nz/books">here</a></b><br>
-<br>
 <b><a href="https://nzpoetryshelf.com/2021/10/05/poetry-shelf-celebrates-new-books-aup-new-poets-8/">Poetry Shelf celebrates new books: AUP New Poets 8</a></b> (Poetry Shelf, October 2021)<br>
 <br>
 
@@ -126,7 +124,7 @@ as the tide<br>
 <br>
 
 
-<b>Listen</b>
+<b>Listen</b><br>
 <br>
 2021<br>
 <b><a href="https://www.timeout.co.nz/upcoming-events/npd2021">National Poetry Day: All Tomorrow's Poets</a></b><br>
@@ -154,9 +152,7 @@ Happily Ever After: Life After the Ring (Interesting Journal)<br>
 
 2020<br>
 Auckland in 100 Words (Interesting Journal)<br>
-<br>
 <b><a href="https://www.starlingmag.com/issue-10/lily-holloway">'Dirt', 'My Street', 'Magic' and 'University'</a></b> (Starling)<br>
-<br>
 2019<br>
 Flying (Mindfood Magazine)<br>
 <br>
@@ -196,17 +192,11 @@ Shortlisted in the Monash International Undergraduate Prize for Creative Writing
 <b>Editorial Work</b><br>
 
 Founding Editor for <b><a href="https://eelmag.com">eel mag</a></b><br>
-<br>
 Assistant Editor for <b><a href="https://poetrysociety.org.nz/poems-reviews/a-fine-line-quarterly-magazine/">a fine line</a></b><br>
-<br>
 Executive Editor for <b><a href="https://www.interestingjournal.com/who-we-are">Interesting Journal</a></b> 2021<br>
-<br>
 Participant in The Suburban Review's Emerging Editors Workshop 2021<br>
-<br>
 Intermittent Poetry Reader for Beyond Words 2020, 2021<br>
-<br>
 Editorial board member for <b><a href="https://www.beyondwordsmag.com/online-store/Beyond-Queer-Words-A-Collection-of-Poems-p218768615">Beyond Queer Words: A Collection of Poems</a></b> 2020<br>
-<br>
 Editorial board member for <b><a href="https://www.interestingjournal.com/who-we-are">Interesting Journal</a></b> 2020 (Issues 10 & 11)<br>
 <br>
 
