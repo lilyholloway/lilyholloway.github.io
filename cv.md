@@ -221,7 +221,7 @@ Producer & Host of A Night of Poetry, Auckland Pride<br>
 ---
 ## **Other**<br>
 Board Member of Same Same But Different Literary Festival<br>
-Board Member of the New Zealand Poetry Society 2021–22</a><br>
+Board Member of the New Zealand Poetry Society 2021–22<br>
 **<a href="https://www.varuna.com.au/online-programs/newzealand">Aotearoa New Zealand Lamplight Residency</a>** recipient 2021<br>
 **<a href="https://authors.org.nz/opportunities/nzsa-programmes-and-services/nzsa-mentor-programme/mentee-recipients-of-2021/">NZSA Mentorship</a>** recipient 2021<br>
 Tutor for the University of Auckland English Literature department 2020–21<br>
