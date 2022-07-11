@@ -73,6 +73,24 @@ as discussed in **<a href="https://www.pw.org/content/the_superpower_of_new_zeal
 
 ---
 ## **Selected Poems** (Print)<br>
+**<a href="https://aucklanduniversitypress.co.nz/out-here-an-anthology-of-takat-pui-and-lgbtqia-writers-from-aotearoa/">Out Here: An Anthology of Takatāpui and LGBTQIA+ New Zealand Writers</a>**<br>
+i think i can feel reverberations of something further downstream<br>
+The Thing<br>
+Commuting with Angela<br>
+<br>
+**Landfall**<br>
+  2021<br>
+and so I shape myself<br>
+Under the falling chestnuts<br>
+periphery<br>
+<br>
+**Poetry New Zealand Yearbook**<br>
+  2022<br>
+your ex texts you every august from a new number<br>
+  2021<br>
+bed against the wall<br>
+The road to the hill is closed<br>
+<br>
 **Aniko Press**<br>
   2021<br>
 you are my night terror i hope i am yours<br>
@@ -83,18 +101,12 @@ Getting Colder<br>
   2021<br>
 Angela fragment 96<br>
 <br>
-**Fresh Ink Anthology**<br>
-hopscotch<br>
-<br>
 **Hills Hoist**<br>
   2021<br>
 Contents<br>
 <br>
-**Landfall**<br>
-  2021<br>
-and so I shape myself<br>
-Under the falling chestnuts<br>
-periphery<br>
+**Fresh Ink Anthology**<br>
+hopscotch<br>
 <br>
 **Mayhem**<br>
   2021<br>
@@ -105,21 +117,9 @@ Buffet<br>
   2019<br>
 24<br>
 <br>
-**<a href="https://aucklanduniversitypress.co.nz/out-here-an-anthology-of-takat-pui-and-lgbtqia-writers-from-aotearoa/">Out Here: An Anthology of Takatāpui and LGBTQIA+ New Zealand Writers</a>**<br>
-i think i can feel reverberations of something further downstream<br>
-The Thing<br>
-Commuting with Angela<br>
-<br>
 **Overcommunicate**<br>
   2020<br>
 Blue<br>
-<br>
-**Poetry New Zealand Yearbook**<br>
-  2022<br>
-your ex texts you every august from a new number<br>
-  2021<br>
-bed against the wall<br>
-The road to the hill is closed<br>
 <br>
 **takahē**<br>
   2021<br>
