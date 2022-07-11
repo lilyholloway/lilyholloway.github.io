@@ -201,6 +201,7 @@ Shortlisted in the Monash International Undergraduate Prize for Creative Writing
 ## **Editorial Work**<br>
 Founding Editor for **<a href="https://eelmag.com">eel mag</a>**<br>
 Assistant Editor for **<a href="https://poetrysociety.org.nz/poems-reviews/a-fine-line-quarterly-magazine/">a fine line</a>** 2021–22<br>
+Sub-editor for Salient 2022 (until July)<br>
 Executive Editor for **<a href="https://www.interestingjournal.com/who-we-are">Interesting Journal</a>** 2021<br>
 Participant in The Suburban Review's Emerging Editors Workshop 2021<br>
 Intermittent Poetry Reader for Beyond Words 2020, 2021<br>
