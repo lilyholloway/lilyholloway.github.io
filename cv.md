@@ -223,7 +223,7 @@ Board Member of Same Same But Different Literary Festival<br>
 Board Member of **<a href="https://poetrysociety.org.nz/about-us/our-people/">New Zealand Poetry Society</a>**<br>
 **<a href="https://www.varuna.com.au/online-programs/newzealand">Aotearoa New Zealand Lamplight Residency</a>** recipient 2021<br>
 **<a href="https://authors.org.nz/opportunities/nzsa-programmes-and-services/nzsa-mentor-programme/mentee-recipients-of-2021/">NZSA Mentorship</a>** recipient 2021<br>
-Guest judge for The University of Auckland Poetry Slam, 2021<br>
-Recipient of the Blackbird Foundation Protostar Grant, 2021<br>
+Guest judge for The University of Auckland Poetry Slam 2021<br>
+Recipient of the Blackbird Foundation Protostar Grant 2021<br>
 Database Manager for takahē literary magazine 2021<br>
 Participant in Auckland Theatre Company's Young Writers' Table 2019<br>
