@@ -7,7 +7,6 @@
 — from the foreword by Anna Jackson
 <br>
 <br>
-<br>
 
 > "The first section is from prolific writer and editor Lily Holloway. Holloway has been a force in Aotearoa poetry in the last couple of years, publishing widely and co-founding Aotearoa’s first queer poetry journal, eel magazine (the first issue has just been released—worth noting here for its depth and breadth). Holloway’s section in this book, ‘a child in the alcove’, gives us insight into the little things that move them: Velma and the mystery machine, Sistema lunch boxes, starfish and crustaceans. These little pockets of refuge amidst a storm of heavy subject matter provide a deft balance of the light and the heavy. 
 >
@@ -16,14 +15,12 @@
 — <a href="https://landfallreview.com/the-timeline-is-elusive/">review by Jordan Hamel for Landfall</a>
 <br>
 <br>
-<br>
 
 > Holloway's "selection, 'a child in that alcove,' really showcases her versatility and ambition as a writer, with really thorny, evocative lines and images that stay with you."
 >
 > "Lily tackles the extraordinary in the everyday and really emphasises the passing of time and how that can have an effect on how we reconcile events in our personal pasts, and the loops that we can get stuck in."
 
 — <a href="https://www.rnz.co.nz/national/programmes/ninetonoon/audio/2018815424/book-review-aup-new-poets-8">review by Chris Tse for RNZ</a>
-<br>
 <br>
 <br>
 
