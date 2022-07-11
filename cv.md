@@ -194,7 +194,7 @@ Kendrick Smithyman Scholarship in Poetry<br>
 2019<br>
 **<a href="https://nzgivenwords.blogspot.com/2019/09/">Best Poem in Given Words National Poetry Day Competition</a>** (Translated into Spanish **<a href="https://libropalabrasprestadas.blogspot.com/2019/11/dia-nacional-de-la-poesia-nueva-zelanda.html">here</a>**)<br>
 Highly Commended in Divine Muses New Voices - Emerging Poets Competition<br>
-Shortlisted in the Monash International Undergraduate Prize for Creative Writing<br>
+Shortlisted in the Monash Undergraduate Prize for Creative Writing<br>
 <br>
 
 ---
@@ -204,8 +204,6 @@ Assistant Editor for **<a href="https://poetrysociety.org.nz/poems-reviews/a-fin
 Sub-editor for Salient 2022 (until July)<br>
 Executive Editor for **<a href="https://www.interestingjournal.com/who-we-are">Interesting Journal</a>** 2021<br>
 Participant in The Suburban Review's Emerging Editors Workshop 2021<br>
-Intermittent Poetry Reader for Beyond Words 2020, 2021<br>
-Editorial board member for **<a href="https://www.beyondwordsmag.com/online-store/Beyond-Queer-Words-A-Collection-of-Poems-p218768615">Beyond Queer Words: A Collection of Poems</a>** 2020<br>
 Editorial board member for **<a href="https://www.interestingjournal.com/who-we-are">Interesting Journal</a>** 2020 (Issues 10 & 11)<br>
 <br>
 
