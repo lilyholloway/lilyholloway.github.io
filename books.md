@@ -54,4 +54,6 @@
 <br>
 <br>
 
+<a rel="noopener" target="_blank" href="https://aucklanduniversitypress.co.nz/aup-new-poets-8/" target="_blank" style="font-size: 18px; font-family: Helvetica, Arial, sans-serif; color: #ffffff; font-weight: bold; text-decoration: none; border-radius: 5px; background-color: #1F7F4C; border-top: 12px solid #1F7F4C; border-bottom: 12px solid #1F7F4C; border-right: 18px solid #1F7F4C; border-left: 18px solid #1F7F4C; display: inline-block;">Buy the book &rarr;</a>
+
 <b><a href="https://aucklanduniversitypress.co.nz/aup-new-poets-8/">Available now!</a><b><br>
