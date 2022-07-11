@@ -4,177 +4,192 @@ description: Publications and Awards
 
 ---
 
-<b>Poetry Collection</b><br>
+<b>Poetry Chapbook</b><br>
 <br>
 <b><a href="https://aucklanduniversitypress.co.nz/aup-new-poets-8/">AUP New Poets 8</a></b> (Auckland University Press, September 2021)<br>
 <br>
 Find reviews for AUP New Poets 8 <b><a href="https://lilyholloway.co.nz/books">here</a></b><br>
 <br>
-<b><a href="https://nzpoetryshelf.com/2021/10/05/poetry-shelf-celebrates-new-books-aup-new-poets-8/">Poetry Shelf celebrates new books: AUP New Poets 8</a></b> (Poetry Shelf, October 2021)
-<br>
-<br>
-
-<b>Poetry</b><br>
-
-Three poems (Starling, forthcoming)<br>
-<br>
-<b><a href="https://nzpoetryshelf.com/2022/04/14/poetry-shelf-paragraphs-25-poets-on-poetry/">No rage but in poetry</a></b> (Poetry Shelf, April 2022)<br>
-<br>
-<b><a href="https://www.bestnewzealandpoems.org.nz/2021-contents/lily-holloway/">All the girls who used to read Dolly have trauma now</a></b> (Ōrongohau | Best New Zealand Poems 2021)<br> and discussed in <b><a href="https://www.pw.org/content/the_superpower_of_new_zealand_poetry_a_qa_with_kate_camp">The Superpower of New Zealand Poetry: A Q&A With Kate Camp</a></b> (Poets & Writers, April 2022)<br>
-<br>
-<b><a href="https://www.peachmgzn.com/lily-holloway">I want our story like</a></b> (Peach Mag, March 2022)<br>
-<br>
-One poem (<b><a href="https://www.masseypress.ac.nz/books/poetry-new-zealand-yearbook-2022/">Poetry New Zealand Yearbook 2022</a></b>, March 2022)<br>
-<br>
-Two poems (Mayhem Issue 9, December 2021)<br>
-<br>
-Three poems (<b><a href="https://aucklanduniversitypress.co.nz/out-here-an-anthology-of-takat-pui-and-lgbtqia-writers-from-aotearoa/">Out Here: An Anthology of Takatāpui and LGBTQIA+ New Zealand Writers</a></b>, November 2021)<br>
-<br>
-Angela fragment 96 (<b><a href="https://compoundpress.org/books/poetry-calendar-2022/">Compound Press Poetry Calendar 2022</a></b>, November 2021)<br>
-<br>
-and so I shape myself (<b><a href="https://www.otago.ac.nz/press/books/otago831149.html">Landfall 242</a></b>, November 2021)<br>
-<br>
-hopscotch (Fresh Ink Anthology, November 2021)<br>
-<br>
-<b><a href="https://www.stasisjournal.com/home/all-the-girls-who-used-to-read-dolly-have-trauma-now">All the girls who used to read Dolly have trauma now</a></b> (Stasis, October 2021) <br>and reviewed by Elizabeth Heritage <b><a href="https://www.ketebooks.co.nz/all-book-reviews/review-stasis-journal-anthology-epl7k-skl78">here</a></b> (Kete Books, December 2021)<br>
-<br>
-Contents (Hills Hoist, October 2021)<br>
-<br>
-Three poems (<b><a href="https://www.foodcourtbooks.com/shop/p/food-court-s08e02-digital">Food Court S08E02</a></b>, October 2021)<br>
-<br>
-<b><a href="https://www.timeout.co.nz/upcoming-events/npd2021">National Poetry Day: All Tomorrow's Poets</a></b> (Time Out Bookstore, August 2021)<br>
-<br>
-<b><a href="https://nzpoetryshelf.com/2021/08/27/poetry-shelf-celebrates-phantom-national-poetry-day-with-eight-poets-reading-a-poem/">Poetry Shelf celebrates Phantom National Poetry Day with eight poets reading a poem</a></b> (Poetry Shelf, August 2021)<br>
-<br>
-<b><a href="https://www.starlingmag.com/issue-12/lily-holloway">Three poems</a></b> (Starling, Issue 12)<br>
-<br>
-<b><a href="https://writerspractice.nz/two-queers-meet-in-cafe/">two queers meet in a café</a></b> (Writers Practice Aotearoa, August 2021)<br>
-<br>
-<b><a href="http://cordite.org.au/poetry/game/imagined-heterosexuality-with-you-my-ex-who-wont-stop-calling/">Imagined heterosexuality with you, my ex who won't stop calling</a></b> (Cordite Poetry Review: GAME, August 2021)<br>
-<br>
-<b><a href="https://nzpoetryshelf.com/2021/07/30/poetry-shelf-theme-season-thirteen-poems-about-song/">Poetry Shelf Theme Season: Thirteen poems about song</a></b> (Poetry Shelf, July 2021)<br>
-<br>
-<b><a href="https://nzpoetryshelf.com/2021/06/28/poetry-shelf-noticeboard-lily-holloways-tidewrack/">Tidewrack</a></b> (Poetry Shelf, June 2021)<br>
-<br>
-you are my night terror i hope i am yours (<b><a href="https://www.anikopress.com/shop/p/issue2">Aniko Press: Revolt</a></b>, June 2021)<br>
-<br>
-Five poems (<b><a href="https://www.aerogramme.org/magazine">The Mobile Library: Dictionary of Colors Issue 4</a></b>, June 2021)<br>
-<br>
-<b><a href="https://nzpoetryshelf.com/2021/05/28/poetry-shelf-theme-season-thirteen-poems-about-water/">Poetry Shelf Theme Season: Thirteen poems about water</a></b> (Poetry Shelf, May 2021)<br>
-<br>
-Two poems (<b><a href="https://www.otago.ac.nz/press/books/otago825242.html">Landfall 241</a></b>, May 2021)<br>
-<br>
-<b><a href="https://nzpoetryshelf.com/2021/05/07/poetry-shelf-theme-season-ten-poems-about-dreaming/">Poetry Shelf Theme Season: Ten poems about dreaming</a></b> (Poetry Shelf, May 2021)<br>
-<br>
-as the tide (takahē 101, April 2021)<br>
-<br>
-<b><a href="https://nzpoetryshelf.com/2021/04/14/poetry-shelf-celebrates-new-books-with-readings-ten-poets-read-from-poetry-new-zealand-yearbook-2021/">Ten poets read from Poetry New Zealand Yearbook 2021</a></b> (Poetry Shelf, April 2021)<br>
-<br>
-Two poems (<b><a href="https://www.masseypress.ac.nz/books/poetry-new-zealand-yearbook-2021/">Poetry New Zealand Yearbook 2021</a></b>, March 2021)<br>
-<br>
-<b><a href="https://www.starlingmag.com/issue-11/lily-holloway">Two poems</a></b> (Starling, Issue 11)<br>
-<br>
-<b><a href="http://www.blackmailpress.com/LH44.html">Shells</a></b> (blackmail 44, February 2021)<br>
-<br>
-Buffet (<b><a href="https://www.mayhemjournal.co.nz/shop/product/471459/mayhem-2020--issue-8/">Mayhem Issue 8</a></b>, November 2020)<br>
-<br>
-Getting Colder (<b><a href="https://www.anikopress.com/shop/p/aniko-press-issue-one-unsung">Aniko Press: Unsung</a></b>, October 2020)<br>
-<br>
-<b><a href="https://thespinoff.co.nz/books/30-10-2020/the-friday-poem-sentries-by-lily-holloway/">Sentries</a></b> (The Spinoff, October 2020)<br>
-<br>
-<b><a href="https://nzpoetryshelf.com/2020/10/30/poetry-shelf-video-lounge-lily-holloway-reads-some-poems/">Poetry Shelf Video Lounge: Lily Holloway reads some poems</a></b> (Poetry Shelf, October 2020)<br>
-<br>
-Blue (<b><a href="https://overcommunicate.bigcartel.com/product/love-poems">Overcommunicate: Love Poems</a></b>, October 2020)<br>
-<br>
-<b><a href="https://www.thebanyanreview.org/issue3-fall-2020/lillyholloway-issue3-fall-2020-elements-2/">Four poems</a></b> (The Banyan Review, Fall 2020)<br>
-<br>
-<b><a href="http://midwayjournal.com/a-girls-name-a-headline/">a girl's name a headline</a></b> (Midway Journal, Volume 4, Issue 3)<br>
-<br>
-<b><a href="http://www.scum-mag.com/stocktaking-during-venlafaxine-discontinuation/">stocktaking during venlafaxine discontinuation</a></b> (Scum, July 2020)<br>
-<br>
-<b><a href="https://www.poetrylabshanghai.com/post/summer20">rimu road</a></b> (Poetry Lab Shanghai, Summer 2020, and <b><a href="https://www.poetrylabshanghai.com/store">PLS Anthology Volume I</a></b>)<br>
-<br>
-<b><a href="https://www.millymagazine.com/two-poems-by-lily-holloway">Two Poems</a></b> (Milly Magazine, May 2020)<br>
-<br>
-<b><a href="https://www.thethreelamps.com/article/lily-holloway?publication=spring-2019">Three Poems</a></b> (Three Lamps, Spring 2019)<br>
-<br>
-<b><a href="https://poetrysocietynz.files.wordpress.com/2020/04/a-fine-line-summer-2019-digital.pdf">the bluebeard</a></b> (NZPS a fine line, Summer 2019/2020)<br>
-<br>
-<b><a href="https://thespinoff.co.nz/books/18-10-2019/the-friday-poem-modernity-to-globalisation-by-lily-holloway/">modernity to globalisation</a></b> (The Spinoff, October 2019)<br>
-<br>
-24 (<b><a href="https://www.mayhemjournal.co.nz/page/7-0-contents/">Mayhem Issue 7</a></b>, November 2019)<br>
+<b><a href="https://nzpoetryshelf.com/2021/10/05/poetry-shelf-celebrates-new-books-aup-new-poets-8/">Poetry Shelf celebrates new books: AUP New Poets 8</a></b> (Poetry Shelf, October 2021)<br>
 <br>
 
+<b>Selected Poems</b> (Online)<br>
+<br>
+<b>blackmail</b><br>
+2021<br>
+<b><a href="http://www.blackmailpress.com/LH44.html">Shells</a></b><br>
+<br>
+<b>Cordite</b><br>
+2021<br>
+<b><a href="http://cordite.org.au/poetry/game/imagined-heterosexuality-with-you-my-ex-who-wont-stop-calling/">Imagined heterosexuality with you, my ex who won't stop calling</a></b><br>
+<br>
+<b>Midway Journal</b><br>
+2020<br>
+<b><a href="http://midwayjournal.com/a-girls-name-a-headline/">a girl's name a headline</a></b><br>
+<br>
+<b>Ōrongohau | Best New Zealand Poems</b><br>
+2022<br>
+<b><a href="https://www.bestnewzealandpoems.org.nz/2021-contents/lily-holloway/">All the girls who used to read Dolly have trauma now</a></b><br>
+as discussed in <b><a href="https://www.pw.org/content/the_superpower_of_new_zealand_poetry_a_qa_with_kate_camp">The Superpower of New Zealand Poetry: A Q&A With Kate Camp</a></b><br>
+<br>
+<b>Peach Mag</b><br>
+2022<br>
+<b><a href="https://www.peachmgzn.com/lily-holloway">I want our story like</a></b><br>
+<br>
+<b>Poetry Lab Shanghai</b><br>
+2020<br>
+<b><a href="https://www.poetrylabshanghai.com/post/summer20">rimu road</a></b><br>
+<br>
+<b>Poetry Shelf</b><br>
+2022<br>
+<b><a href="https://nzpoetryshelf.com/2022/04/14/poetry-shelf-paragraphs-25-poets-on-poetry/">No rage but in poetry</a></b><br>
+2021<br>
+<b><a href="https://nzpoetryshelf.com/2021/07/30/poetry-shelf-theme-season-thirteen-poems-about-song/">thursday's choir</a></b><br>
+<b><a href="https://nzpoetryshelf.com/2021/06/28/poetry-shelf-noticeboard-lily-holloways-tidewrack/">Tidewrack</a></b><br>
+<br>
+<b>Scum Mag</b><br>
+<b><a href="http://www.scum-mag.com/stocktaking-during-venlafaxine-discontinuation/">stocktaking during venlafaxine discontinuation</a></b><br>
+<br>
+<b>The Spinoff</b><br>
+2020<br>
+<b><a href="https://thespinoff.co.nz/books/30-10-2020/the-friday-poem-sentries-by-lily-holloway/">Sentries</a></b><br>
+2019<br>
+<b><a href="https://thespinoff.co.nz/books/18-10-2019/the-friday-poem-modernity-to-globalisation-by-lily-holloway/">modernity to globalisation</a></b><br>
+<br>
+<b>Starling</b><br>
+2021<br>
+<b><a href="https://www.starlingmag.com/issue-12/lily-holloway">Sand</a></b><br>
+<b><a href="https://www.starlingmag.com/issue-12/lily-holloway">I won't pretend to be a person anymore</a></b><br>
+<b><a href="https://www.starlingmag.com/issue-12/lily-holloway">u r the runescape gf & i am the neopets gf & we are both hotties</a></b><br>
+<b><a href="https://www.starlingmag.com/issue-11/lily-holloway">Pegasus Gateway Motel (Before Ali's Funeral I Make My Mum Cry)</a></b><br>
+<b><a href="https://www.starlingmag.com/issue-11/lily-holloway">Methods of burial</a></b><br>
+<br>
+<b>Stasis</b><br>
+2021<br>
+<b><a href="https://www.stasisjournal.com/home/all-the-girls-who-used-to-read-dolly-have-trauma-now">All the girls who used to read Dolly have trauma now</a></b><br>
+<b><a href="https://www.ketebooks.co.nz/all-book-reviews/review-stasis-journal-anthology-epl7k-skl78">as reviewed by Elizabeth Heritage</a></b><br>
+<br>
+
+<b>Selected Poems</b> (Print)<br>
+<br>
+<b>Aniko Press</b><br>
+2021<br>
+you are my night terror i hope i am yours<br>
+2020<br>
+Getting Colder<br>
+<br>
+<b>Compound Press Poetry Calendar</b><br>
+2021<br>
+Angela fragment 96<br>
+<br>
+<b>Fresh Ink Anthology</b><br>
+hopscotch<br>
+<br>
+<b>Hills Hoist</b><br>
+2021<br>
+Contents<br>
+<br>
+<b>Landfall</b><br>
+2021<br>
+and so I shape myself<br>
+Under the falling chestnuts<br>
+periphery<br>
+<br>
+<b>Mayhem</b><br>
+2021<br>
+on the way to the bus-stop<br>
+what you've left me:<br>
+2020<br>
+Buffet<br>
+2019<br>
+24<br>
+<br>
+<b><a href="https://aucklanduniversitypress.co.nz/out-here-an-anthology-of-takat-pui-and-lgbtqia-writers-from-aotearoa/">Out Here: An Anthology of Takatāpui and LGBTQIA+ New Zealand Writers</a></b><br>
+i think i can feel reverberations of something further downstream<br>
+The Thing<br>
+Commuting with Angela<br>
+<br>
+<b>Overcommunicate</b><br>
+2020<br>
+Blue<br>
+<br>
+<b>Poetry New Zealand Yearbook</b><br>
+2022<br>
+your ex texts you every august from a new number<br>
+2021<br>
+bed against the wall<br>
+The road to the hill is closed<br>
+<br>
+<b>takahē</b><br>
+2021<br>
+as the tide<br>
+<br>
+
+
+<b>Listen</b>
+<br>
+2021<br>
+<b><a href="https://www.timeout.co.nz/upcoming-events/npd2021">National Poetry Day: All Tomorrow's Poets</a></b><br>
+<b><a href="https://nzpoetryshelf.com/2021/08/27/poetry-shelf-celebrates-phantom-national-poetry-day-with-eight-poets-reading-a-poem/">Poetry Shelf celebrates Phantom National Poetry Day with eight poets reading a poem</a></b><br>
+<b><a href="https://nzpoetryshelf.com/2021/04/14/poetry-shelf-celebrates-new-books-with-readings-ten-poets-read-from-poetry-new-zealand-yearbook-2021/">Ten poets read from Poetry New Zealand Yearbook 2021</a></b><br>
+2020<br>
+<b><a href="https://nzpoetryshelf.com/2020/10/30/poetry-shelf-video-lounge-lily-holloway-reads-some-poems/">Poetry Shelf Video Lounge: Lily Holloway reads some poems</a></b><br>
+<br>
 
 <b>Non-Fiction</b><br>
 
-<b><a href="https://thespinoff.co.nz/books/26-06-2022/one-more-for-the-bloodbath">One more for the bloodbath: Lily Holloway reviews Meat Lovers by Rebecca Hawkes</a></b> (The Spinoff, June 2022)<br>
+2022<br>
+<b><a href="https://thespinoff.co.nz/books/26-06-2022/one-more-for-the-bloodbath">One more for the bloodbath: Lily Holloway reviews Meat Lovers by Rebecca Hawkes</a></b> (The Spinoff)<br>
+2021<br>
+<b><a href="https://saltyworld.net/the-retrauma-of-filing-a-police-report/">The (re)Trauma of Filing a Police Report</a></b> (Salty Mag)<br>
+<b><a href="https://www.newsroom.co.nz/the-ghost-in-my-social-media">The Ghost in My Social Media</a></b> (Newsroom)<br>
+2020<br>
+<b><a href="https://www.pantograph-punch.com/posts/Waiting-for-Metamorphosis">Waiting for Metamorphosis</a></b> (The Pantograph Punch)<br>
+2019<br>
+I wander, she holds my hand (Mayhem)<br>
+Happily Ever After: Life After the Ring (Interesting Journal)<br>
 <br>
-<b><a href="https://saltyworld.net/the-retrauma-of-filing-a-police-report/">The (re)Trauma of Filing a Police Report</a></b> (Salty Mag, November 2021)<br>
-<br>
-<b><a href="https://www.newsroom.co.nz/the-ghost-in-my-social-media">The Ghost in My Social Media</a></b> (Newsroom, October 2021)<br>
-<br>
-<b><a href="https://www.pantograph-punch.com/posts/Waiting-for-Metamorphosis">Waiting for Metamorphosis</a></b> (The Pantograph Punch, July 2020)<br>
-<br>
-<b><a href="https://poetrysociety.org.nz/lost-and-somewhere-else-by-jenny-bornholdt/">Review of Lost and Somewhere Else by Jenny Bornholdt</a></b> (NZPS Poetry Micro-reviews, 2020) <br>
-<br>
-I wander, she holds my hand (<b><a href="https://www.mayhemjournal.co.nz/page/7-0-contents/">Mayhem Issue 7, 2019</a></b>)<br>
-<br>
-Happily Ever After: Life After the Ring (Interesting Journal Edition 9, 2019)<br>
-<br>
-
 
 <b>Short Fiction</b><br>
 
-<b><a href="https://open.spotify.com/episode/5poNhuzseCeBG57uilcEVj?si=1aakXCdRRkWLcbXQWhwYEg">Lily Holloway Reads "River Axe"</a></b> (Telescope Podcast, February 2021)<br>
+2020<br>
+Auckland in 100 Words (Interesting Journal)<br>
 <br>
-Auckland in 100 Words (Interesting Journal Edition 10, October 2020)<br>
+<b><a href="https://www.starlingmag.com/issue-10/lily-holloway">'Dirt', 'My Street', 'Magic' and 'University'</a></b> (Starling)<br>
 <br>
-<b><a href="https://www.starlingmag.com/issue-10/lily-holloway">'Dirt', 'My Street', 'Magic' and 'University'</a></b> (Starling, Issue 10)<br>
-<br>
-Flying (Mindfood Magazine, November 2019)<br>
+2019<br>
+Flying (Mindfood Magazine)<br>
 <br>
 
 
 <b>Other Writing</b><br>
 
-<b><a href="https://eelmag.com/edition-one/editorial">a note from the editors</a></b> (eel mag, May 2022)<br>
-<br>
-Interviewed for <b><a href="https://www.newsroom.co.nz/the-future-of-new-zealand-poetry">The future of New Zealand poetry</a></b> (Newsroom, February 2022)<br>
-<br>
-<b><a href="https://nzpoetryshelf.com/2021/12/17/poetry-shelf-celebrates-2021-fifteen-authors-make-some-picks/">Poetry Shelf celebrates 2021: Fifteen authors make some picks</a></b> (Poetry Shelf, December 2021)<br>
-<br>
-Interview with Lily Holloway (Parts 1 & 2) (<b><a href="https://mailchi.mp/capartscentre.com/the-monthly-poetry-and-spoken-word-edition-august-2021-152126?fbclid=IwAR3q5ZUAwWTaR3CZUr2S_YuNU7cEDtDeaRw5-ptpoFznNI8N0mqPBl5ePgI">The Monthly, August 2021</a></b>)<br>
-<br>
-<b><a href="https://www.anikopress.com/interviews/lily-holloway-2">Q&A with Lily Holloway (round 2!)</a></b> (Aniko Press, May 2021)<br>
-<br>
-<b><a href="https://www.anikopress.com/interviews/lily-holloway">Q&A with Lily Holloway</a></b> (Aniko Press, September 2020)<br>
+2022<br>
+<b><a href="https://eelmag.com/edition-one/editorial">a note from the editors</a></b> (eel mag)<br>
+Interviewed for <b><a href="https://www.newsroom.co.nz/the-future-of-new-zealand-poetry">The future of New Zealand poetry</a></b> (Newsroom)<br>
+2021<br>
+<b><a href="https://nzpoetryshelf.com/2021/12/17/poetry-shelf-celebrates-2021-fifteen-authors-make-some-picks/">Poetry Shelf celebrates 2021: Fifteen authors make some picks</a></b> (Poetry Shelf)<br>
+<b><a href="https://www.anikopress.com/interviews/lily-holloway-2">Q&A with Lily Holloway (round 2!)</a></b> (Aniko Press)<br>
+2020<br>
+<b><a href="https://www.anikopress.com/interviews/lily-holloway">Q&A with Lily Holloway</a></b> (Aniko Press)<br>
 <br>
 
 
-<b>Writing Awards</b><br>
+<b>Awards</b><br>
 
-2021 University of Auckland Blues Award for Creative Writing<br>
-<br>
-2021 Newsroom's Award for Best Title for 'All the girls who used to read Dolly have trauma now'<br>
-<br>
-2020 Long-listed for the Monica Taylor Poetry Prize<br>
-<br>
-2020 <b><a href="https://www.caselbergtrust.org/news/poetry-prize-2020-winners-announced">Highly Commended in the Caselberg Trust International Poetry Prize</a></b><br>
-<br>
-2020 Shimon Weinroth Prize in Poetry<br>
-<br>
-2020 Second Place in Charles Brasch Young Writers' Essay Competition<br>
-<br>
-2020 Kendrick Smithyman Scholarship in Poetry<br>
-<br>
-2020 <b><a href="https://nzgivenwords.blogspot.com/2020/09/given-poems-for-national-poetry-day.html">Judges' Selection</a></b> in Given Words National Poetry Day Competition<br>
-<br>
-2019 <b><a href="https://nzgivenwords.blogspot.com/2019/09/">Best Poem in Given Words National Poetry Day Competition</a></b> (Translated into Spanish <b><a href="https://libropalabrasprestadas.blogspot.com/2019/11/dia-nacional-de-la-poesia-nueva-zelanda.html">here</a></b>)<br>
-<br>
-2019 Highly Commended in Divine Muses New Voices - Emerging Poets Competition<br>
-<br>
-2019 Shortlisted in the Monash Undergraduate Prize for Creative Writing<br>
+2021<br>
+University of Auckland Blues Award for Creative Writing<br>
+2020<br>
+Long-listed for the Monica Taylor Poetry Prize<br>
+<b><a href="https://www.caselbergtrust.org/news/poetry-prize-2020-winners-announced">Highly Commended in the Caselberg Trust International Poetry Prize</a></b><br>
+Shimon Weinroth Prize in Poetry<br>
+Second Place in Charles Brasch Young Writers' Essay Competition<br>
+Kendrick Smithyman Scholarship in Poetry<br>
+<b><a href="https://nzgivenwords.blogspot.com/2020/09/given-poems-for-national-poetry-day.html">Judges' Selection</a></b> in Given Words National Poetry Day Competition<br>
+2019<br>
+<b><a href="https://nzgivenwords.blogspot.com/2019/09/">Best Poem in Given Words National Poetry Day Competition</a></b> (Translated into Spanish <b><a href="https://libropalabrasprestadas.blogspot.com/2019/11/dia-nacional-de-la-poesia-nueva-zelanda.html">here</a></b>)<br>
+Highly Commended in Divine Muses New Voices - Emerging Poets Competition<br>
+Shortlisted in the Monash International Undergraduate Prize for Creative Writing<br>
 <br>
 
 
@@ -196,43 +211,24 @@ Editorial board member for <b><a href="https://www.interestingjournal.com/who-we
 <br>
 
 
-<b>Performances and Events</b><br>
+<b>Selected Performances and Events</b><br>
 
-Featured Poet for the Porirua Libraries Campaign for National Poetry Day 2021<br>
+2021<br>
+Featured Poet for the Porirua Libraries Campaign for National Poetry Day<br>
+Featured Poet for the JAFA September Qualifier<br>
+Performed at From Opposite Ends of the Earth (A New Zealand & Irish Poetry Exchange)<br>
+Producer and Host of A Night of Poetry, Auckland Pride<br>
 <br>
-Featured Poet for the JAFA September Qualifier, 2021<br>
-<br>
-Performed at Poetry & Pyjamas (Delta Variant), August 2021<br>
-<br>
-Performed at a Time Out Bookstore reading, July 2021<br>
-<br>
-Performed at From Opposite Ends of the Earth (A New Zealand & Irish Poetry Exchange), June 2021<br>
-<br>
-Performed at Make Your Noise, June 2021<br>
-<br>
-<b><a href="https://theopenbook.co.nz/events/2021/4/25/poet-poet-poet">Performed at The Open Book</a></b>, April 2021<br>
-<br>
-Producer and Host of A Night of Poetry, Auckland Pride 2021<br>
-<br>
-Performed at Poetry & Pyjamas, March 2021<br>
-<br>
+
 
 
 <b>Other</b><br>
 
 Board Member of Same Same But Different Literary Festival<br>
-<br>
 Board Member of <b><a href="https://poetrysociety.org.nz/about-us/our-people/">New Zealand Poetry Society</a></b><br>
-<br>
 <b><a href="https://www.varuna.com.au/online-programs/newzealand">Aotearoa New Zealand Lamplight Residency</a></b> recipient 2021<br>
-<br>
 <b><a href="https://authors.org.nz/opportunities/nzsa-programmes-and-services/nzsa-mentor-programme/mentee-recipients-of-2021/">NZSA Mentorship</a></b> recipient 2021<br>
-<br>
 Guest judge for The University of Auckland Poetry Slam, 2021<br>
-<br>
 Recipient of the Blackbird Foundation Protostar Grant, 2021<br>
-<br>
 Database Manager for takahē literary magazine 2021<br>
-<br>
 Participant in Auckland Theatre Company's Young Writers' Table 2019<br>
-<br>
