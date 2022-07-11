@@ -127,6 +127,7 @@ as the tide<br>
 **<a href="https://www.timeout.co.nz/upcoming-events/npd2021">National Poetry Day: All Tomorrow's Poets</a>**<br>
 **<a href="https://nzpoetryshelf.com/2021/08/27/poetry-shelf-celebrates-phantom-national-poetry-day-with-eight-poets-reading-a-poem/">Poetry Shelf celebrates Phantom National Poetry Day with eight poets reading a poem</a>**<br>
 **<a href="https://nzpoetryshelf.com/2021/04/14/poetry-shelf-celebrates-new-books-with-readings-ten-poets-read-from-poetry-new-zealand-yearbook-2021/">Ten poets read from Poetry New Zealand Yearbook 2021</a>**<br>
+<br>
   2020<br>
 **<a href="https://nzpoetryshelf.com/2020/10/30/poetry-shelf-video-lounge-lily-holloway-reads-some-poems/">Poetry Shelf Video Lounge: Lily Holloway reads some poems</a>**<br>
 <br>
@@ -135,11 +136,14 @@ as the tide<br>
 ## **Non-Fiction**<br>
   2022<br>
 **<a href="https://thespinoff.co.nz/books/26-06-2022/one-more-for-the-bloodbath">One more for the bloodbath: Lily Holloway reviews Meat Lovers by Rebecca Hawkes</a>** (The Spinoff)<br>
+<br>
   2021<br>
 **<a href="https://saltyworld.net/the-retrauma-of-filing-a-police-report/">The (re)Trauma of Filing a Police Report</a>** (Salty Mag)<br>
 **<a href="https://www.newsroom.co.nz/the-ghost-in-my-social-media">The Ghost in My Social Media</a>** (Newsroom)<br>
-2020<br>
+<br>
+  2020<br>
 **<a href="https://www.pantograph-punch.com/posts/Waiting-for-Metamorphosis">Waiting for Metamorphosis</a>** (The Pantograph Punch)<br>
+<br>
   2019<br>
 I wander, she holds my hand (Mayhem)<br>
 Happily Ever After: Life After the Ring (Interesting Journal)<br>
@@ -147,37 +151,42 @@ Happily Ever After: Life After the Ring (Interesting Journal)<br>
 
 ---
 ## **Short Fiction**<br>
-  2020<br>
+2020<br>
 Auckland in 100 Words (Interesting Journal)<br>
 **<a href="https://www.starlingmag.com/issue-10/lily-holloway">'Dirt', 'My Street', 'Magic' and 'University'</a>** (Starling)<br>
-  2019<br>
+<br>
+2019<br>
 Flying (Mindfood Magazine)<br>
 <br>
 
 ---
 ## **Other Writing**<br>
-  2022<br>
+2022<br>
 **<a href="https://eelmag.com/edition-one/editorial">a note from the editors</a>** (eel mag)<br>
 Interviewed for **<a href="https://www.newsroom.co.nz/the-future-of-new-zealand-poetry">The future of New Zealand poetry</a>** (Newsroom)<br>
-  2021<br>
+<br>
+2021<br>
 **<a href="https://nzpoetryshelf.com/2021/12/17/poetry-shelf-celebrates-2021-fifteen-authors-make-some-picks/">Poetry Shelf celebrates 2021: Fifteen authors make some picks</a>** (Poetry Shelf)<br>
 **<a href="https://www.anikopress.com/interviews/lily-holloway-2">Q&A with Lily Holloway (round 2!)</a>** (Aniko Press)<br>
-  2020<br>
+<br>
+2020<br>
 **<a href="https://www.anikopress.com/interviews/lily-holloway">Q&A with Lily Holloway</a>** (Aniko Press)<br>
 <br>
 
 ---
 ## **Awards**<br>
-  2021<br>
+2021<br>
 University of Auckland Blues Award for Creative Writing<br>
-  2020<br>
+<br>
+2020<br>
 Long-listed for the Monica Taylor Poetry Prize<br>
 **<a href="https://www.caselbergtrust.org/news/poetry-prize-2020-winners-announced">Highly Commended in the Caselberg Trust International Poetry Prize</a>**<br>
 Shimon Weinroth Prize in Poetry<br>
 Second Place in Charles Brasch Young Writers' Essay Competition<br>
 Kendrick Smithyman Scholarship in Poetry<br>
 **<a href="https://nzgivenwords.blogspot.com/2020/09/given-poems-for-national-poetry-day.html">Judges' Selection</a>** in Given Words National Poetry Day Competition<br>
-  2019<br>
+<br>
+2019<br>
 **<a href="https://nzgivenwords.blogspot.com/2019/09/">Best Poem in Given Words National Poetry Day Competition</a>** (Translated into Spanish **<a href="https://libropalabrasprestadas.blogspot.com/2019/11/dia-nacional-de-la-poesia-nueva-zelanda.html">here</a>**)<br>
 Highly Commended in Divine Muses New Voices - Emerging Poets Competition<br>
 Shortlisted in the Monash International Undergraduate Prize for Creative Writing<br>
@@ -196,7 +205,7 @@ Editorial board member for **<a href="https://www.interestingjournal.com/who-we-
 
 ---
 ## **Selected Performances and Events**<br>
-  2021<br>
+2021<br>
 Featured Poet for the Porirua Libraries Campaign for National Poetry Day<br>
 Featured Poet for the JAFA September Qualifier<br>
 Performed at From Opposite Ends of the Earth (A New Zealand & Irish Poetry Exchange)<br>
@@ -209,7 +218,9 @@ Producer and Host of A Night of Poetry, Auckland Pride<br>
 Board Member of Same Same But Different Literary Festival<br>
 Board Member of **<a href="https://poetrysociety.org.nz/about-us/our-people/">New Zealand Poetry Society</a>**<br>
 **<a href="https://www.varuna.com.au/online-programs/newzealand">Aotearoa New Zealand Lamplight Residency</a>** recipient 2021<br>
-**<a href="https://authors.org.nz/opportunities/nzsa-programmes-and-services/nzsa-mentor-programme/mentee-recipients-of-2021/">NZSA Mentorship</a>** recipient 2021<br>
+**<a href="https://authors.org.nz/opportunities/nzsa-programmes-and-services/nzsa-mentor-programme/mentee-recipients-of-2021/">NZSA Mentorship</a>** recipient 
+<br>
+2021<br>
 Guest judge for The University of Auckland Poetry Slam, 2021<br>
 Recipient of the Blackbird Foundation Protostar Grant, 2021<br>
 Database Manager for takahē literary magazine 2021<br>
