@@ -1,6 +1,6 @@
 <a href="https://aucklanduniversitypress.co.nz/aup-new-poets-8/"> <img src="{{ site.url }}/images/AUP_New_Poets_8.jpg" alt="AUP New Poets 8" class="mt4 db center"/><br></a>
 
-<center><a rel="noopener" target="_blank" href="https://aucklanduniversitypress.co.nz/aup-new-poets-8/" target="_blank" style="color: #ffffff; font-weight: bold; text-decoration: none; border-radius: 5px; background-color: #1F7F4C; border-top: 12px solid #1F7F4C; border-bottom: 12px solid #1F7F4C; border-right: 18px solid #2b8f4c; border-left: 18px solid #1F7F4C; display: inline-block;">Buy the book &rarr;</a></center>
+<center><a rel="noopener" target="_blank" href="https://aucklanduniversitypress.co.nz/aup-new-poets-8/" target="_blank" style="color: #2b8f4c; font-weight: bold; text-decoration: none; border-radius: 3px; background-color: #ffffff; border-top: 12px solid #2b8f4c; border-bottom: 12px solid #2b8f4c; border-right: 18px solid #2b8f4c; border-left: 18px solid #2b8f4c; display: inline-block;">Buy the book &rarr;</a></center>
 
 > "The poets whose work is brought together in <i>AUP New Poets 8</i> all write with an intoxicating sense of the world’s beauty, its depth and distances. All three poets are concerned with memory and its traces, with artistry and the forms it can take, with the natural world at its most infinitesimal and at its most vast.
 >
