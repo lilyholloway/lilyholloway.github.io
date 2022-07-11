@@ -1,5 +1,4 @@
 ---
-title: Publications
 description: Publications and Awards
 
 ---
