@@ -14,6 +14,9 @@ links:
   - name:         Publications
     url:          /cv
     external:     false
+  - name:         AUP NP 8
+    url:          /books
+    external:     false    
 # ------------ CONFIGURABLE END ------------
 
 permalink:        /posts/:title
