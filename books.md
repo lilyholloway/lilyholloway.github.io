@@ -1,18 +1,18 @@
 <img src="{{ site.url }}/images/AUP_New_Poets_8.jpg" alt="AUP New Poets 8" class="mt4 db center"/><br>
 
-"The poets whose work is brought together in <i>AUP New Poets 8</i> all write with an intoxicating sense of the world’s beauty, its depth and distances. All three poets are concerned with memory and its traces, with artistry and the forms it can take, with the natural world at its most infinitesimal and at its most vast.
-
-I have loved travelling through the worlds evoked in these poems, some so familiar, some so remote, all so alluring."
-
-— from the foreword by Anna Jackson
+> "The poets whose work is brought together in <i>AUP New Poets 8</i> all write with an intoxicating sense of the world’s beauty, its depth and distances. All three poets are concerned with memory and its traces, with artistry and the forms it can take, with the natural world at its most infinitesimal and at its most vast.
+>
+> I have loved travelling through the worlds evoked in these poems, some so familiar, some so remote, all so alluring."
+>
+> — from the foreword by Anna Jackson
 <br>
 <br>
 <br>
 
-"The first section is from prolific writer and editor Lily Holloway. Holloway has been a force in Aotearoa poetry in the last couple of years, publishing widely and co-founding Aotearoa’s first queer poetry journal, eel magazine (the first issue has just been released—worth noting here for its depth and breadth). Holloway’s section in this book, ‘a child in the alcove’, gives us insight into the little things that move them: Velma and the mystery machine, Sistema lunch boxes, starfish and crustaceans. These little pockets of refuge amidst a storm of heavy subject matter provide a deft balance of the light and the heavy. 
-
-In their early twenties, Holloway writes like someone beyond their years. A lot of the work inspects and reflects on temporality, on what it means to rewind or return or repeat."
-
+> "The first section is from prolific writer and editor Lily Holloway. Holloway has been a force in Aotearoa poetry in the last couple of years, publishing widely and co-founding Aotearoa’s first queer poetry journal, eel magazine (the first issue has just been released—worth noting here for its depth and breadth). Holloway’s section in this book, ‘a child in the alcove’, gives us insight into the little things that move them: Velma and the mystery machine, Sistema lunch boxes, starfish and crustaceans. These little pockets of refuge amidst a storm of heavy subject matter provide a deft balance of the light and the heavy. 
+>
+> In their early twenties, Holloway writes like someone beyond their years. A lot of the work inspects and reflects on temporality, on what it means to rewind or return or repeat."
+>
 — <a href="https://landfallreview.com/the-timeline-is-elusive/">review by Jordan Hamel for Landfall</a>
 <br>
 <br>
