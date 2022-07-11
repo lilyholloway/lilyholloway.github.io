@@ -7,6 +7,7 @@ Find reviews for AUP New Poets 8 **[here](https://lilyholloway.co.nz/books)**
 **[Poetry Shelf celebrates new books: AUP New Poets 8](https://nzpoetryshelf.com/2021/10/05/poetry-shelf-celebrates-new-books-aup-new-poets-8/)** (Poetry Shelf, October 2021)
 
 <br>
+
 ---
 ## **Selected Poems** (Online)<br>
 **blackmail**<br>
@@ -64,6 +65,7 @@ as discussed in **<a href="https://www.pw.org/content/the_superpower_of_new_zeal
 **<a href="https://www.stasisjournal.com/home/all-the-girls-who-used-to-read-dolly-have-trauma-now">All the girls who used to read Dolly have trauma now</a>**<br>
 **<a href="https://www.ketebooks.co.nz/all-book-reviews/review-stasis-journal-anthology-epl7k-skl78">as reviewed by Elizabeth Heritage</a>**<br>
 <br>
+
 ---
 ## **Selected Poems** (Print)<br>
 **Aniko Press**<br>
@@ -128,6 +130,7 @@ as the tide<br>
   2020<br>
 **<a href="https://nzpoetryshelf.com/2020/10/30/poetry-shelf-video-lounge-lily-holloway-reads-some-poems/">Poetry Shelf Video Lounge: Lily Holloway reads some poems</a>**<br>
 <br>
+
 ---
 ## **Non-Fiction**<br>
   2022<br>
@@ -141,6 +144,7 @@ as the tide<br>
 I wander, she holds my hand (Mayhem)<br>
 Happily Ever After: Life After the Ring (Interesting Journal)<br>
 <br>
+
 ---
 ## **Short Fiction**<br>
   2020<br>
