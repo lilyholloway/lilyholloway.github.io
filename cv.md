@@ -188,7 +188,8 @@ Interviewed for **<a href="https://www.newsroom.co.nz/the-future-of-new-zealand-
 ---
 ## **Awards**<br>
 2022<br>
-YWCA Aotearoa Y25 Award (25 Under 25 Listing)
+YWCA Aotearoa Y25 Award (25 Under 25 Listing)<br>
+<br>
 2021<br>
 University of Auckland Blues Award for Creative Writing<br>
 <br>
