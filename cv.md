@@ -65,6 +65,7 @@ as reviewed by Elizabeth Heritage **<a href="https://www.ketebooks.co.nz/all-boo
 **Poetry Shelf**<br>
   2022<br>
 **<a href="https://nzpoetryshelf.com/2022/04/14/poetry-shelf-paragraphs-25-poets-on-poetry/">No rage but in poetry</a>**<br>
+<br>
   2021<br>
 **<a href="https://nzpoetryshelf.com/2021/06/28/poetry-shelf-noticeboard-lily-holloways-tidewrack/">Tidewrack</a>**<br>
 <br>
@@ -88,6 +89,7 @@ periphery<br>
 **Poetry New Zealand Yearbook**<br>
   2022<br>
 your ex texts you every august from a new number<br>
+<br>
   2021<br>
 bed against the wall<br>
 The road to the hill is closed<br>
@@ -95,6 +97,7 @@ The road to the hill is closed<br>
 **Aniko Press**<br>
   2021<br>
 you are my night terror i hope i am yours<br>
+<br>
   2020<br>
 Getting Colder<br>
 <br>
@@ -113,8 +116,10 @@ hopscotch<br>
   2021<br>
 on the way to the bus-stop<br>
 what you've left me:<br>
+<br>
   2020<br>
 Buffet<br>
+<br>
   2019<br>
 24<br>
 <br>
