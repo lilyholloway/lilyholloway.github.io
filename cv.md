@@ -110,6 +110,7 @@ Angela fragment 96<br>
 Contents<br>
 <br>
 **Fresh Ink Anthology**<br>
+2021<br>
 hopscotch<br>
 <br>
 **Mayhem**<br>
@@ -227,10 +228,13 @@ Producer & Host of A Night of Poetry, Auckland Pride<br>
 ## **Other**<br>
 Board Member of Same Same But Different Literary Festival<br>
 Board Member of the New Zealand Poetry Society 2021–22<br>
+<br>
 **<a href="https://www.varuna.com.au/online-programs/newzealand">Aotearoa New Zealand Lamplight Residency</a>** recipient 2021<br>
 **<a href="https://authors.org.nz/opportunities/nzsa-programmes-and-services/nzsa-mentor-programme/mentee-recipients-of-2021/">NZSA Mentorship</a>** recipient 2021<br>
+Recipient of the Blackbird Foundation Protostar Grant 2021<br>
+<br>
 Tutor for the University of Auckland English Literature department 2020–21<br>
 Guest judge for The University of Auckland Poetry Slam 2021<br>
-Recipient of the Blackbird Foundation Protostar Grant 2021<br>
+<br>
 Database Manager for takahē literary magazine 2021<br>
 Participant in Auckland Theatre Company's Young Writers' Table 2019<br>
