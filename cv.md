@@ -31,7 +31,7 @@ as discussed in **<a href="https://www.pw.org/content/the_superpower_of_new_zeal
 **Stasis**<br>
   2021<br>
 **<a href="https://www.stasisjournal.com/home/all-the-girls-who-used-to-read-dolly-have-trauma-now">All the girls who used to read Dolly have trauma now</a>**<br>
-as reviewed by Elizabeth Heritage **<a href="https://www.ketebooks.co.nz/all-book-reviews/review-stasis-journal-anthology-epl7k-skl78">here</a>**<br>
+reviewed by Elizabeth Heritage **<a href="https://www.ketebooks.co.nz/all-book-reviews/review-stasis-journal-anthology-epl7k-skl78">here</a>**<br>
 <br>
 **Starling**<br>
   2021<br>
