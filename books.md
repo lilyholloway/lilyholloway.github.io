@@ -6,9 +6,7 @@ title: AUP New Poets 8
 
 <center><a rel="noopener" target="_blank" href="https://aucklanduniversitypress.co.nz/aup-new-poets-8/" target="_blank" style="color: #ffffff; text-decoration: none; border-radius: 3px; background-color: #2b8f4c; border-top: 12px solid #2b8f4c; border-bottom: 12px solid #2b8f4c; border-right: 18px solid #2b8f4c; border-left: 18px solid #2b8f4c; display: inline-block;">Buy the book &rarr;</a></center>
 
-> "The poets whose work is brought together in <i>AUP New Poets 8</i> all write with an intoxicating sense of the world’s beauty, its depth and distances. All three poets are concerned with memory and its traces, with artistry and the forms it can take, with the natural world at its most infinitesimal and at its most vast.
->
-> I have loved travelling through the worlds evoked in these poems, some so familiar, some so remote, all so alluring."
+> "Full of the ordinarily extraordinary events that make up everyday life, Holloway’s collection has a darker undercurrent to it than is immediately apparent. Her body ‘a monument / to never / forgetting’, her poems, too, are shaped by a past that makes itself known to the reader through shadows, repetitions, metaphors, questions, erasures, echoes and a controlled use of form."
 
 — from the foreword by Anna Jackson
 <br>
