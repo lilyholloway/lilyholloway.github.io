@@ -137,7 +137,6 @@ as the tide<br>
 ---
 ## **Listen**<br>
   2021<br>
-**<a href="https://www.timeout.co.nz/upcoming-events/npd2021">National Poetry Day: All Tomorrow's Poets</a>**<br>
 **<a href="https://nzpoetryshelf.com/2021/08/27/poetry-shelf-celebrates-phantom-national-poetry-day-with-eight-poets-reading-a-poem/">Poetry Shelf celebrates Phantom National Poetry Day with eight poets reading a poem</a>**<br>
 **<a href="https://nzpoetryshelf.com/2021/04/14/poetry-shelf-celebrates-new-books-with-readings-ten-poets-read-from-poetry-new-zealand-yearbook-2021/">Ten poets read from Poetry New Zealand Yearbook 2021</a>**<br>
 <br>
