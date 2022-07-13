@@ -64,7 +64,7 @@ reviewed by Elizabeth Heritage **<a href="https://www.ketebooks.co.nz/all-book-r
 <br>
 **Poetry Shelf**<br>
   2022<br>
-**<a href="https://nzpoetryshelf.com/2022/04/14/poetry-shelf-paragraphs-25-poets-on-poetry/">No rage but in poetry</a>**<br>
+**<a href="https://nzpoetryshelf.com/2022/06/03/poetry-shelf-paragraph-room-3-no-ideas-but-in/">No rage but in poetry</a>**<br>
 <br>
   2021<br>
 **<a href="https://nzpoetryshelf.com/2021/06/28/poetry-shelf-noticeboard-lily-holloways-tidewrack/">Tidewrack</a>**<br>
