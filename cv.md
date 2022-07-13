@@ -37,7 +37,7 @@ reviewed by Elizabeth Heritage **<a href="https://www.ketebooks.co.nz/all-book-r
   2021<br>
 **<a href="https://www.starlingmag.com/issue-12/lily-holloway">Sand</a>**<br>
 **<a href="https://www.starlingmag.com/issue-12/lily-holloway">I won't pretend to be a person anymore</a>**<br>
-**<a href="https://www.starlingmag.com/issue-12/lily-holloway">u r the runescape gf & i am the neopets gf & we are both hotties</a>**<br>
+**<a href="https://www.starlingmag.com/issue-12/lily-holloway">u r the runescape gf & i am the neopets gf & we r both hotties</a>**<br>
 <br>
 **<a href="https://www.starlingmag.com/issue-11/lily-holloway">Pegasus Gateway Motel (Before Ali's Funeral I Make My Mum Cry)</a>**<br>
 **<a href="https://www.starlingmag.com/issue-11/lily-holloway">Methods of burial</a>**<br>
