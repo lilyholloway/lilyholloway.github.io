@@ -33,7 +33,16 @@ as discussed in **<a href="https://www.pw.org/content/the_superpower_of_new_zeal
 **<a href="https://www.stasisjournal.com/home/all-the-girls-who-used-to-read-dolly-have-trauma-now">All the girls who used to read Dolly have trauma now</a>**<br>
 reviewed by Elizabeth Heritage **<a href="https://www.ketebooks.co.nz/all-book-reviews/review-stasis-journal-anthology-epl7k-skl78">here</a>**<br>
 <br>
+**Scum Mag**<br>
+  2020<br>
+**<a href="http://www.scum-mag.com/stocktaking-during-venlafaxine-discontinuation/">stocktaking during venlafaxine discontinuation</a>**<br>
+<br>
 **Starling**<br>
+  2022<br>
+**<a href="https://www.starlingmag.com/issue-14/lily-holloway">We all know what the bruised fruit means</a>**<br>
+**<a href="https://www.starlingmag.com/issue-14/lily-holloway">A girl, a post-holiday fruit bowl</a>**<br>
+**<a href="https://www.starlingmag.com/issue-14/lily-holloway">Built like she was</a>**<br>
+<br>
   2021<br>
 **<a href="https://www.starlingmag.com/issue-12/lily-holloway">Sand</a>**<br>
 **<a href="https://www.starlingmag.com/issue-12/lily-holloway">I won't pretend to be a person anymore</a>**<br>
@@ -41,10 +50,6 @@ reviewed by Elizabeth Heritage **<a href="https://www.ketebooks.co.nz/all-book-r
 <br>
 **<a href="https://www.starlingmag.com/issue-11/lily-holloway">Pegasus Gateway Motel (Before Ali's Funeral I Make My Mum Cry)</a>**<br>
 **<a href="https://www.starlingmag.com/issue-11/lily-holloway">Methods of burial</a>**<br>
-<br>
-**Scum Mag**<br>
-  2020<br>
-**<a href="http://www.scum-mag.com/stocktaking-during-venlafaxine-discontinuation/">stocktaking during venlafaxine discontinuation</a>**<br>
 <br>
 **The Spinoff**<br>
   2020<br>
@@ -63,9 +68,6 @@ reviewed by Elizabeth Heritage **<a href="https://www.ketebooks.co.nz/all-book-r
 **<a href="https://www.poetrylabshanghai.com/post/summer20">rimu road</a>**<br>
 <br>
 **Poetry Shelf**<br>
-  2022<br>
-**<a href="https://nzpoetryshelf.com/2022/06/03/poetry-shelf-paragraph-room-3-no-ideas-but-in/">No rage but in poetry</a>**<br>
-<br>
   2021<br>
 **<a href="https://nzpoetryshelf.com/2021/06/28/poetry-shelf-noticeboard-lily-holloways-tidewrack/">Tidewrack</a>**<br>
 <br>
@@ -199,7 +201,6 @@ Long-listed for the Monica Taylor Poetry Prize<br>
 Shimon Weinroth Prize in Poetry<br>
 Second Place in Charles Brasch Young Writers' Essay Competition<br>
 Kendrick Smithyman Scholarship in Poetry<br>
-**<a href="https://nzgivenwords.blogspot.com/2020/09/given-poems-for-national-poetry-day.html">Judges' Selection</a>** in Given Words National Poetry Day Competition<br>
 <br>
 2019<br>
 **<a href="https://nzgivenwords.blogspot.com/2019/09/">Best Poem in Given Words National Poetry Day Competition</a>** (Translated into Spanish **<a href="https://libropalabrasprestadas.blogspot.com/2019/11/dia-nacional-de-la-poesia-nueva-zelanda.html">here</a>**)<br>
