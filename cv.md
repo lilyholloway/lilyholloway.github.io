@@ -230,7 +230,8 @@ Producer & Host of A Night of Poetry, Auckland Pride<br>
 
 ---
 ## **Other**<br>
-Board Member of Same Same But Different Literary Festival<br>
+Poetry reader for <a href="https://salthilljournal.net/">Salt Hill</a><br>
+Board Member of Same Same But Different Literary Festival 2021–22<br>
 Board Member of the New Zealand Poetry Society 2021–22<br>
 <br>
 **<a href="https://www.varuna.com.au/online-programs/newzealand">Aotearoa New Zealand Lamplight Residency</a>** recipient 2021<br>
