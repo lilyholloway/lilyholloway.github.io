@@ -18,6 +18,12 @@ Find reviews for AUP New Poets 8 **[here](https://lilyholloway.co.nz/books)**
 2022<br>
 **<a href="https://www.peachmgzn.com/lily-holloway">I want our story like</a>**<br>
 <br>
+**Sweet Mammalian**<br>
+2022<br>
+**<a href="https://www.sweetmammalian.com/issue-nine/lily-holloway">In your imaginary garden, I am peach thrown at wall</a>**<br>
+**<a href="https://www.sweetmammalian.com/issue-nine/lily-holloway">sine spe recuperandi</a>**<br>
+**<a href="https://www.sweetmammalian.com/issue-nine/lily-holloway">my love, a braided river</a>**<br>
+<br>
 **Cordite**<br>
  2021<br>
 **<a href="http://cordite.org.au/poetry/game/imagined-heterosexuality-with-you-my-ex-who-wont-stop-calling/">Imagined heterosexuality with you, my ex who won't stop calling</a>**<br>
