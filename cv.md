@@ -14,6 +14,14 @@ Find reviews for AUP New Poets 8 **[here](https://lilyholloway.co.nz/books)**
 
 ---
 ## **Selected Poems** (Online)<br>
+**HAD**<br>
+ 2022<br>
+**<a href="https://www.havehashad.com/hadposts/prayer-in-which-i-do-not-say-manic-pixie-dream-girl">PRAYER IN WHICH I DO NOT SAY MANIC PIXIE DREAMGIRL</a>**<br>
+<br>
+**Overcommunicate: Celebration**<br>
+ 2022<br>
+**<a href="https://www.overcomcelebrate.com/transweek">I am born, my gender two swans</a>**<br>
+<br>
 **Peach Mag**<br>
 2022<br>
 **<a href="https://www.peachmgzn.com/lily-holloway">I want our story like</a>**<br>
