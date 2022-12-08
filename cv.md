@@ -14,6 +14,10 @@ Find reviews for AUP New Poets 8 **[here](https://lilyholloway.co.nz/books)**
 
 ---
 ## **Selected Poems** (Online)<br>
+**Turbine | Kapohau**<br>
+ Forthcoming<br>
+**I am my mother's double. I am my mother's fetch.**<br>
+<br>
 **HAD**<br>
  2022<br>
 **<a href="https://www.havehashad.com/hadposts/prayer-in-which-i-do-not-say-manic-pixie-dream-girl">PRAYER IN WHICH I DO NOT SAY MANIC PIXIE DREAM GIRL</a>**<br>
@@ -104,6 +108,9 @@ Under the falling chestnuts<br>
 periphery<br>
 <br>
 **Poetry New Zealand Yearbook**<br>
+Forthcoming<br>
+Part-lament for the girl who dreamt she was a hermit crab<br>
+<br>
   2022<br>
 your ex texts you every august from a new number<br>
 <br>
