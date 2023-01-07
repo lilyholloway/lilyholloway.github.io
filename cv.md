@@ -15,8 +15,8 @@ Find reviews for AUP New Poets 8 **[here](https://lilyholloway.co.nz/books)**
 ---
 ## **Selected Poems** (Online)<br>
 **Turbine | Kapohau**<br>
- Forthcoming<br>
-**I am my mother's double. I am my mother's fetch.**<br>
+ 2022<br>
+**<a href="http://turbinekapohau.org.nz/2022-contents-poetry-lily-holloway/">I am my mother's double. I am my mother's fetch.</a>**<br>
 <br>
 **HAD**<br>
  2022<br>
