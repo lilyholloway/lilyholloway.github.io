@@ -30,6 +30,12 @@ Find reviews for AUP New Poets 8 **[here](https://lilyholloway.co.nz/books)**
 2022<br>
 **<a href="https://www.peachmgzn.com/lily-holloway">I want our story like</a>**<br>
 <br>
+**The Spinoff**<br>
+  2023<br>
+**<a href="https://thespinoff.co.nz/books/20-01-2023/the-friday-poem-ali-dies-of-cancer-and-i-am-not-allowed-to-visit-by-lily-holloway">Ali dies of cancer and I am not allowed to visit</a>**<br>
+  2020<br>
+**<a href="https://thespinoff.co.nz/books/30-10-2020/the-friday-poem-sentries-by-lily-holloway/">Sentries</a>**<br>
+<br>
 **Sweet Mammalian**<br>
 2022<br>
 **<a href="https://www.sweetmammalian.com/issue-nine/lily-holloway">In your imaginary garden, I am peach thrown at wall</a>**<br>
@@ -68,10 +74,6 @@ reviewed by Elizabeth Heritage **<a href="https://www.ketebooks.co.nz/all-book-r
 <br>
 **<a href="https://www.starlingmag.com/issue-11/lily-holloway">Pegasus Gateway Motel (Before Ali's Funeral I Make My Mum Cry)</a>**<br>
 **<a href="https://www.starlingmag.com/issue-11/lily-holloway">Methods of burial</a>**<br>
-<br>
-**The Spinoff**<br>
-  2020<br>
-**<a href="https://thespinoff.co.nz/books/30-10-2020/the-friday-poem-sentries-by-lily-holloway/">Sentries</a>**<br>
 <br>
 **blackmail**<br>
  2021<br>
