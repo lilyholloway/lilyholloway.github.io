@@ -234,6 +234,7 @@ Shortlisted in the Monash Undergraduate Prize for Creative Writing<br>
 ---
 ## **Editorial Work**<br>
 Founding Editor for **<a href="https://eelmag.com">eel mag</a>**<br>
+Poetry Assistant for  **<a href="https://salthilljournal.net/">Salt Hill</a>**<br>
 Assistant Editor for **<a href="https://poetrysociety.org.nz/poems-reviews/a-fine-line-quarterly-magazine/">a fine line</a>** 2021–22<br>
 Sub-editor for Salient 2022 (until July)<br>
 Executive Editor for **<a href="https://www.interestingjournal.com/who-we-are">Interesting Journal</a>** 2021<br>
