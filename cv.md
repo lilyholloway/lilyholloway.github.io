@@ -62,6 +62,9 @@ reviewed by Elizabeth Heritage **<a href="https://www.ketebooks.co.nz/all-book-r
 **<a href="http://www.scum-mag.com/stocktaking-during-venlafaxine-discontinuation/">stocktaking during venlafaxine discontinuation</a>**<br>
 <br>
 **Starling**<br>
+  2023<br>
+**<a href="https://www.starlingmag.com/issue-15/lily-holloway">TONIGHT MY HEART IS MISS PIGGY CURLY-HAIRED BRANDISHING A KNIFE</a>**<br>
+<br>
   2022<br>
 **<a href="https://www.starlingmag.com/issue-14/lily-holloway">We all know what the bruised fruit means</a>**<br>
 **<a href="https://www.starlingmag.com/issue-14/lily-holloway">A girl, a post-holiday fruit bowl</a>**<br>
@@ -97,10 +100,16 @@ reviewed by Elizabeth Heritage **<a href="https://www.ketebooks.co.nz/all-book-r
 
 ---
 ## **Selected Poems** (Print)<br>
+**Forthcoming Auckland University Press Project**<br>
+you are my night terror i hope i am yours<br>
+<br>
+**no time to lollygag** (forthcoming)<br>
+letter I will never post<br>
+<br>
 **<a href="https://aucklanduniversitypress.co.nz/out-here-an-anthology-of-takat-pui-and-lgbtqia-writers-from-aotearoa/">Out Here: An Anthology of Takatāpui and LGBTQIA+ New Zealand Writers</a>**<br>
 i think i can feel reverberations of something further downstream<br>
 The Thing<br>
-Commuting with Angela<br>
+Commuting<br>
 <br>
 **Landfall**<br>
   2021<br>
@@ -110,7 +119,7 @@ Under the falling chestnuts<br>
 periphery<br>
 <br>
 **Poetry New Zealand Yearbook**<br>
-Forthcoming<br>
+  2023<br>
 Part-lament for the girl who dreamt she was a hermit crab<br>
 <br>
   2022<br>
@@ -129,7 +138,7 @@ Getting Colder<br>
 <br>
 **Compound Press Poetry Calendar**<br>
   2021<br>
-Angela fragment 96<br>
+fragment 96<br>
 <br>
 **Hills Hoist**<br>
   2021<br>
