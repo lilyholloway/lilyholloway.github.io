@@ -63,6 +63,9 @@ reviewed by Elizabeth Heritage **<a href="https://www.ketebooks.co.nz/all-book-r
 <br>
 **Starling**<br>
   2023<br>
+**<a href="https://www.starlingmag.com/issue-16/lily-holloway">Environmental Speedrun with Little Brother (Any%)</a>**<br>
+**<a href="https://www.starlingmag.com/issue-16/lily-holloway">Gift-body</a>**<br>
+<br>
 **<a href="https://www.starlingmag.com/issue-15/lily-holloway">TONIGHT MY HEART IS MISS PIGGY CURLY-HAIRED BRANDISHING A KNIFE</a>**<br>
 <br>
   2022<br>
