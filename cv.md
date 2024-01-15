@@ -13,7 +13,8 @@ Find reviews for AUP New Poets 8 **[here](https://lilyholloway.co.nz/books)**
 <br>
 
 ---
-## **Selected Poems (Online)** <br>
+## **Selected Poems**
+
 **Turbine | Kapohau**<br>
  2022<br>
 **<a href="http://turbinekapohau.org.nz/2022-contents-poetry-lily-holloway/">I am my mother's double. I am my mother's fetch.</a>**<br>
@@ -56,11 +57,16 @@ reviewed by Elizabeth Heritage **<a href="https://www.ketebooks.co.nz/all-book-r
 <br>
 **<a href="https://www.starlingmag.com/issue-15/lily-holloway">TONIGHT MY HEART IS MISS PIGGY CURLY-HAIRED BRANDISHING A KNIFE</a>**<br>
 <br>
-**Other poems can be found in...** <br>
+
+
+---
+## **Other poems can be found in...** <br>
 <a href="https://aucklanduniversitypress.co.nz/out-here-an-anthology-of-takat-pui-and-lgbtqia-writers-from-aotearoa/">Out Here: An Anthology of Takatāpui and LGBTQIA+ New Zealand Writers</a>, Landfall, Poetry New Zealand Yearbook (2023, 2022, 2021), The Spinoff, Sweet Mammalian, Starling (16, 15, 14, 12, 11), blackmail, Midway Journal, Poetry Lab Shanghai, Poetry Shelf, <a href="https://aucklanduniversitypress.co.nz/rapture/">Rapture: An Anthology of Performance Poetry from Aotearoa New Zealand</a>, no time to lollygag, Aniko Press, Mayhem, takahē, Fresh Ink Anthology, Hills Hoist<br>
 <br>
-**Other non-poems can be found in...** <br>
+## **Other non-poems can be found in...** <br>
 The Pantograph Punch, The Spinoff, Salty Mag, Newsroom
+<br>
+
 
 ---
 ## **Awards**<br>
