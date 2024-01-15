@@ -13,7 +13,7 @@ Find reviews for AUP New Poets 8 **[here](https://lilyholloway.co.nz/books)**
 <br>
 
 ---
-## **Selected Poems** (Online)<br>
+## **Selected Poems (Online)** <br>
 **Turbine | Kapohau**<br>
  2022<br>
 **<a href="http://turbinekapohau.org.nz/2022-contents-poetry-lily-holloway/">I am my mother's double. I am my mother's fetch.</a>**<br>
@@ -29,18 +29,6 @@ Find reviews for AUP New Poets 8 **[here](https://lilyholloway.co.nz/books)**
 **Peach Mag**<br>
 2022<br>
 **<a href="https://www.peachmgzn.com/lily-holloway">I want our story like</a>**<br>
-<br>
-**The Spinoff**<br>
-  2023<br>
-**<a href="https://thespinoff.co.nz/books/20-01-2023/the-friday-poem-ali-dies-of-cancer-and-i-am-not-allowed-to-visit-by-lily-holloway">Ali dies of cancer and I am not allowed to visit</a>**<br>
-  2020<br>
-**<a href="https://thespinoff.co.nz/books/30-10-2020/the-friday-poem-sentries-by-lily-holloway/">Sentries</a>**<br>
-<br>
-**Sweet Mammalian**<br>
-2022<br>
-**<a href="https://www.sweetmammalian.com/issue-nine/lily-holloway">In your imaginary garden, I am peach thrown at wall</a>**<br>
-**<a href="https://www.sweetmammalian.com/issue-nine/lily-holloway">sine spe recuperandi</a>**<br>
-**<a href="https://www.sweetmammalian.com/issue-nine/lily-holloway">my love, a braided river</a>**<br>
 <br>
 **Cordite**<br>
  2021<br>
@@ -68,159 +56,8 @@ reviewed by Elizabeth Heritage **<a href="https://www.ketebooks.co.nz/all-book-r
 <br>
 **<a href="https://www.starlingmag.com/issue-15/lily-holloway">TONIGHT MY HEART IS MISS PIGGY CURLY-HAIRED BRANDISHING A KNIFE</a>**<br>
 <br>
-  2022<br>
-**<a href="https://www.starlingmag.com/issue-14/lily-holloway">We all know what the bruised fruit means</a>**<br>
-**<a href="https://www.starlingmag.com/issue-14/lily-holloway">A girl, a post-holiday fruit bowl</a>**<br>
-**<a href="https://www.starlingmag.com/issue-14/lily-holloway">Built like she was</a>**<br>
-<br>
-  2021<br>
-**<a href="https://www.starlingmag.com/issue-12/lily-holloway">Sand</a>**<br>
-**<a href="https://www.starlingmag.com/issue-12/lily-holloway">I won't pretend to be a person anymore</a>**<br>
-**<a href="https://www.starlingmag.com/issue-12/lily-holloway">u r the runescape gf & i am the neopets gf & we r both hotties</a>**<br>
-<br>
-**<a href="https://www.starlingmag.com/issue-11/lily-holloway">Pegasus Gateway Motel (Before Ali's Funeral I Make My Mum Cry)</a>**<br>
-**<a href="https://www.starlingmag.com/issue-11/lily-holloway">Methods of burial</a>**<br>
-<br>
-**blackmail**<br>
- 2021<br>
-**<a href="http://www.blackmailpress.com/LH44.html">Shells</a>**<br>
-<br>
-**Midway Journal**<br>
- 2020<br>
-**<a href="http://midwayjournal.com/a-girls-name-a-headline/">a girl's name a headline</a>**<br>
-<br>
-**Poetry Lab Shanghai**<br>
-  2020<br>
-**<a href="https://www.poetrylabshanghai.com/post/summer20">rimu road</a>**<br>
-<br>
-**Poetry Shelf**<br>
-  2021<br>
-**<a href="https://nzpoetryshelf.com/2021/06/28/poetry-shelf-noticeboard-lily-holloways-tidewrack/">Tidewrack</a>**<br>
-<br>
-
-
-
-
----
-## **Selected Poems** (Print)<br>
-**Forthcoming Auckland University Press Project**<br>
-you are my night terror i hope i am yours<br>
-<br>
-**no time to lollygag** (forthcoming)<br>
-letter I will never post<br>
-<br>
-**<a href="https://aucklanduniversitypress.co.nz/out-here-an-anthology-of-takat-pui-and-lgbtqia-writers-from-aotearoa/">Out Here: An Anthology of Takatāpui and LGBTQIA+ New Zealand Writers</a>**<br>
-i think i can feel reverberations of something further downstream<br>
-The Thing<br>
-Commuting<br>
-<br>
-**Landfall**<br>
-  2021<br>
-and so I shape myself<br>
-<br>
-Under the falling chestnuts<br>
-periphery<br>
-<br>
-**Poetry New Zealand Yearbook**<br>
-  2023<br>
-Part-lament for the girl who dreamt she was a hermit crab<br>
-<br>
-  2022<br>
-your ex texts you every august from a new number<br>
-<br>
-  2021<br>
-bed against the wall<br>
-The road to the hill is closed<br>
-<br>
-**Aniko Press**<br>
-  2021<br>
-you are my night terror i hope i am yours<br>
-<br>
-  2020<br>
-Getting Colder<br>
-<br>
-**Compound Press Poetry Calendar**<br>
-  2021<br>
-fragment 96<br>
-<br>
-**Hills Hoist**<br>
-  2021<br>
-Contents<br>
-<br>
-**Fresh Ink Anthology**<br>
-2021<br>
-hopscotch<br>
-<br>
-**Mayhem**<br>
-  2021<br>
-on the way to the bus-stop<br>
-what you've left me:<br>
-<br>
-  2020<br>
-Buffet<br>
-<br>
-  2019<br>
-24<br>
-<br>
-**Overcommunicate**<br>
-  2020<br>
-Blue<br>
-<br>
-**takahē**<br>
-  2021<br>
-as the tide<br>
-<br>
-
----
-## **Listen**<br>
-  2021<br>
-**<a href="https://nzpoetryshelf.com/2021/08/27/poetry-shelf-celebrates-phantom-national-poetry-day-with-eight-poets-reading-a-poem/">Poetry Shelf celebrates Phantom National Poetry Day with eight poets reading a poem</a>**<br>
-**<a href="https://nzpoetryshelf.com/2021/04/14/poetry-shelf-celebrates-new-books-with-readings-ten-poets-read-from-poetry-new-zealand-yearbook-2021/">Ten poets read from Poetry New Zealand Yearbook 2021</a>**<br>
-<br>
-  2020<br>
-**<a href="https://nzpoetryshelf.com/2020/10/30/poetry-shelf-video-lounge-lily-holloway-reads-some-poems/">Poetry Shelf Video Lounge: Lily Holloway reads some poems</a>**<br>
-<br>
-
----
-## **Non-Fiction**<br>
-  2022<br>
-**<a href="https://thespinoff.co.nz/books/26-06-2022/one-more-for-the-bloodbath">One more for the bloodbath: Lily Holloway reviews Meat Lovers by Rebecca Hawkes</a>** (The Spinoff)<br>
-<br>
-  2021<br>
-**<a href="https://saltyworld.net/the-retrauma-of-filing-a-police-report/">The (re)Trauma of Filing a Police Report</a>** (Salty Mag)<br>
-**<a href="https://www.newsroom.co.nz/the-ghost-in-my-social-media">The Ghost in My Social Media</a>** (Newsroom)<br>
-<br>
-  2020<br>
-**<a href="https://www.pantograph-punch.com/posts/Waiting-for-Metamorphosis">Waiting for Metamorphosis</a>** (The Pantograph Punch)<br>
-<br>
-  2019<br>
-I wander, she holds my hand (Mayhem)<br>
-Happily Ever After: Life After the Ring (Interesting Journal)<br>
-<br>
-
----
-## **Short Fiction**<br>
-2020<br>
-Auckland in 100 Words (Interesting Journal)<br>
-**<a href="https://www.starlingmag.com/issue-10/lily-holloway">'Dirt', 'My Street', 'Magic' & 'University'</a>** (Starling)<br>
-<br>
-2019<br>
-Flying (Mindfood Magazine)<br>
-<br>
-
----
-## **Other Writing**<br>
-2022<br>
-**<a href="https://eelmag.com/edition-one/editorial">a note from the editors</a>** (eel mag)<br>
-Interviewed for **<a href="https://www.newsroom.co.nz/the-future-of-new-zealand-poetry">The future of New Zealand poetry</a>** (Newsroom)<br>
-<br>
-2021<br>
-**<a href="https://nzpoetryshelf.com/2021/12/17/poetry-shelf-celebrates-2021-fifteen-authors-make-some-picks/">Poetry Shelf celebrates 2021: Fifteen authors make some picks</a>** (Poetry Shelf)<br>
-**<a href="https://www.anikopress.com/interviews/lily-holloway-2">Q&A with Lily Holloway (round 2!)</a>** (Aniko Press)<br>
-<br>
-2020<br>
-**<a href="https://www.anikopress.com/interviews/lily-holloway">Q&A with Lily Holloway</a>** (Aniko Press)<br>
-<br>
+**Other poems can be found in...** <br>
+<a href="https://aucklanduniversitypress.co.nz/out-here-an-anthology-of-takat-pui-and-lgbtqia-writers-from-aotearoa/">Out Here: An Anthology of Takatāpui and LGBTQIA+ New Zealand Writers</a>, Landfall, Poetry New Zealand Yearbook (2023, 2022, 2021), The Spinoff, Sweet Mammalian, Starling (16, 15, 14, 12, 11), blackmail, Midway Journal, Poetry Lab Shanghai, Poetry Shelf, <a href="https://aucklanduniversitypress.co.nz/rapture/">Rapture: An Anthology of Performance Poetry from Aotearoa New Zealand</a>, no time to lollygag, Aniko Press, Mayhem, takahē, Fresh Ink Anthology, Hills Hoist<br>
 
 ---
 ## **Awards**<br>
@@ -245,37 +82,17 @@ Shortlisted in the Monash Undergraduate Prize for Creative Writing<br>
 
 ---
 ## **Editorial Work**<br>
+Poetry Editor for **<a href="https://salthilljournal.net/">Salt Hill</a>**<br>
 Founding Editor for **<a href="https://eelmag.com">eel mag</a>**<br>
-Poetry Assistant for  **<a href="https://salthilljournal.net/">Salt Hill</a>**<br>
 Assistant Editor for **<a href="https://poetrysociety.org.nz/poems-reviews/a-fine-line-quarterly-magazine/">a fine line</a>** 2021–22<br>
-Sub-editor for Salient 2022 (until July)<br>
 Executive Editor for **<a href="https://www.interestingjournal.com/who-we-are">Interesting Journal</a>** 2021<br>
 Participant in The Suburban Review's Emerging Editors Workshop 2021<br>
-Editorial board member for **<a href="https://www.interestingjournal.com/who-we-are">Interesting Journal</a>** 2020 (Issues 10 & 11)<br>
 <br>
-
----
-## **Selected Performances & Events**<br>
-2021<br>
-Featured Poet for the Porirua Libraries Campaign for National Poetry Day<br>
-Featured Poet for the JAFA September Qualifier<br>
-Performed at From Opposite Ends of the Earth (A New Zealand & Irish Poetry Exchange)<br>
-Producer & Host of A Night of Poetry, Auckland Pride<br>
-<br>
-
 
 ---
 ## **Other**<br>
-Poetry reader for **<a href="https://salthilljournal.net/">Salt Hill</a>**<br>
 Board Member of Same Same But Different Literary Festival 2021–22<br>
 Board Member of the New Zealand Poetry Society 2021–22<br>
 <br>
 **<a href="https://www.varuna.com.au/online-programs/newzealand">Aotearoa New Zealand Lamplight Residency</a>** recipient 2021<br>
 **<a href="https://authors.org.nz/opportunities/nzsa-programmes-and-services/nzsa-mentor-programme/mentee-recipients-of-2021/">NZSA Mentorship</a>** recipient 2021<br>
-Recipient of the Blackbird Foundation Protostar Grant 2021<br>
-<br>
-Tutor for the University of Auckland English Literature department 2020–21<br>
-Guest judge for The University of Auckland Poetry Slam 2021<br>
-<br>
-Database Manager for takahē literary magazine 2021<br>
-Participant in Auckland Theatre Company's Young Writers' Table 2019<br>
