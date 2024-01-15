@@ -1,7 +1,6 @@
 ---
 title: Publications
 ---
-
 ## **Poetry Chapbook**
 
 **[AUP New Poets 8](https://aucklanduniversitypress.co.nz/aup-new-poets-8/)** (Auckland University Press)
