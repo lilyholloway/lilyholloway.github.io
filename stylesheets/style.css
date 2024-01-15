@@ -18,7 +18,7 @@
 }
 .markdown-body > .highlighter-rouge,
 .markdown-body > blockquote {
-  padding: .5rem 4rem;
+  padding: .5rem 2rem;
   margin: 2em -4rem;
 }
 .markdown-body > hr {
