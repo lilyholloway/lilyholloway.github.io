@@ -12,6 +12,17 @@ Find reviews for AUP New Poets 8 **[here](https://lilyholloway.co.nz/books)**
 <br>
 
 ---
+## **Selected Fiction**
+**Griffith Review**<br>
+ Forthcoming<br>
+ LOAD<br>
+ <br>
+ **Sundog Lit**<br>
+ Forthcoming<br>
+ POOR BEAST<br>
+ <br>
+
+---
 ## **Selected Poems**
 
 **Turbine | Kapohau**<br>
@@ -21,10 +32,6 @@ Find reviews for AUP New Poets 8 **[here](https://lilyholloway.co.nz/books)**
 **HAD**<br>
  2022<br>
 **<a href="https://www.havehashad.com/hadposts/prayer-in-which-i-do-not-say-manic-pixie-dream-girl">PRAYER IN WHICH I DO NOT SAY MANIC PIXIE DREAM GIRL</a>**<br>
-<br>
-**Overcommunicate: Celebration**<br>
- 2022<br>
-**<a href="https://www.overcomcelebrate.com/transweek">I am born, my gender two swans</a>**<br>
 <br>
 **Peach Mag**<br>
 2022<br>
@@ -60,7 +67,7 @@ reviewed by Elizabeth Heritage **<a href="https://www.ketebooks.co.nz/all-book-r
 
 ---
 ## **Other poems can be found in...** <br>
-<a href="https://aucklanduniversitypress.co.nz/out-here-an-anthology-of-takat-pui-and-lgbtqia-writers-from-aotearoa/">Out Here: An Anthology of Takatāpui and LGBTQIA+ New Zealand Writers</a>, Landfall, Poetry New Zealand Yearbook (2023, 2022, 2021), The Spinoff, Sweet Mammalian, Starling (16, 15, 14, 12, 11), blackmail, Midway Journal, Poetry Lab Shanghai, Poetry Shelf, <a href="https://aucklanduniversitypress.co.nz/rapture/">Rapture: An Anthology of Performance Poetry from Aotearoa New Zealand</a>, no time to lollygag, Aniko Press, Mayhem, takahē, Fresh Ink Anthology, Hills Hoist<br>
+<a href="https://aucklanduniversitypress.co.nz/out-here-an-anthology-of-takat-pui-and-lgbtqia-writers-from-aotearoa/">Out Here: An Anthology of Takatāpui and LGBTQIA+ New Zealand Writers</a>, Landfall, Poetry New Zealand Yearbook (2023, 2022, 2021), The Spinoff, Sweet Mammalian, Starling (16, 15, 14, 12, 11), blackmail, Midway Journal, Poetry Lab Shanghai, Poetry Shelf, <a href="https://aucklanduniversitypress.co.nz/rapture/">Rapture: An Anthology of Performance Poetry from Aotearoa New Zealand</a>, no time to lollygag, Aniko Press, Mayhem, takahē, Fresh Ink Anthology, Hills Hoist, The Gravity of the Thing, Overland<br>
 <br>
 ## **Other non-poems can be found in...** <br>
 The Pantograph Punch, The Spinoff, Salty Mag, Newsroom
@@ -69,6 +76,8 @@ The Pantograph Punch, The Spinoff, Salty Mag, Newsroom
 
 ---
 ## **Awards**<br>
+2024<br>
+Winner of the Griffith Review Emerging Voices competition<br>
 2022<br>
 YWCA Aotearoa Y25 Award (25 Under 25 Listing)<br>
 <br>
@@ -90,7 +99,7 @@ Shortlisted in the Monash Undergraduate Prize for Creative Writing<br>
 
 ---
 ## **Editorial Work**<br>
-Poetry Editor for **<a href="https://salthilljournal.net/">Salt Hill</a>**<br>
+Editor-in-Chief for **<a href="https://salthilljournal.net/">Salt Hill</a>**<br>
 Founding Editor for **<a href="https://eelmag.com">eel mag</a>**<br>
 Assistant Editor for **<a href="https://poetrysociety.org.nz/poems-reviews/a-fine-line-quarterly-magazine/">a fine line</a>** 2021–22<br>
 Executive Editor for **<a href="https://www.interestingjournal.com/who-we-are">Interesting Journal</a>** 2021<br>
