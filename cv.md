@@ -25,6 +25,10 @@ Find reviews for AUP New Poets 8 **[here](https://lilyholloway.co.nz/books)**
 ---
 ## **Selected Poems**
 
+**Black Warrior Review**<br>
+Forthcoming<br>
+pony<br>
+<br>
 **Turbine | Kapohau**<br>
  2022<br>
 **<a href="http://turbinekapohau.org.nz/2022-contents-poetry-lily-holloway/">I am my mother's double. I am my mother's fetch.</a>**<br>
@@ -37,24 +41,9 @@ Find reviews for AUP New Poets 8 **[here](https://lilyholloway.co.nz/books)**
 2022<br>
 **<a href="https://www.peachmgzn.com/lily-holloway">I want our story like</a>**<br>
 <br>
-**Cordite**<br>
- 2021<br>
-**<a href="http://cordite.org.au/poetry/game/imagined-heterosexuality-with-you-my-ex-who-wont-stop-calling/">Imagined heterosexuality with you, my ex who won't stop calling</a>**<br>
-<br>
 **Ōrongohau | Best New Zealand Poems**<br>
 2022<br>
 **<a href="https://www.bestnewzealandpoems.org.nz/2021-contents/lily-holloway/">All the girls who used to read Dolly have trauma now</a>**<br>
-as discussed in **<a href="https://www.pw.org/content/the_superpower_of_new_zealand_poetry_a_qa_with_kate_camp">The Superpower of New Zealand Poetry: A Q&A With Kate Camp</a>**<br>
-& originally published in...<br>
-<br>
-**Stasis**<br>
-  2021<br>
-**<a href="https://www.stasisjournal.com/home/all-the-girls-who-used-to-read-dolly-have-trauma-now">All the girls who used to read Dolly have trauma now</a>**<br>
-reviewed by Elizabeth Heritage **<a href="https://www.ketebooks.co.nz/all-book-reviews/review-stasis-journal-anthology-epl7k-skl78">here</a>**<br>
-<br>
-**Scum Mag**<br>
-  2020<br>
-**<a href="http://www.scum-mag.com/stocktaking-during-venlafaxine-discontinuation/">stocktaking during venlafaxine discontinuation</a>**<br>
 <br>
 **Starling**<br>
   2023<br>
@@ -67,7 +56,7 @@ reviewed by Elizabeth Heritage **<a href="https://www.ketebooks.co.nz/all-book-r
 
 ---
 ## **Other poems can be found in...** <br>
-<a href="https://aucklanduniversitypress.co.nz/out-here-an-anthology-of-takat-pui-and-lgbtqia-writers-from-aotearoa/">Out Here: An Anthology of Takatāpui and LGBTQIA+ New Zealand Writers</a>, Landfall, Poetry New Zealand Yearbook (2023, 2022, 2021), The Spinoff, Sweet Mammalian, Starling (16, 15, 14, 12, 11), blackmail, Midway Journal, Poetry Lab Shanghai, Poetry Shelf, <a href="https://aucklanduniversitypress.co.nz/rapture/">Rapture: An Anthology of Performance Poetry from Aotearoa New Zealand</a>, no time to lollygag, Aniko Press, Mayhem, takahē, Fresh Ink Anthology, Hills Hoist, The Gravity of the Thing, Overland<br>
+<a href="https://aucklanduniversitypress.co.nz/out-here-an-anthology-of-takat-pui-and-lgbtqia-writers-from-aotearoa/">Out Here: An Anthology of Takatāpui and LGBTQIA+ New Zealand Writers</a>, Landfall, Poetry New Zealand Yearbook (2023, 2022, 2021), The Spinoff, Sweet Mammalian, Starling (16, 15, 14, 12, 11), blackmail, Midway Journal, Poetry Lab Shanghai, Poetry Shelf, <a href="https://aucklanduniversitypress.co.nz/rapture/">Rapture: An Anthology of Performance Poetry from Aotearoa New Zealand</a>, no time to lollygag, Aniko Press, Mayhem, takahē, Fresh Ink Anthology, Hills Hoist, The Gravity of the Thing, Overland, Cordite, Stasis<br>
 <br>
 ## **Other non-poems can be found in...** <br>
 The Pantograph Punch, The Spinoff, Salty Mag, Newsroom
@@ -78,6 +67,7 @@ The Pantograph Punch, The Spinoff, Salty Mag, Newsroom
 ## **Awards**<br>
 2024<br>
 Winner of the Griffith Review Emerging Voices competition<br>
+<br>
 2022<br>
 YWCA Aotearoa Y25 Award (25 Under 25 Listing)<br>
 <br>
