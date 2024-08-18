@@ -18,7 +18,7 @@ export default function Layout({ children }) {
         </Link>
       </div>
       <div className="mw7 bg-white mt4 mb3 center br2-ns bt bb ba-ns b--light-gray">
-        <nav className="bb b--light-gray pv3 tc">
+        <nav className="bb b--light-gray pv4 tc">
           {siteConfig.links.map((link) => (
             <Link key={link.name} href={link.url}>
               <a className="link gray hover-mid-gray mh2 pv1">{link.name}</a>
