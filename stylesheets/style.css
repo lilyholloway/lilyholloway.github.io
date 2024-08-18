@@ -32,5 +32,10 @@
   padding-left: 3.8rem;
 }
 
+.responsive-img {
+  max-width: 100%;
+  height: auto;
+}
+
 /* end Markdown styles */
 .markdown-body a { background: url(/images/line.png) repeat-x left bottom; }
