@@ -18,18 +18,18 @@ export default function Layout({ children }) {
         </Link>
       </div>
       <div className="mw7 bg-white mt4 mb3 center br2-ns bt bb ba-ns b--light-gray">
-        <nav className="bb b--light-gray pv4 tc">
+        <nav className="bb b--light-gray pv3 tc">
           {siteConfig.links.map((link) => (
             <Link key={link.name} href={link.url}>
               <a className="link gray hover-mid-gray mh2 pv1">{link.name}</a>
             </Link>
           ))}
         </nav>
-        <main className="tl relative pa4 pa5-ns overflow-hidden">
+        <main className="tl relative pa4 pa5-ns overflow-hidden" style={{ paddingTop: '1.25rem' }}>
           {children}
         </main>
       </div>
-      <footer className="mt4 tc silver">
+      <footer className="mt3 pb-3 tc silver">
         Lily Holloway © 2020 - {new Date().getFullYear()}
       </footer>
     </div>

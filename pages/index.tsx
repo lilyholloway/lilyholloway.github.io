@@ -2,6 +2,10 @@ import fs from 'fs'
 import path from 'path'
 import matter from 'gray-matter'
 import Image from 'next/image'
+import { remark } from 'remark'
+import remarkRehype from 'remark-rehype'
+import rehypeRaw from 'rehype-raw'
+import rehypeStringify from 'rehype-stringify'
 
 export default function Home({ content }) {
   return (
@@ -13,7 +17,7 @@ export default function Home({ content }) {
         height={300} 
         className="mt4 db center responsive-img"
       />
-      <div dangerouslySetInnerHTML={{ __html: content }} />
+      <div className="mt-8" dangerouslySetInnerHTML={{ __html: content }} />
     </div>
   )
 }
@@ -23,18 +27,22 @@ export async function getStaticProps() {
   const fileContents = fs.readFileSync(fullPath, 'utf8')
   const { content } = matter(fileContents)
 
-  // Convert markdown links to HTML
-  const contentWithLinks = content.replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2">$1</a>')
+  // Custom function to handle line breaks
+  const handleLineBreaks = (html) => {
+    return html.split('\n').map(line => line.trim()).join('<br />')
+  }
 
-  // Convert newlines to <br> tags and wrap paragraphs in <p> tags
-  const contentHtml = contentWithLinks
-    .split('\n\n')
-    .map(paragraph => `<p>${paragraph.replace(/\n/g, '<br>')}</p>`)
-    .join('')
+  const processedContent = await remark()
+    .use(remarkRehype, { allowDangerousHtml: true })
+    .use(rehypeRaw)
+    .use(rehypeStringify)
+    .process(content)
+
+  const contentWithLineBreaks = handleLineBreaks(processedContent.toString())
 
   return {
     props: {
-      content: contentHtml,
+      content: contentWithLineBreaks,
     },
   }
 }
