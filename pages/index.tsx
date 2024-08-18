@@ -1,6 +1,11 @@
+import fs from 'fs'
+import path from 'path'
+import matter from 'gray-matter'
+import { remark } from 'remark'
+import html from 'remark-html'
 import Image from 'next/image'
 
-export default function Home() {
+export default function Home({ contentHtml }) {
   return (
     <div className="markdown-body">
       <Image 
@@ -10,25 +15,24 @@ export default function Home() {
         height={300} 
         className="mt4 db center responsive-img"
       />
-      <p>
-        Lily Holloway is a powerlifting enthusiast and third-year MFA candidate
-        in the creative writing programme at Syracuse University. They are a
-        2024 winner of the Griffith Review Emerging Voices competition, a
-        hopeless romantic, and a pain in the neck. You can find their work
-        published or forthcoming in various places including Black Warrior
-        Review, Sundog Lit, Ōrongohau | Best New Zealand Poems, Peach Mag, and
-        Hobart After Dark. Their chapbook was published in 2021 as a part of
-        Auckland University Press' <a href="/books">AUP New Poets 8</a>.
-      </p>
-      <p>
-        Lily is one of two Editors-in-Chief at <a href="https://salthilljournal.net/" target="_blank" rel="noopener noreferrer">Salt Hill Journal</a>.
-      </p>
-      <p>
-        Contact them at <a href="mailto:howdy@lilyholloway.co.nz">howdy@lilyholloway.co.nz</a>.
-      </p>
-      <p>
-        Follow them on <a href="https://www.twitter.com/milfs4minecraft" target="_blank" rel="noopener noreferrer">Twitter</a> and <a href="https://www.instagram.com/milfs4minecraft/" target="_blank" rel="noopener noreferrer">Instagram</a>.
-      </p>
+      <div dangerouslySetInnerHTML={{ __html: contentHtml }} />
     </div>
   )
+}
+
+export async function getStaticProps() {
+  const fullPath = path.join(process.cwd(), 'content', 'about.md')
+  const fileContents = fs.readFileSync(fullPath, 'utf8')
+  const { content } = matter(fileContents)
+
+  const processedContent = await remark()
+    .use(html)
+    .process(content)
+  const contentHtml = processedContent.toString()
+
+  return {
+    props: {
+      contentHtml,
+    },
+  }
 }

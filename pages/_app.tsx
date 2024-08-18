@@ -9,9 +9,11 @@ function MyApp({ Component, pageProps }) {
         <link rel="stylesheet" href="https://unpkg.com/tachyons@4.6.1/css/tachyons.min.css" />
         <title>Lily Holloway</title>
       </Head>
-      <Layout>
-        <Component {...pageProps} />
-      </Layout>
+      <body className="lh-copy dark-gray pa0 f6 georgia bg-super-white">
+        <Layout>
+          <Component {...pageProps} />
+        </Layout>
+      </body>
     </>
   )
 }
