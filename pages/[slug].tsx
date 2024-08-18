@@ -26,16 +26,22 @@ export async function getStaticProps({ params }) {
   const fileContents = fs.readFileSync(fullPath, 'utf8')
   const { content } = matter(fileContents)
 
+  // Custom function to handle line breaks
+  const handleLineBreaks = (html) => {
+    return html.split('\n').map(line => line.trim()).join('<br />')
+  }
+
   const processedContent = await remark()
     .use(remarkRehype, { allowDangerousHtml: true })
     .use(rehypeRaw)
     .use(rehypeStringify)
     .process(content)
-  const contentHtml = processedContent.toString()
+
+  const contentWithLineBreaks = handleLineBreaks(processedContent.toString())
 
   return {
     props: {
-      content: contentHtml,
+      content: contentWithLineBreaks,
     },
   }
 }
