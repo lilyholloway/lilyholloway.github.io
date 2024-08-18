@@ -1,11 +1,9 @@
 import fs from 'fs'
 import path from 'path'
 import matter from 'gray-matter'
-import { remark } from 'remark'
-import html from 'remark-html'
 import Image from 'next/image'
 
-export default function Home({ contentHtml }) {
+export default function Home({ content }) {
   return (
     <div className="markdown-body">
       <Image 
@@ -15,7 +13,7 @@ export default function Home({ contentHtml }) {
         height={300} 
         className="mt4 db center responsive-img"
       />
-      <div dangerouslySetInnerHTML={{ __html: contentHtml }} />
+      <div dangerouslySetInnerHTML={{ __html: content }} />
     </div>
   )
 }
@@ -25,14 +23,18 @@ export async function getStaticProps() {
   const fileContents = fs.readFileSync(fullPath, 'utf8')
   const { content } = matter(fileContents)
 
-  const processedContent = await remark()
-    .use(html)
-    .process(content)
-  const contentHtml = processedContent.toString()
+  // Convert markdown links to HTML
+  const contentWithLinks = content.replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2">$1</a>')
+
+  // Convert newlines to <br> tags and wrap paragraphs in <p> tags
+  const contentHtml = contentWithLinks
+    .split('\n\n')
+    .map(paragraph => `<p>${paragraph.replace(/\n/g, '<br>')}</p>`)
+    .join('')
 
   return {
     props: {
-      contentHtml,
+      content: contentHtml,
     },
   }
 }
