@@ -4,6 +4,13 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
+  output: 'export',
+  // Enable build caching
+  experimental: {
+    turbotrace: {
+      logLevel: 'error'
+    }
+  }
 }
 
 module.exports =   {images: {
