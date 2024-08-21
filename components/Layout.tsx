@@ -6,30 +6,26 @@ export default function Layout({ children }) {
   return (
     <div className="bg-super-white">
       <div className="tc mt4">
-        <Link href="/">
-          <a>
-            <Image src="/images/Elsy.png" alt="Home" width={100} height={100} className="br-100 db center mb2" />
-          </a>
+        <Link href="/" passHref>
+          <Image src="/images/Elsy.png" alt="Home" width={100} height={100} className="br-100 db center mb2" />
         </Link>
-        <Link href="/">
-          <a style={{ color: 'grey', textDecoration: 'none' }}>
-            <h1 className="mt3 mb4 f2">{siteConfig.title}</h1>
-          </a>
+        <Link href="/" passHref>
+          <h1 className="mt3 mb4 f2" style={{ color: 'grey', textDecoration: 'none' }}>{siteConfig.title}</h1>
         </Link>
       </div>
-      <div className="mw7 bg-white mt4 mb3 center br2-ns bt bb ba-ns b--light-gray">
+      <div className="bg-white mw7 mt4 mb3 center br2-ns bt bb ba-ns b--light-gray">
         <nav className="bb b--light-gray pv4 tc">
           {siteConfig.links.map((link) => (
-            <Link key={link.name} href={link.url}>
-              <a className="link gray hover-mid-gray mh2 pv1">{link.name}</a>
+            <Link key={link.name} href={link.url} passHref>
+              <span className="link gray hover-mid-gray mh2 pv1">{link.name}</span>
             </Link>
           ))}
         </nav>
-        <main className="tl relative pa4 pa5-ns overflow-hidden" style={{ paddingTop: '1.25rem' }}>
+        <main className="relative overflow-hidden tl pa4 pa5-ns" style={{ paddingTop: '2rem' }}>
           {children}
         </main>
       </div>
-      <footer className="mt3 pb-3 tc silver">
+      <footer className="pb-3 mt3 tc silver">
         Lily Holloway © 2020 - {new Date().getFullYear()}
       </footer>
     </div>

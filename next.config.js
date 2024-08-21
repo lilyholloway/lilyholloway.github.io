@@ -3,8 +3,8 @@ const nextConfig = {
   output: 'export',
   images: {
     unoptimized: true,
-    domains: ['lilyholloway.co.nz'],
   },
+  trailingSlash: true,
 }
 
 module.exports = nextConfig
