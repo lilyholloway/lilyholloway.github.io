@@ -5,13 +5,6 @@ const nextConfig = {
     unoptimized: true,
     domains: ['lilyholloway.co.nz'],
   },
-  // Enable build caching
-  experimental: {
-    turbotrace: {
-      logLevel: 'error'
-    }
-  },
-
 }
 
 module.exports = nextConfig

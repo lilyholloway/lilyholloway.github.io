@@ -48,9 +48,7 @@ jobs:
         run: mkdir -p out
 
       - name: Build with Next.js
-        run: |
-          npm run build
-          npm run export
+        run:  npm run build
 
       - name: Debug output
         run: ls -R
