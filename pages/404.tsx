@@ -3,7 +3,7 @@ import Link from 'next/link'
 
 export default function Custom404() {
   return (
-    <div className="flex flex-col items-center justify-center min-h-screen">
+    <div className="flex flex-col items-center justify-center">
       <div className="text-center">
         <Image 
           src="/images/404.png" 
@@ -12,6 +12,7 @@ export default function Custom404() {
           height={160} 
           className="mx-auto mb-3"
         />
+        <br></br>
         <Link href="/">
           <a className="link gray hover-mid-gray">Home</a>
         </Link>
