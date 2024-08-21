@@ -3,16 +3,15 @@ const nextConfig = {
   output: 'export',
   images: {
     unoptimized: true,
+    domains: ['lilyholloway.co.nz'],
   },
-  output: 'export',
   // Enable build caching
   experimental: {
     turbotrace: {
       logLevel: 'error'
     }
-  }
+  },
+
 }
 
-module.exports =   {images: {
-  domains: ['lilyholloway.co.nz'],
-}, nextConfig}
+module.exports = nextConfig
