@@ -5,7 +5,7 @@ title: Publications
 
 **[AUP New Poets 8](https://aucklanduniversitypress.co.nz/aup-new-poets-8/)** (Auckland University Press)
 
-Find reviews for AUP New Poets 8 **[here](https://lilyholloway.co.nz/books)**
+Find reviews for AUP New Poets 8 **[here](/books)**
 
 **[Poetry Shelf celebrates new books: AUP New Poets 8](https://nzpoetryshelf.com/2021/10/05/poetry-shelf-celebrates-new-books-aup-new-poets-8/)** 
 
@@ -28,7 +28,7 @@ pony
 
 **Turbine | Kapohau**
  2022
-**[I am my mother's double. I am my mother's fetch.](http://turbinekapohau.org.nz/2022-contents-poetry-lily-holloway/)**
+**[I am my mother's double. I am my mother's fetch.](https://turbinekapohau.org.nz/archive-issues/2022-contents/poetry-lily-holloway/)**
 
 **HAD**
  2022
@@ -83,8 +83,8 @@ Shortlisted in the Monash Undergraduate Prize for Creative Writing
 ## **Editorial Work**
 Editor-in-Chief for **[Salt Hill](https://salthilljournal.net/)**
 Founding Editor for **[eel mag](https://eelmag.com)**
-Assistant Editor for **[a fine line](https://poetrysociety.org.nz/poems-reviews/a-fine-line-quarterly-magazine/)** 2021–22
-Executive Editor for **[Interesting Journal](https://www.interestingjournal.com/who-we-are)** 2021
+Assistant Editor for **[a fine line](https://www.poetrysociety.org.nz/afl-home/)** 2021–22
+Executive Editor for **[Interesting Journal](https://natlib.govt.nz/records/35363151?search%5Bi%5D%5Bsubject_text%5D=English+literature+--+Periodicals&search%5Bil%5D%5Bcentury%5D=2000&search%5Bpath%5D=items)** 2021
 Participant in The Suburban Review's Emerging Editors Workshop 2021
 
 ---

@@ -14,7 +14,7 @@ title: AUP New Poets 8
 >
 > In their early twenties, Holloway writes like someone beyond their years. A lot of the work inspects and reflects on temporality, on what it means to rewind or return or repeat."
 
-— [review by Jordan Hamel for Landfall](https://landfallreview.com/the-timeline-is-elusive/)
+— [review by Jordan Hamel for Landfall](https://landfallreview.com/the-timeline-is-elusive/#:~:text=at%20her%20disposal.-,AUP%20New%20Poets%208,-offers%20up%20another)
 
 > Holloway's "selection, 'a child in that alcove,' really showcases her versatility and ambition as a writer, with really thorny, evocative lines and images that stay with you."
 >
@@ -24,7 +24,7 @@ title: AUP New Poets 8
 
 > Holloway's "aural and linguistic deftness, the sweet measure of surprise, the variegated forms, the connecting undercurrents, the honey, the bitterness. Her poems run on the rewarding premise that poems don't need the full explanation, that tactile detail and deft juxtapositions can unmask love, desire, razor edges, self-exposure. Pocket narratives are equally sublime."
 
-— [review by Paula Green for Kete Books](https://www.ketebooks.co.nz/all-book-reviews/review-aup-new-poets-8-poetry-t28d5-jx5jk)
+— [review by Paula Green for Kete Books](https://www.ketebooks.co.nz/en/reviews/review-aup-new-poets-8-poetry-t28d5-jx5jk)
 
 > "Three poets, three distinctive voices sampling on a wide – perhaps endless – continuum of topoi and technique. After all, 'There is no end to possible meanings' (from Holloway's *Is any of this relevant?* pp. 17–19)."
 
@@ -36,7 +36,7 @@ title: AUP New Poets 8
 
 > "Holloway brings moments from her daily life and expresses them to her readers. Her poetry is filled with excitement, with dread, with questions and with memories of people from her life. [...] Her writing touched my soul and left me with joy but also a missing tooth."
 
-— [review by Stuti Patel (fifteen years old!) for Read NZ](https://hookedonbooks.org.nz/astonishing-and-fresh-expression-stuti-patel/)
+— [review by Stuti Patel (fifteen years old!) for Read NZ](https://web.archive.org/web/20221003115716/https://hookedonbooks.org.nz/astonishing-and-fresh-expression-stuti-patel/)
 
 > Holloway "uses a variety of styles: erasures, tabular material, wide variation in spacing. Each poem stands separate, using visual and verbal effects to make her points, but the variation itself holds the individual pieces together."
 
