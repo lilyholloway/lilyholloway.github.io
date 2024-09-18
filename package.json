@@ -28,7 +28,7 @@
     "@swc/helpers": "^0.5.12",
     "data-uri-to-buffer": "^6.0.2",
     "gray-matter": "^4.0.3",
-    "next": "^14.2.5",
+    "next": "^14.2.12",
     "next-seo": "^5.15.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
