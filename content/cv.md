@@ -12,19 +12,20 @@ Find reviews for AUP New Poets 8 **[here](/books)**
 ---
 ## **Selected Fiction**
 **Griffith Review**
- Forthcoming
- LOAD
+2025
+**[LOAD](https://www.griffithreview.com/articles/load/)**
 
  **Sundog Lit**
- Forthcoming
- POOR BEAST
+2025
+**[POOR BEAST](https://sundoglit.com/lily-holloway/)**
 
 ---
 ## **Selected Poems**
 
 **Black Warrior Review**
-Forthcoming
+2025
 pony
+**[I may soon love](http://bwr.ua.edu/special-online-feature-i-may-soon-love-by-lily-holloway-2024-poetry-contest-runner-up/)**
 
 **Turbine | Kapohau**
  2022
@@ -58,8 +59,13 @@ The Pantograph Punch, The Spinoff, Salty Mag, Newsroom
 
 ---
 ## **Awards**
+2025
+Joyce Carol Oates Award in Poetry (Best Group of Poems by a Graduate Student at Syracuse University)
+Joyce Carol Oates Award in Fiction (Best Short Story by a Graduate Student at Syracuse University)
+
 2024
 Winner of the Griffith Review Emerging Voices competition
+Second Place in the Black Warrior Review Poetry Competition
 
 2022
 YWCA Aotearoa Y25 Award (25 Under 25 Listing)
